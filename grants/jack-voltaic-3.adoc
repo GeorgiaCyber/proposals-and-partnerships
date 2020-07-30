@@ -1,0 +1,87 @@
+= Securing Critical Infrastructure in the Near, Medium, and Long Term
+Chris Apsey <capsey@augusta.edu>
+:!toc:
+
+One of the great ironies in systems security is the fact that the most critical components that make day-to-day life possible across the world are also some of the most poorly designed and defended.
+
+This is due to a myriad of reasons, but can generally be boiled down to:
+
+* Vendors must provide functionality first to stay in business and security comes as an afterthought, if considered at all
+* Manufacturers and developers do not invest time in trying to understand what new tools, techniques, and research results are available that can contribute to the security posture of their systems
+* Lack of available technical personnel with required skillsets, exacerbated by an incredibly high barrier to entry for new personnel looking to become experts in this space
+* Unwillingness of vendors and manufacturers to provide systems insight due to fear of bad publicity
+* General lack of urgency due to incorrect perception that high-profile 'hacks' (Sony, Atlanta, Equifax) that drive news cycles are more deserving of attention than critical infrastructure issues
+
+The reality is that while the 'hacks' that can be read about in the news are unfortunate,
+they are generally fiscal inconveniences for the affected rather than life-or-death events.
+This proposal seeks to make critical infrastructure a first-class citizen in the realm of cyber security and to help ensure that we never have to find out what happens when a determined adversary launches a serious attack against global infrastructure.
+
+== Near Term
+
+The vast majority of security researchers (those who make a living off of finding bugs/vulnerabilities either as an independent consultant or as a member of an internal team) focus on traditional, i386/amd64 ISA, enterprise IT platforms as targets for their work.
+The reasons for this are obvious - the systems are ubiquitous, existing research is plentiful and widely accessible,
+supported symbolic execution and fuzzing tools are abundant, and you can get started as a new learner for a few hundred dollars.
+
+Critical infrastructure is not any of these things.
+They run on esoteric architectures (arm, ppc, power, mips, sparc, cris, blackfin, etc.) that are poorly documented (if at all),
+were designed by companies who have since gone out of business,
+are extraordinarily expensive to acquire,
+and typically require several NDAs to even get a look at any relevant source or engineering resources if you can manage to find an original manufacturer at all.
+Even the generally healthy and well supported https://wiki.qemu.org/Documentation/Platforms[qemu] project that can emulate some of these systems can be painful to use.
+These ISAs in the qemu project receive an order of magnitude less development attention than i386/amd64 and can be extremely difficult to configure correctly,
+making one of the most potentially useful tools in a security researchers toolbelt significantly less useful.
+Additionally, no cloud infrastructures natively support orchestration using qemu when the host ISA doesn't match the guest ISA,
+making techniques like distributed fuzzing significantly more difficult.
+
+The Georgia Cyber Center proposes the following actions to address these short-term challenges:
+
+. Ensure that libvirt no longer assumes that the host ISA = the guest ISA and will intelligently choose the qemu binary based on the reported architecture of a given image by submitting upstream contributions to
+qemu,
+https://libvirt.org/[libvirt],
+https://docs.openstack.org/nova/latest/[nova],
+https://docs.openstack.org/glance/latest/[glance],
+and https://katacontainers.io/[kata].
+. Create an open, standardized API that will allow the creation of simple drivers to connect critical infrastructure systems to cloud platforms to simplify analysis by making upstream contributions to
+https://docs.openstack.org/cyborg/latest/[cyborg].
+This includes the use of FPGAs in order to further enhance assessments where applicable.
+. Ensure that proprietary communications protocols used in critical infrastructure can be transparently encapsulated in and transported by the traditional tcp/ip networking stack without modification by making upstream contributions to
+https://docs.openstack.org/neutron/latest/[neutron],
+https://www.openvswitch.org/[ovs],
+and https://www.ovn.org/en/[ovn].
+. Ensure that researchers are able to successfully take advantage of the previous improvements and have access to simple, performant, and quickly deployable test environments by making contributions to
+https://docs.openstack.org/devstack/latest/[devstack].
+
+Investing in these areas will allow the creation of fully-featured, emulated environments where one can re-create nearly any critical infrastructure system with all of its native idiosyncrasies so that
+the various operating systems, networking implementations, middleware, and software can be properly analyzed in a holistic manner.
+
+== Medium Term
+
+The Georgia Cyber Center is currently working on a first-of-its-kind program that would connect security researchers around the world directly to critical infrastructure systems provided by manufacturers.
+Under the guise of this program, the Georgia Cyber Center would vet potential security experts and connect them to proprietary systems provided by manufacturers for use in a bug-bounty program that would take place entirely on the Georgia Cyber Range at no cost to the researchers.
+Participants in this program would include municipalities, manufacturers, vendors, resellers, state governments, and more.
+The goal would be to normalize the penetration testing of critical infrastructure and make it functionally indistinguishable from traditional bug bounty programs.
+Providing researchers with the improved tooling from the short-term proposal plan would yield significantly improved outcomes, and help build the trust relationship between the security community and critical systems manufacturers that is necessary for the execution of the long-term phase of this proposal.
+
+== Long Term
+
+Giving researchers better tooling and encouraging manufacturers to be more open with their security programs will help resolve some of the most pressing issues in critical infrastructure security, but there is still a significant barrier to entry for people who wish to learn more about these important topics.
+To that end, the Georgia Cyber Center proposes the following plan to address critical systems security over the long term:
+
+. Create beginner and intermediate courses in critical systems security using https://ieeexplore.ieee.org/document/8658928[courseware-as-code] best practices.
+These courses would be written entirely in a markup language and freely distributed on GitHub and other popular version control systems.
+These courses would also include preconfigured tooling for various practical exercises,
+benefitting directly from the investments made during the near-term phase of the proposal.
+. Work with the Georgia Department of Education to include improved computer science and electrical engineering curriculum, specifically focused on the core skills needed to be successful in this space
+. Document and disseminate the accomplishments on the work done during the near and medium phases of the proposal to report on successes (and challenges) and encourage other states and agencies to be active in this space
+
+== End State
+
+After the completion of the proposed activities, we would measure success by assessing:
+
+. How many private, for-profit companies used our investments in upstream development to create commercial offerings due to the improved tooling and lower barrier to entry
+. How many critical system manufacturers participated in our critical infrastructure bug bounty program
+. How many times our published critical systems security courseware was cloned, forked, or downloaded
+. The size and number of payouts from critical systems manufacturers to researchers relative to the severity of the vulnerability discovered
+. The number of security researcher participants in the critical systems bug bounty as observed over the life of the program
+. How many of the 16 critical infrastructure sectors participated/are represented in the program
+. Other metrics as determined by ACI

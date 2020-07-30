@@ -1,0 +1,40 @@
+= A Proposed Partnership between Parsons Corporation and the Georgia Cyber Center
+Chris Apsey <capsey@augusta.edu>
+:!toc:
+
+A common feature of modern technical systems is internet connectivity.
+This connectivity has its pros and cons from a security perspective,
+but one of the most significant advantages is the ability for that system to be assessed under the guise of a formal bug bounty program.
+
+These bug bounty programs invite the general public to ethically assess and test systems for potential security holes,
+and then responsibly disclose them to the system owner in exchange for compensation.
+This mechanism yields significant financial, public relations, and product resiliency advantages to the participants at nominal relative cost.
+
+The industrial control systems that power water and gas distribution, electric generation, airports, seaports, traffic control systems,
+dam controls, and other critical infrastructure are generally not connected to the internet, and thus typically cannot partake in such programs.
+This proposal seeks to bridge that gap and allow Parsons Corporation and the general public to reap then benefits of more secure and resilient infrastructure.
+
+== Executive Summary
+
+There are numerous reasons for the lack of widespread, organized, and meaningful activity in this space to-date, but they can generally be boiled down into one of four categories:
+
+. Lack of available technical personnel with required skillsets
+. Unwillingness of vendor/manufacturer to provide systems insight due to fear of bad publicity
+. Lack of stakeholder understanding and buy-in, typically due to incorrect resultant risk calculations that are driven by legacy risk models that don't account for new realities
+. Inability of those who understand the above issues to effectively communicate with decision-makers in meaningful terms that are tied directly to organizational scope and mission
+
+This partnership seeks to remedy the above by:
+
+. Enabling those who are not physically present in the region to participate in the program by publicly hosting non-production replicas of the control systems with dummy data
+. Encourage the development of trust with vendors and manufacturers by framing this program not as a way to point out their flaws,
+but to make their products functionally better give the manufacturers a powerful corporate responsibility talking point,
+as well as provide product differentiation and a mechanism to reduce insurance premiums by demonstrably offering a higher quality product than the competition
+. Generate reliable data on the impacts of participation in bug bounty programs on product safety and resilience
+. Focus on how each participant in this partnership will benefit from a successful program as it relates to their core mission, rather than on specific technical details.
+
+To those ends, we propose a program where the Georgia Cyber Center facilitates a bug bounty program that will closely examine the software, firmware,
+and hardware produced by Parsons Corporation that is used in critical infrastructure around the world.
+This program would allow Parsons Corporation to provide copies of their products for assessment by security researchers,
+who would then assess them and report findings back to Parsons Corporation in an ethical manner.
+
+A successful program would end with a joint statement outlining the vulnerabilities that were found and subsequently fixed, along with any plans for a permanent iteration of the program.

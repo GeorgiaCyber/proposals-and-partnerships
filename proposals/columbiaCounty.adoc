@@ -1,0 +1,142 @@
+= A Proposed Partnership between Columbia County, GA and the Georgia Cyber Center
+Chris Apsey <capsey@augusta.edu>
+
+A common feature of modern technical systems is internet connectivity.
+This connectivity has its pros and cons from a security perspective,
+but one of the most significant advantages is the ability for that system to be assessed under the guise of a formal bug bounty program.
+
+These bug bounty programs invite the general public to ethically assess and test systems for potential security holes,
+and then responsibly disclose them to the system owner in exchange for compensation.
+This mechanism yields significant financial, public relations, and product resiliency advantages to the participants at nominal relative cost.
+
+The industrial control systems that power water and gas distribution, electric generation, airports, seaports, traffic control systems, dam controls, and other critical infrastructure are generally not connected to the internet, and thus cannot partake in such programs.
+This proposal seeks to bridge that gap and allow manufacturers, municipalities, and the general public to reap then benefits of more secure and resilient infrastructure.
+
+== Executive Summary
+
+There are numerous reasons for the lack of widespread, organized, and meaningful activity in this space to-date, but they can generally be boiled down into one of four categories:
+
+. Lack of available technical personnel with required skillsets
+. Unwillingness of vendor/manufacturer to provide systems insight due to fear of bad publicity
+. Lack of stakeholder understanding and buy-in generally due to incorrect resultant risk calculations based on risk models that have not been updated to reflect new realities
+. Inability of those who understand the above issues to effectively communicate with decision-makers in meaningful terms that are tied directly to organizational scope and mission
+
+This proposal seeks to remedy the above by:
+
+. Enabling those who are not physically present in the region to participate in the program by publicly hosting non-production replicas of the control systems with dummy data
+. Encourage the development of trust with vendors and manufacturers by framing this program not as a way to point out their flaws, but to make their products functionally better give the manufacturers a powerful corporate responsibility talking point
+. Provide data on the impacts of participation in bug bounty programs on product safety and resilience in programs of similar size
+. Focus on how each participant in this partnership will benefit from a successful program as it relates to their core mission, rather than on specific technical details.
+
+To those ends, we propose a program where the Georgia Cyber Center facilitates a bug bounty program that will closely examine the software, firmware, and hardware associated with the Columbia County water utility and traffic engineering division.
+This program would allow the Columbia County's vendors to provide copies of their products for assessment by security researchers.
+It may also provide physical access to production systems by vetted personnel if allowable/not a safety concern.
+
+A successful program would end with a joint statement outlining the vulnerabilities that were found and subsequently fixed, along with any plans for a permanent iteration of the program.
+
+== Software Testing
+
+The most straightforward part of the partnership would be making software available.
+This software could be hosted on the Georgia Cyber Range and vetted researchers would be given direct access to it.
+Source code could be made available given applicable non-disclosure agreements in order for researchers to not only find deeper and more esoteric bugs, but also potentially provide fixes as well as commentary on the overall health of the codebase.
+
+Columbia County would participate by:
+
+* Giving context to security researchers about how particular pieces of software are used and implemented, along with the versions that are in production.
+* Providing resident expertise on the operational functionality of the software, along with any bugs or bizarre behavior that they experience that may indicate security issues
+
+The Georgia Cyber Center would participate by:
+
+* Being the liaison between researchers and the software itself
+* Provide compute, storage, and networking capabilities to researchers so they may do their work without needing to leverage personal resources
+This would include distributed fuzzing capabilities as well as the ability to use plugins such as https://github.com/panda-re/panda[panda].
+Platforms that support alternative architectures can also be made available as needed.
+* Provide pre-configured testing environments and tooling (although researchers may customize as they see fit)
+* In conjunction with the manufacturers, vet potential researchers prior to the granting of access.
+
+Manufacturers and Vendors would participate by:
+
+* Providing precompiled binaries as well as applicable source code along with relevant documentation
+* Providing controlled access to software developers in order to validate/fix and identified bugs as well as answer technical questions from the researchers
+
+== Firmware Testing
+
+Slightly more complicated than standalone software testing is firmware testing.
+While firmware can generally be dumped from a given piece of hardware, it loses important context when it stands alone and makes a security assessment more difficult.
+That said, firmware assessments independent of the associated hardware are still an important component of assessing a system and is necessary and valuable.
+
+Columbia County would participate by:
+
+* Giving researchers insight into how they update firmware on their various devices (frequency, process, etc.)
+
+The Georgia Cyber Center would participate by:
+
+* Being the liaison between researchers and the firmware itself
+* Provide compute, storage, and networking capabilities to researchers so they may do their work without needing to leverage personal resources
+* In conjunction with the manufacturers, vet potential researchers prior to the granting of access.
+
+Manufacturers and Vendors would participate by:
+
+* Providing firmware images as well as applicable source code along with relevant documentation
+* Providing controlled access to software developers in order to validate/fix and identified bugs as well as answer technical questions from the researchers
+
+== Hardware Testing
+
+By far the most challenging component of any security testing program that involves control systems is assessing the hardware itself.
+It is generally heavy, expensive, and requires significant amounts of electricity.
+
+However, there are still several strategies that can make this crucial component successful:
+
+* Making a representation of the hardware available via FPGAs, or similar technologies
+* Breaking a large piece of hardware into smaller components that can be assessed independently
+* Connecting a remote copy of a piece of hardware to the researchers environment via a private tunnel
+
+Each piece of hardware is different, so specific strategies for connecting researchers to these devices will be left for later discussions.
+In general, each organizations responsibilities for this phase will be as follows:
+
+Columbia County would participate by:
+
+* Giving researchers insight into how each piece of hardware interacts with their whole system along with any 'off label' functionality that they utilize.
+
+The Georgia Cyber Center would participate by:
+
+* Being the liaison between researchers and the hardware itself
+* Provide compute, storage, and networking capabilities to researchers so they may do their work without needing to leverage personal resources
+* In conjunction with the manufacturers, vet potential researchers prior to the granting of access.
+* Work with manufacturers to determine the best way to connect researchers to hardware.
+This may include:
+. Developing software that encapsulates proprietary communications protocols into IP-compatible transport where necessary
+. Developing rules of engagement with respect to the hardware.
+Close interaction with the engineers who built the hardware to ensure that researchers know what actions will brick a given device as well as what could be potentially unsafe is crucial.
+. Assisting manufacturers with capturing hardware logic in software in order to maximize distribution
+
+Manufacturers and Vendors would participate by:
+
+* Providing hardware, copies of hardware, or other representations of hardware as applicable
+* Providing all relevant schematics and documentation of aforementioned hardware
+* Providing controlled access to engineering in order to validate/fix and identified bugs as well as answer technical questions from the researchers
+
+== Implementation Testing
+
+This phase will focus on the specific implementation of the aforementioned systems as related to Columbia County.
+This phase would incorporate findings from the previous tests and focus on the nuances of a real-world deployment.
+
+It would capture:
+
+* Site-specific misconfigurations
+* Outdated software and firmware
+* Insecure management processes
+* Other software/firmware/hardware bugs not captured during the previous three phases.
+
+As this would potentially involved production systems, significant care and coordination would be required between all involved parties.
+No actions would be taken on a production system without input and concurrence from all stakeholders.
+
+== Program Completion
+
+After the completion of implementation testing, all discovered bugs would be remediated by their respective vendors and manufacturers.
+After the bugs were fixed and updated firmware and software was distributed to customers, Columbia County, The Georgia Cyber Center, and the respective manufacturers would make a joint statement that:
+
+* Outlines all discovered bugs and their resolutions with full technical detail
+* Credits individual researchers with their contributions to the program
+* Quantitatively and qualitatively calculates the impact of the program on the citizens of Georgia (as well as other municipalities that benefitted from the updated software and firmware)
+* Describes any future iterations of the program
