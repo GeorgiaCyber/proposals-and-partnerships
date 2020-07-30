@@ -1,0 +1,29 @@
+= The Utility of the Georgia Cyber Center in the Context of Canadian Electrical Utilities
+Chris Apsey <capsey@augusta.edu>
+:!toc:
+
+include::../templates/crit_infrastructure_intro.adoc[]
+
+== How the Georgia Cyber Center Can Help
+
+Recently, the Georgia Cyber Center was awarded a grant from the Army Cyber Institute focused on improving the tooling that is available to security researchers interested in critical infrastructure.
+While the funds have not yet been expended, the Georgia Cyber Center plans to invest directly in improving the quality and utility of freely available software that is useful when working on critical infrastructure security.
+These investments in open-source projects will immediately be re-incorporated into the Georgia Cyber Range, giving it an even greater set of unique capabilities directly focused on enabling research against critical infrastructure components,
+specifically in the realm of natively supporting the alternative architectures and proprietary protocols/hardware that the systems rely on, giving security researchers a highly productive, low-risk environment in which to ply their trade.
+
+=== Bug Bounties
+
+include::../templates/crit_infrastructure_bug_bounty_intro.adoc[]
+
+To those ends, the Georgia Cyber Center is in the midst of creating a unique bug bounty program that will closely examine the software, firmware, and hardware associated with various critical infrastructure systems.
+This program will allow the various manufacturers and vendors associated with a given critical infrastructure system to provide copies of their products for assessment by security researchers who are pre-vetted by the Georgia Cyber Center.
+Researchers will be able to use the Georgia Cyber Range at no cost to examine the vendor-provided critical infrastructure components.
+If the researchers find a vulnerability, the respective manufacturer will pay a bounty commensurate with the value of the vulnerability and the Georgia Cyber Center will receive a percentage-based commission in order to continue running the program.
+
+A successful iteration of the program would end with a joint statement outlining the vulnerabilities that were found and subsequently fixed, along with total payout amounts to encourage more researchers to take part in future iterations of the program.
+
+=== Education
+
+In addition to running a bounty program, the Georgia Cyber Center is committed to creating freely available educational materials (to include practical exercises) focused on numerous cybersecurity topics.
+As the skills required to be successful in cyberspace are so rare, the Georgia Cyber Center firmly believes that financial inability to access high-quality Computer Science or Electrical Engineering education should not be a barrier to those who desire to learn more about the very important topics.
+The Georgia Cyber Center regularly publishes public educational content on GitHub, but is also able to create bespoke, funded content if a specific need arises.

@@ -1,5 +1,0 @@
-= The Utility of the Georgia Cyber Range in the Context of Canadian Electrical Utilities
-Chris Apsey <capsey@augusta.edu>
-:!toc:
-
-include::../templates/crit_infrastructure_intro.adoc[]

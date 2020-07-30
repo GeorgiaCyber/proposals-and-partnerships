@@ -2,19 +2,7 @@
 Chris Apsey <capsey@augusta.edu>
 :!toc:
 
-One of the great ironies in systems security is the fact that the most critical components that make day-to-day life possible across the world are also some of the most poorly designed and defended.
-
-This is due to a myriad of reasons, but can generally be boiled down to:
-
-* Vendors must provide functionality first to stay in business and security comes as an afterthought, if considered at all
-* Manufacturers and developers do not invest time in trying to understand what new tools, techniques, and research results are available that can contribute to the security posture of their systems
-* Lack of available technical personnel with required skillsets, exacerbated by an incredibly high barrier to entry for new personnel looking to become experts in this space
-* Unwillingness of vendors and manufacturers to provide systems insight due to fear of bad publicity
-* General lack of urgency due to incorrect perception that high-profile 'hacks' (Sony, Atlanta, Equifax) that drive news cycles are more deserving of attention than critical infrastructure issues
-
-The reality is that while the 'hacks' that can be read about in the news are unfortunate,
-they are generally fiscal inconveniences for the affected rather than life-or-death events.
-This proposal seeks to make critical infrastructure a first-class citizen in the realm of cyber security and to help ensure that we never have to find out what happens when a determined adversary launches a serious attack against global infrastructure.
+include::../templates/crit_infrastructure_intro.adoc[]
 
 == Near Term
 
