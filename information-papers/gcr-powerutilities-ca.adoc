@@ -1,4 +1,4 @@
-= The Utility of the Georgia Cyber Center in the Context of Canadian Electrical Utilities
+= The Efficacy of the Georgia Cyber Center in the Context of Canadian Utility Cybersecurity
 Chris Apsey <capsey@augusta.edu>
 :!toc:
 
@@ -19,11 +19,12 @@ To those ends, the Georgia Cyber Center is in the midst of creating a unique bug
 This program will allow the various manufacturers and vendors associated with a given critical infrastructure system to provide copies of their products for assessment by security researchers who are pre-vetted by the Georgia Cyber Center.
 Researchers will be able to use the Georgia Cyber Range at no cost to examine the vendor-provided critical infrastructure components.
 If the researchers find a vulnerability, the respective manufacturer will pay a bounty commensurate with the value of the vulnerability and the Georgia Cyber Center will receive a percentage-based commission in order to continue running the program.
+Alternatively, manufacturers can participate in the program via a fixed per device fee on top of any bounties that are paid out.
 
 A successful iteration of the program would end with a joint statement outlining the vulnerabilities that were found and subsequently fixed, along with total payout amounts to encourage more researchers to take part in future iterations of the program.
 
 === Education
 
 In addition to running a bounty program, the Georgia Cyber Center is committed to creating freely available educational materials (to include practical exercises) focused on numerous cybersecurity topics.
-As the skills required to be successful in cyberspace are so rare, the Georgia Cyber Center firmly believes that financial inability to access high-quality Computer Science or Electrical Engineering education should not be a barrier to those who desire to learn more about the very important topics.
+As the skills required to be successful in cyberspace are so rare, the Georgia Cyber Center firmly believes that financial inability to access high-quality Computer Science or Electrical Engineering education should not be a barrier to those who desire to learn more about these very important topics.
 The Georgia Cyber Center regularly publishes public educational content on GitHub, but is also able to create bespoke, funded content if a specific need arises.
