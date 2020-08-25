@@ -1,0 +1,18 @@
+= Making OpenStack the Premier Security Research Platform
+Chris Apsey <capsey@augusta.edu>
+
+include::../templates/crit_infrastructure_intro.adoc[]
+
+To that end, the Georgia Cyber Center was recently awarded a grant from the Army Cyber Institute focused on simplifying and improving critical infrastructure security research at scale, namely:
+
+. Allowing compute nodes of one ISA run workloads designed for other ISAs in emulation-only mode
+. Improving nova so that nova respects the hw_archtecture tag in glance images and schedules it appropriately
+. Improving nova so that it doesn't run a workload for a certain ISA in emulation-only mode when the appropriate kvm extentions are available
+
+By making these simple upstream changes using contract developers, we can allow any OpenStack deployment to conduct large-scale security research on esoteric architectures in a way that is simply not possible with any other cloud system.
+All other cloud infrastructures (AWS, GCP, Azure, and their on-prem derivatives) can only run non-native workloads using nested virtualization, which significantly increases fleet management overhead and makes using native, familiar tooling impossible.
+OpenStack, on the other hand, would 'just work'.
+
+If this grant effort yields positive results, we intend to pursue further development efforts focused on critical infrastructure security research, specifically in the areas of networking/protocol encapsulation, FPGAs, containerization, and more.
+
+Our hope is that these upstream changes will be accepted and integrated into commercial products such as Red Hat OpenStack Platform so that they may receive commercially-backed maintenance support.
