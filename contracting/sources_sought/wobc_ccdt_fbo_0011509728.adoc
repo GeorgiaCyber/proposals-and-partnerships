@@ -8,7 +8,7 @@ Chris Apsey <capsey@augusta.edu>
 
 . Is the Government open to suggestions from offerers on how to improve the student in experience, via alternate delivery methods, content improvements/adjustments, changes to instructor qualifications, and other related items?
 
-. The Government lists many topics in the proposed PWS, but the exact expectations about the meaning of each topic is not defined.  For example, what is the difference between 'introductory C programming' and 'intermediate C programming'?  More granularity and example topics within each category would be helpful in scoping and identifying the correct talent.
+. The Government lists many educational categories in the proposed PWS, but the exact expectations about the meaning of each category is not defined.  For example, what is the difference between 'introductory C programming' and 'intermediate C programming'?  More granularity and example topics within each category would be helpful in scoping and identifying the correct talent.
 
 . Has the Government considered explicitly stating that data rights will be permissively licensed?  We would not be interested in retaining exclusive data rights to the content, but rather interested in a partnership where all content created by the effort would have a permissive license (such as Apache 2.0) so the content may be re-used as appropriate.  If the Government would need an initial lock-up period (of, say, 6 months) and PAO approval, we would be open to that scenario as long as the Government agreed that application of a permissive license and public release was guaranteed at some point during the effort.
 
@@ -17,4 +17,16 @@ Chris Apsey <capsey@augusta.edu>
 . What is the Government's position on remote teaching for some portion of the course?  Has the Government considered the difficulty of attracting the requisite talent to the area?  It might be wise for the Government to loosen the locality requirement for some part(s) of the effort to encourage higher-quality applicants, which will then improve the reputation of the region, and make future relocation efforts more easily accomplished.
 
 . Has the Government considered maintaining/writing the course material in a markup language such as Asciidoc?  If not, would the Government be open to supporting a conversion effort to abide by the courseware-as-code model? (Rodriguez, Apsey, Rees, Boudreau, Raileanu; 2018)
+
+. Approximately how many CFTEs does the Government anticipate on requiring?
+
+. What is the expected ratio of instruction time vs. content development time that a CFTE would undertake?
+
+. Per the PRS, the COR will be reviewing lesson plans and training materials.  How will this review be conducted?  Is the Government open to investing in automated testing and review of course content using qualitative and quantitative metrics?
+
+. Does the Government have a preference for a single offeror, or a collection of a prime contractor with various sub-contractors?
+
+. Has the Government considered awarding this contract as time and materials rather than firm fixed price, particularly if the Government anticipates significant changes to requirements during the lifetime of the effort?
+
+. Does the Government anticipate conducting this effort as Lowest Priced Technically Acceptable or Best Value?
 
