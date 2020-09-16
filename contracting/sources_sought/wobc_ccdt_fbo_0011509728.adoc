@@ -1,7 +1,7 @@
 = FBO 0011509728 (Cyberspace Capabilities Developer Technician) Sources Sought Questions
 Chris Apsey <capsey@augusta.edu>
 :!toc:
-:pdf-theme: gcc-theme-dark
+:pdf-theme: gcc-theme-dark.yml
 
 . Does the Government already have the curriculum for WOBC written?  If so, does the Government find this curriculum satisfactory?  Are there going to be changes to the content beyond general maintenance (spelling errors, etc.)?  If so, what is the scope of these changes?
 
