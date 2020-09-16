@@ -13,7 +13,7 @@ Chris Apsey <capsey@augusta.edu>
 
 . Has the Government considered explicitly stating that data rights will be permissively licensed?  We would not be interested in retaining exclusive data rights to the content, but rather interested in a partnership where all content created by the effort would have a permissive license (such as Apache 2.0) so the content may be re-used as appropriate.  If the Government would need an initial lock-up period (of, say, 6 months) and PAO approval, we would be open to that scenario as long as the Government agreed that application of a permissive license and public release was guaranteed at some point during the effort.
 
-. Has the Govnerment considered accepting outside contributions to this course from individuals not associated with this contract effort, nor who are employed by the Government?  More specifically, is the Government interested in working with the State of Georgia on using the CCDT course materials to release a freely-available Cyber Course that can be taken by anyone, at any time.  There is significant demand for improved educational opportunities for rural areas, and a Cyber Course that can be taken remotely and that has accompanying 'virtual instructors' via pre-recorded video presents an attractive opportunity, both for the Government in the form of out-of-band learning for students, and for the State as a way to empower impoverished communities.
+. Has the Government considered accepting outside contributions to this course from individuals not associated with this contract effort, nor who are employed by the Government?  More specifically, is the Government interested in working with the State of Georgia on using the CCDT course materials to release a freely-available Cyber Course that can be taken by anyone, at any time.  There is significant demand for improved educational opportunities for rural areas, and a Cyber Course that can be taken remotely and that has accompanying 'virtual instructors' via pre-recorded video presents an attractive opportunity, both for the Government in the form of out-of-band learning for students, and for the State as a way to empower impoverished communities.
 
 . What is the Government's position on remote teaching for some portion of the course?  Has the Government considered the difficulty of attracting the requisite talent to the area?  It might be wise for the Government to loosen the locality requirement for some part(s) of the effort to encourage higher-quality applicants, which will then improve the reputation of the region, and make future relocation efforts more easily accomplished.
 
@@ -25,7 +25,7 @@ Chris Apsey <capsey@augusta.edu>
 
 . Per the PRS, the COR will be reviewing lesson plans and training materials.  How will this review be conducted?  Is the Government open to investing in automated testing and review of course content using qualitative and quantitative metrics?
 
-. Does the Government have a preference for a single offeror, or a collection of a prime contractor with various sub-contractors?
+. Does the Government have a preference for a single offeror or a prime contractor with various sub-contractors?
 
 . Has the Government considered awarding this contract as time and materials rather than firm fixed price, particularly if the Government anticipates significant changes to requirements during the lifetime of the effort?
 
