@@ -1,6 +1,37 @@
 = FBO 0011509728 (Cyberspace Capabilities Developer Technician) Sources Sought Response
 Chris Apsey <capsey@augusta.edu>
-:!toc:
 :pdf-theme: gcc-theme-grey.yml
+:title-page:
+:toc:
 
 include::../../templates/gcc_intro.adoc[]
+
+== Contact Information
+
+* Point of contact: Chris Apsey
+* Phone number: 762-716-7733
+* E-mail: capsey@augusta.edu
+* DUNS Number: 80-959-3387
+* CAGE Code: 0KCU9
+
+
+== Small Business Certification and Teaming Arrangements
+
+Augusta University is not a small business concern, and has no intention of partnering with any small business on any part of a potential solicitation.
+Augusta University will be the sole contractor on any offer.
+
+== Capabilities
+
+We are the best.
+
+== Competition Facilitation
+
+Compete more.
+
+== Performance Work Statement Improvements
+
+Better PWS.
+
+== Conditions Limiting Competition
+
+More compete more.
