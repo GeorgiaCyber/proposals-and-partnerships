@@ -2,8 +2,19 @@
 Chris Apsey <capsey@augusta.edu>
 :!toc:
 
-. Question 1
+. Does the Government already have the curriculum for WOBC written?  If so, does the Government find this curriculum satisfactory?  Are there going to be changes to the content beyond general maintenance (spelling errors, etc.)?  If so, what is the scope of these changes?
 
-. Question 2
+. If the Government does not have the curriculum already written, or is open to have the curriculum updated/modified/improved in a signficant way, does the Government currently have a 'list' of items that they would like to see improved or added?  If so, is the Government willing/able to share such a list?
 
-. Question 3
+. Is the Government open to suggestions from offerers on how to improve the student in experience, via alternate delivery methods, content improvements/adjustments, changes to instructor qualifications, and other related items?
+
+. The Government lists many topics in the proposed PWS, but the exact expectations about the meaning of each topic is not defined.  For example, what is the difference between 'introductory C programming' and 'intermediate C programming'?  More granularity and example topics within each category would be helpful in scoping and identifying the correct talent.
+
+. Has the Government considered explicitly stating that data rights will be permissively licensed?  We would not be interested in retaining exclusive data rights to the content, but rather interested in a partnership where all content created by the effort would have a permissive license (such as Apache 2.0) so the content may be re-used as appropriate.  If the Government would need an initial lock-up period (of, say, 6 months) and PAO approval, we would be open to that scenario as long as the Government agreed that application of a permissive license and public release was guaranteed at some point during the effort.
+
+. Has the Govnerment considered accepting outside contributions to this course from individuals not associated with this contract effort, nor who are employed by the Government?  More specifically, is the Government interested in working with the State of Georgia on using the CCDT course materials to release a freely-available Cyber Course that can be taken by anyone, at any time.  There is significant demand for improved educational opportunities for rural areas, and a Cyber Course that can be taken remotely and that has accompanying 'virtual instructors' via pre-recorded video presents an attractive opportunity, both for the Government in the form of out-of-band learning for students, and for the State as a way to empower impoverished communities.
+
+. What is the Government's position on remote teaching for some portion of the course?  Has the Government considered the difficulty of attracting the requisite talent to the area?  It might be wise for the Government to loosen the locality requirement for some part(s) of the effort to encourage higher-quality applicants, which will then improve the reputation of the region, and make future relocation efforts more easily accomplished.
+
+. Has the Government considered maintaining/writing the course material in a markup language such as Asciidoc?  If not, would the Government be open to supporting a conversion effort to abide by the courseware-as-code model? (Rodriguez, Apsey, Rees, Boudreau, Raileanu; 2018)
+
