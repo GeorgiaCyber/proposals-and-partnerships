@@ -3,4 +3,4 @@ Chris Apsey <capsey@augusta.edu>
 :!toc:
 :pdf-theme: gcc-theme-grey.yml
 
-include::../../../templates/gcc_intro.adoc[]
+include::../../templates/gcc_intro.adoc[]
