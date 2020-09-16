@@ -14,6 +14,8 @@ include::../../templates/gcc_intro.adoc[]
 * DUNS Number: 80-959-3387
 * CAGE Code: 0KCU9
 
+<<<
+
 == Small Business Certification and Teaming Arrangements
 
 Augusta University is not a small business concern, and has no intention of partnering with any small business on any part of a potential solicitation.
