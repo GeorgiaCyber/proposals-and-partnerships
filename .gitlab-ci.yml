@@ -1,0 +1,18 @@
+stages:
+  - Build
+    
+build:
+  stage: Build
+  image: asciidoctor/docker-asciidoctor:latest
+  tags:
+    - docker
+  script: |
+    apk --update add grep
+    mkdir themes
+    curl https://gitlab.com/gacybercenter/theming/-/archive/master/theming-master.zip?path=resources/themes --output ./themes/theme.zip
+    unzip ./themes/theme.zip -d ./themes/
+    grep -lR ':pdf-theme:' ./* | while read i; do asciidoctor-pdf -a pdf-themesdir=./themes/theming-master-resources-themes/resources/themes/ -a pdf-theme="./$(grep ':pdf-theme:' $i | awk '{print $2}').yml" ${i}; done
+    rm -rf ./themes
+  artifacts:
+    untracked: True
+    expire_in: 2 weeks
