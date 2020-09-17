@@ -1,6 +1,3 @@
-[submodule "themes"]
-  path = themes
-  url = https://gitlab.com/gacybercenter/theming.git
 [submodule "theming"]
 	path = theming
 	url = https://gitlab.com/gacybercenter/theming.git
