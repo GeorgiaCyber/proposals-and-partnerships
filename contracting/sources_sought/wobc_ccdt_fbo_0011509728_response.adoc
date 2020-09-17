@@ -1,6 +1,6 @@
 = FBO 0011509728 (Cyberspace Capabilities Developer Technician) Sources Sought Response
 Chris Apsey <capsey@augusta.edu>
-:pdf-theme: gcc-theme-grey.yml
+:pdf-theme: gcc-dark
 :title-page:
 :toc:
 
