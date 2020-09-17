@@ -1,7 +1,7 @@
 = FBO 0011509728 (Cyberspace Capabilities Developer Technician) Sources Sought Questions
 Chris Apsey <capsey@augusta.edu>
 :!toc:
-:pdf-theme: gcc-theme-grey.yml
+:pdf-theme: gcc-grey
 
 . Does the Government already have the curriculum for WOBC written?  If so, does the Government find this curriculum satisfactory?  Are there going to be changes to the content beyond general maintenance (spelling errors, etc.)?  If so, what is the scope of these changes?
 
@@ -30,4 +30,3 @@ Chris Apsey <capsey@augusta.edu>
 . Has the Government considered awarding this contract as time and materials rather than firm fixed price, particularly if the Government anticipates significant changes to requirements during the lifetime of the effort?
 
 . Does the Government anticipate conducting this effort as Lowest Priced Technically Acceptable or Best Value?
-
