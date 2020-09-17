@@ -11,8 +11,7 @@ build:
     - docker
   script: |
     apk --update add grep
-    grep -lR ':pdf-theme:' ./* | while read i; do asciidoctor-pdf -a pdf-themesdir=./themes/resources/themes/ ${i}; done
-    rm -rf ./themes
+    grep -lR ':pdf-theme:' ./* | while read i; do asciidoctor-pdf -a pdf-themesdir=./theming/resources/themes/ ${i}; done
   artifacts:
     untracked: True
     expire_in: 2 weeks
