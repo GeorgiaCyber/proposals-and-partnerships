@@ -1,3 +1,6 @@
+variables:
+  GIT_SUBMODULE_STRATEGY: normal
+
 stages:
   - Build
     
@@ -8,9 +11,6 @@ build:
     - docker
   script: |
     apk --update add grep
-    mkdir themes
-    curl https://gitlab.com/gacybercenter/theming/-/archive/master/theming-master.zip?path=resources/themes --output ./themes/theme.zip
-    unzip ./themes/theme.zip -d ./themes/
     grep -lR ':pdf-theme:' ./* | while read i; do asciidoctor-pdf -a pdf-themesdir=./themes/theming-master-resources-themes/resources/themes/ ${i}; done
     rm -rf ./themes
   artifacts:
