@@ -5,9 +5,9 @@ Chris Apsey <capsey@augusta.edu>
 
 . Does the Government already have the curriculum for WOBC written?  If so, does the Government find this curriculum satisfactory?  Are there going to be changes to the content beyond general maintenance (spelling errors, etc.)?  If so, what is the scope of these changes?
 
-. If the Government does not have the curriculum already written, or is open to have the curriculum updated/modified/improved in a signficant way, does the Government currently have a 'list' of items that they would like to see improved or added?  If so, is the Government willing/able to share such a list?
+. If the Government does not have the curriculum already written, or is open to have the curriculum updated/modified/improved in a significant way, does the Government currently have a 'list' of items that they would like to see improved or added?  If so, is the Government willing/able to share such a list?
 
-. Is the Government open to suggestions from offerers on how to improve the student experience, via alternate delivery methods, content improvements/adjustments, changes to instructor qualifications, and other related items?
+. Is the Government open to suggestions from offerors on how to improve the student experience, via alternate delivery methods, content improvements/adjustments, changes to instructor qualifications, and other related items?
 
 . The Government lists many educational categories in the proposed PWS, but the exact expectations about the meaning of each category is not defined.  For example, what is the difference between 'introductory C programming' and 'intermediate C programming'?  More granularity and example topics within each category would be helpful in scoping and identifying the correct talent.
 
