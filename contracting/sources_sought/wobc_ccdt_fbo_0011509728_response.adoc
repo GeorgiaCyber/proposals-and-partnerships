@@ -8,7 +8,7 @@ include::../../templates/gcc_intro.adoc[]
 
 == Contact Information
 
-* Point of contact: Chris Apsey or Sarah Rees
+* Point of contact: Chris Apsey/Sarah Rees
 * Phone number: 762-716-7733/706-550-4193
 * E-mail: capsey@augusta.edu/srees@augusta.edu
 * DUNS Number: 80-959-3387
