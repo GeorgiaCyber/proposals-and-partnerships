@@ -23,19 +23,20 @@ Augusta University will be the sole contractor on any offer, but will use intern
 
 == Capabilities
 
-- State-Wide Capabilities
+=== State-Wide Capabilities
+
 The Georgia Cyber Center operates as a non-academic department within Augusta University; as a department within a public institution of higher learning, the center is able to establish exclusive teaming agreements with other organizations with the University System of Georgia. 
 
-The University System of Georgia (USG) is the government agency that includes 26 public institutions of higher learning in the U.S. state of Georgia.  The USG currently supports 34 unique Computer Science programs, across 16 University’s. Utilizing staff and teaming agreements across a robust, state-wide University systems allows for the ability to meet the customer’s needs using a robust, state-wide talent pool.
+- The University System of Georgia (USG) is the government agency that includes 26 public institutions of higher learning in the U.S. state of Georgia.  The USG currently supports 34 unique Computer Science programs, across 16 University’s. Utilizing staff and teaming agreements across a robust, state-wide University systems allows for the ability to meet the customer’s needs using a robust, state-wide talent pool.
 
 
-- Staffing Availablity
-
-Staffing within the School for Computer and Cyber Science, at Augusta University included seventeen full Ph.D’s, among a number of other qualified professional instructors and associate professors.
+=== Staffing Availablity
 
 All of the areas (as listed in the PWS) to be covered in the training curriculum are currently being taught across numerous USG institutions as a part of their CS or related degree programming. Furthermore, for advanced technical topics such as x86 Assembly Programming, Data Structures and Algorithms, or Discrete Math, University tenured professors and associate professors have a proven ability to educate based on reliable and appropriate learning pedagogies. 
 
-Demonstrated experience as independent agents in the classroom, and highly competent with learning management platforms and tools, assessments and exam management and scheduling make USG-based instructors best-suited to deliver a superior experience to the target students.
+- Staffing within the School for Computer and Cyber Science, at Augusta University included seventeen full Ph.D’s, among a number of other qualified professional instructors and associate professors.
+
+- Demonstrated experience as independent agents in the classroom, and highly competent with learning management platforms and tools, assessments and exam management and scheduling make USG-based instructors best-suited to deliver a superior experience to the target students.
 
 
 == Competition Facilitation
