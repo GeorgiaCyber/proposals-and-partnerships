@@ -1,0 +1,37 @@
+= Potential Skillbridge Opportunities at the Georgia Cyber Center
+Chris Apsey <capsey@augusta.edu>
+:toc:
+:pdf-theme: gcc-blue
+
+include::../templates/gcc_intro.adoc[]
+
+== Georgia Cyber Range (Internships)
+
+include::../templates/gcr_intro.adoc[]
+
+There are numerous internship opportunities for computer scientists, electrical engineers, mathematicians, cryptologists, and more.
+The MOS's and AOCs most likely to provide the requisite skills and interests that align with this opportunity are in the 17-series (Cyberspace Operations).
+
+Qualified servicemembers can expect to spend the majority of their time working alongside other talented developers on the Georgia Cyber Range.
+Some of the languages/frameworks/DSLs used in the Georgia Cyber Range include:
+
+* python
+* salt/jinja
+* C
+* javascript/css/html
+
+Potential applicants should have functional knowledge in one or more of these areas, as they will be actively contributing to the upstream, open-source projects that power the Georgia Cyber Range and their contributions will become a permanent fixture in the respective project(s).
+Once the work of the servicemember has been accepted into upstream, the Georgia Cyber Range will pull down the improvements and they will become an official part of the suite of capabilities offered by the Georgia Cyber Range.
+
+In addition to traditional programming opportunities, there are opportunities for working on distributed systems optimization, specifically relating to the usage and implementation of algorithms such as Paxos, RAFT, CRUSH, and others.
+
+There are also software defined networking opportunities (such as pushing a layer 3 topology all the way to the host as an underlay network) available as well.
+
+=== Interviews
+
+Servicemembers who successfully complete the program will be granted an interview with one of X partners located at the Georgia Cyber Center.
+This interview will be for a position that directly relates to the work they performed during their internship.
+
+== Cyber Workforce Academy (Certifications and Training)
+
+WFA writeup
