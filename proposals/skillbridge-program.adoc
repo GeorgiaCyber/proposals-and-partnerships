@@ -1,6 +1,7 @@
 = Potential Skillbridge Opportunities at the Georgia Cyber Center
 Chris Apsey <capsey@augusta.edu>
 :toc:
+:title-page:
 :pdf-theme: gcc-blue
 
 include::../templates/gcc_intro.adoc[]
