@@ -2,7 +2,7 @@
 Chris Apsey <capsey@augusta.edu>
 :toc:
 :title-page:
-:pdf-theme: gcc-blue
+:pdf-theme: ca-blue
 
 include::../templates/gcc_intro.adoc[]
 
