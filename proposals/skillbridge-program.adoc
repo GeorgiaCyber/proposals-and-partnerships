@@ -35,4 +35,106 @@ This interview will be for a position that directly relates to the work they per
 
 == Cyber Workforce Academy (Certifications and Training)
 
-WFA writeup
+Overview
+The Cyber Workforce Academy provides cybersecurity training, awareness and outreach to learners at all levels.
+Providing relevant and affordable training to current information technology and cybersecurity professionals.
+
+In collaboration with the Fort Gordon SFL-Tap, under the Career Skill Program, the Workforce Academy developed different tracks for transitioning service members to develop, enhance, and acquire skills in the cybersecurity industry. With any chosen track, service members will received customized, top-of-the line, industry training that leads to certifications along with industry field exposure to widen future career opportunity.
+
+=== Program Tracks
+
+==== Beginner
+This track is designed for service members that have no training/experience in the IT/Cybersecurity field.
+Upon completion, service members will have all the knowledge to obtain the following certifications:
+*	A+ The starting point certification for a career in IT. The performance-based exams certify foundational IT skills across a variety of devices and operating systems.
+*	Networking + Industry credential that certifies the essential skills needed to confidently design, configure, manage and troubleshoot any wired and wireless device.
+*	Security + Industry recognized certification that provides a global benchmark for best practices in IT network and operational security.
+
+While training for certifications, service members will be able to practice their learned skills by completing an industry field experience in the areas of IT or Cybersecurity.
+Duration of the program is 6 months (8-week, self-paced course for each certification).
+
+*Application process*
+
+*	Application form
+*	Resume/CV
+*	Enlisted/Officer Record Brief (ORB/ERB)
+*	Last evaluation (OER/NCOER)
+
+*Eligibility*
+
+*	Within 180 days of separation
+*	Honorable or general discharge
+*	Some computer/IT/Cybersecurity skills preferred but not necessary
+
+*Soldier Expense*
+
+*	Training bundle price:  $2,297
+*	A+ Training is priced at $899
+*	Network+ and Security+ training is priced at $699
+
+NOTE: Service member can utilize Credential Assistance, Tuition Assistance, or VA benefits to cover the training costs.
+
+==== Intermediate
+
+===== Network Engineer Track
+This track is for service members that have some experience in the IT/Cybersecurity field (MOS: 25S, 25U, 25Q, 25M).
+Upon completion, service members will have all the tools to become certified Network Engineers.
+
+*	Networking + Industry credential that certifies the essential skills needed to confidently design, configure, manage and troubleshoot any wired and wireless device.
+*	CCNA CISCO Certification that validates skills and knowledge in network fundamentals, network access, IP connectivity, IP services, security fundamentals, and automation and programmability.
+
+While obtaining certifications, (Net+ 8 weeks, CCNA 16 weeks), service members will be able to practice their skills with industry partners to obtain both classroom and field knowledge.
+
+*Application process*
+
+*	Application form
+*	Resume/CV
+*	Enlisted/Officer Record Brief (ORB/ERB)
+*	Last evaluation (OER/NCOER)
+
+*Eligibility*
+
+*	Within 180 days of separation
+*	Honorable or general discharge
+*	Some computer/IT/Cybersecurity skills preferred
+
+*Soldier Expense*
+
+*	Training bundle price: $6,999
+*	Network+ training is priced at $699
+*	Cisco CCNA training is priced at $6,300
+
+NOTE: Service member can utilize Credential Assistance, Tuition Assistance, or VA benefits to cover the training costs.
+
+===== Security Operations Center (SOC) Track
+This track is designed for intermediate IT/Cybersecurity professionals that seek to pursue a career in a security operations center (SOC) or something related to cyber security operations.
+This track is best for service members that have moderate experience/training to include service members in the signal Corp. (MOS: 25N, 25B, 25S, 25T, 25P, 25Z) or in the Cyber units.
+Upon training, service members will be prepared to obtain:
+
+*	Networking + Industry credential that certifies the essential skills needed to confidently design, configure, manage and troubleshoot any wired and wireless device.
+*	Security + Industry recognized certification that provides a global benchmark for best practices in IT network and operational security.
+*	Cyber OPS The CISCO certified CyberOps certification prepares candidates to begin a career working with associate level cybersecurity analysts within security operations centers.
+
+The course is completed within 6 months (each course is 8 weeks) and field experience in AU SOC or Cyber Range to obtain both classroom and hands-on experience.
+
+*Application process*
+
+*	Application form
+*	Resume/CV
+*	Enlisted/Officer Record Brief (ORB/ERB)
+*	Last evaluation (OER/NCOER)
+
+*Eligibility*
+
+*	Within 180 days of separation
+*	Honorable or general discharge
+*	Some computer/IT/Cybersecurity/Signal MOS’s preferred
+
+*Soldier Expense*
+
+*	Training bundle price: Total cost $3,593
+*	Network+ and Security+ training is priced at $699
+*	Cisco CyberOps training is priced at $2,195
+*	All training packages include exam vouchers and training material.
+
+NOTE: Service member can utilize Credential Assistance, Tuition Assistance, or VA benefits to cover the training costs.
