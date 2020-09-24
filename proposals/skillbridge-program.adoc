@@ -35,17 +35,18 @@ This interview will be for a position that directly relates to the work they per
 
 == Cyber Workforce Academy (Certifications and Training)
 
-Overview
 The Cyber Workforce Academy provides cybersecurity training, awareness and outreach to learners at all levels.
 Providing relevant and affordable training to current information technology and cybersecurity professionals.
 
-In collaboration with the Fort Gordon SFL-Tap, under the Career Skill Program, the Workforce Academy developed different tracks for transitioning service members to develop, enhance, and acquire skills in the cybersecurity industry. With any chosen track, service members will received customized, top-of-the line, industry training that leads to certifications along with industry field exposure to widen future career opportunity.
+In collaboration with the Fort Gordon SFL-Tap, under the Career Skill Program, the Workforce Academy developed different tracks for transitioning service members to develop, enhance, and acquire skills in the cybersecurity industry.
+With any chosen track, service members will received customized, top-of-the line, industry training that leads to certifications along with industry field exposure to widen future career opportunity.
 
 === Program Tracks
 
 ==== Beginner
 This track is designed for service members that have no training/experience in the IT/Cybersecurity field.
 Upon completion, service members will have all the knowledge to obtain the following certifications:
+
 *	A+ The starting point certification for a career in IT. The performance-based exams certify foundational IT skills across a variety of devices and operating systems.
 *	Networking + Industry credential that certifies the essential skills needed to confidently design, configure, manage and troubleshoot any wired and wireless device.
 *	Security + Industry recognized certification that provides a global benchmark for best practices in IT network and operational security.
