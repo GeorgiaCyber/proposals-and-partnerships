@@ -13,10 +13,8 @@ build:
     find ./ -name "*.adoc" | while read i; do asciidoctor --failure-level WARN -v --trace --timings \
     -r asciidoctor-pdf -r asciidoctor-revealjs \
     -a pdf-themesdir=./theming/resources/themes/ \
-    -a customcss=./theming/resources/reveal/css/gcc_custom.css \
+    -a customcss=https://gitlab.com/gacybercenter/theming/-/raw/master/resources/reveal/css/gcc_custom.css \
     -a revealjsdir=https://cdn.jsdelivr.net/npm/reveal.js@3.9.2 ${i}; done
   artifacts:
     untracked: True
-    paths:
-      - ./theming/resources/reveal/css/gcc_custom.css
     expire_in: 2 weeks
