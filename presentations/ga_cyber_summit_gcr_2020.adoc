@@ -1,10 +1,28 @@
 = Georgia Cyber Summit 2020
 :backend: revealjs
 
-== Foo
+== What is a Cyber Range?
 
-* Bar
+* Computers
+* Activities
+* Things
 
-== Bar
+== A Brief History
 
-* Baz
+* Army
+* Open-Source
+* GCC Stewardship
+
+== Why we are different
+
+* Embedded Systems
+* Not replicating things that everyone else already does
+
+== Current Efforts
+
+* ACI Grant
+
+== The Future
+
+* Rural Efforts
+* Other things
