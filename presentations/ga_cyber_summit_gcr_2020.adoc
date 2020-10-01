@@ -41,6 +41,7 @@ notes here
 == Current Efforts
 
 * ACI Grant
+* Some other thing
 
 [.notes]
 --
