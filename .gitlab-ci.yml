@@ -17,4 +17,6 @@ build:
     -a revealjsdir=https://cdn.jsdelivr.net/npm/reveal.js@3.9.2 ${i}; done
   artifacts:
     untracked: True
+    paths:
+      - ./theming/resources/reveal/css/gcc_custom.css
     expire_in: 2 weeks
