@@ -1,6 +1,7 @@
 = Internship Opportunities at the Georgia Cyber Range
 Chris Apsey <capsey@augusta.edu>
 :!toc:
+:backend: pdf
 :pdf-theme: gcc-blue
 
 include::../templates/gcr_intro.adoc[]

@@ -1,6 +1,7 @@
 = Securing Critical Infrastructure in the Near, Medium, and Long Term
 Chris Apsey <capsey@augusta.edu>
 :!toc:
+:backend: pdf
 
 include::../templates/crit_infrastructure_intro.adoc[]
 

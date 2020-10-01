@@ -1,5 +1,6 @@
 = Making OpenStack the Premier Security Research Platform
 Chris Apsey <capsey@augusta.edu>
+:backend: pdf
 
 include::../templates/crit_infrastructure_intro.adoc[]
 

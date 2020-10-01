@@ -1,6 +1,7 @@
 = A Proposed Partnership between Parsons Corporation and the Georgia Cyber Center
 Chris Apsey <capsey@augusta.edu>
 :!toc:
+:backend: pdf
 
 A common feature of modern technical systems is internet connectivity.
 This connectivity has its pros and cons from a security perspective,

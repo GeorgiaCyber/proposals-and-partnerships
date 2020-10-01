@@ -1,6 +1,7 @@
 = 5G Initiatives at Augusta University
 Chris Apsey <capsey@augusta.edu>;Rob Dennis <ndennis@augusta.edu>
 :!toc:
+:backend: pdf
 :pdf-theme: gcc-blue
 
 Some general intro text here.

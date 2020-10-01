@@ -1,6 +1,5 @@
 = Georgia Cyber Summit 2020
 :backend: revealjs
-:revealjsdir: https://cdn.jsdelivr.net/npm/reveal.js
 
 == Foo
 

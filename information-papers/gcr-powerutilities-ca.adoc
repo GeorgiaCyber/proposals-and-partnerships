@@ -1,6 +1,7 @@
 = The Efficacy of the Georgia Cyber Center in the Context of Canadian Utility Cybersecurity
 Chris Apsey <capsey@augusta.edu>
 :!toc:
+:backend: pdf
 
 include::../templates/crit_infrastructure_intro.adoc[]
 
