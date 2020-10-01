@@ -10,7 +10,7 @@ build:
   tags:
     - docker
   script: |
-    find ./ -name "*.adoc" | while read i; do asciidoctor --failure-level WARN -v --trace -r asciidoctor-pdf -r asciidoctor-revealjs -a pdf-themesdir=./theming/resources/themes/ -a revealjsdir=https://cdn.jsdelivr.net/npm/reveal.js@4.0.2 ${i}; done
+    find ./ -name "*.adoc" | while read i; do asciidoctor --failure-level WARN -v --trace --timings -r asciidoctor-pdf -r asciidoctor-revealjs -a pdf-themesdir=./theming/resources/themes/ -a revealjsdir=https://cdn.jsdelivr.net/npm/reveal.js@4.0.2 ${i}; done
   artifacts:
     untracked: True
     expire_in: 2 weeks
