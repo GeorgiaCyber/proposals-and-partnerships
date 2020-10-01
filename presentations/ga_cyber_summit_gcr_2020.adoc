@@ -1,5 +1,8 @@
 = Georgia Cyber Summit 2020
 :backend: revealjs
+:imagesdir: https://gitlab.com/gacybercenter/theming/-/raw/master/resources/images/
+:title-slide-background-image: gcc_grey_title_bg.svg
+:revealjs_theme: black
 
 == What is a Cyber Range?
 
@@ -11,6 +14,8 @@
 --
 notes here
 --
+
+image::gcc_black_bg.svg[background, size=100%]
 
 == A Brief History
 
@@ -24,9 +29,13 @@ notes here
 notes here
 --
 
+image::gcc_black_bg.svg[background, size=100%]
+
 === History Subslide
 
 * Stuff
+
+image::gcc_black_bg.svg[background, size=100%]
 
 == Why we are different
 
@@ -38,6 +47,8 @@ notes here
 notes here
 --
 
+image::gcc_black_bg.svg[background, size=100%]
+
 == Current Efforts
 
 * ACI Grant
@@ -48,6 +59,8 @@ notes here
 notes here
 --
 
+image::gcc_black_bg.svg[background, size=100%]
+
 == The Future
 
 * Rural Efforts
@@ -57,3 +70,5 @@ notes here
 --
 notes here
 --
+
+image::gcc_black_bg.svg[background, size=100%]
