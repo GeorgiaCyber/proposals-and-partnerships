@@ -12,7 +12,7 @@ build:
   script: |
     apk --update add grep
     grep -lR ':pdf-theme:' ./* | while read i; do asciidoctor-pdf -a pdf-themesdir=./theming/resources/themes/ ${i}; done
-    grep -lR ':style: presentation' ./* | while read i; do npx asciidoctor-revealjs ${i}; done    
+    grep -lR ':style: presentation' ./* | while read i; do asciidoctor-revealjs ${i}; done    
   artifacts:
     untracked: True
     expire_in: 2 weeks
