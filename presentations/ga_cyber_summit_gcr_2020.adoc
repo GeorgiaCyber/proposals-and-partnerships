@@ -7,22 +7,52 @@
 * Activities
 * Things
 
+[.notes]
+--
+notes here
+--
+
 == A Brief History
 
+[%step]
 * Army
 * Open-Source
 * GCC Stewardship
+
+[.notes]
+--
+notes here
+--
+
+=== History Subslide
+
+* Stuff
 
 == Why we are different
 
 * Embedded Systems
 * Not replicating things that everyone else already does
 
+[.notes]
+--
+notes here
+--
+
 == Current Efforts
 
 * ACI Grant
+
+[.notes]
+--
+notes here
+--
 
 == The Future
 
 * Rural Efforts
 * Other things
+
+[.notes]
+--
+notes here
+--
