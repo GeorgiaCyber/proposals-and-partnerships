@@ -1,5 +1,5 @@
 = Georgia Cyber Summit 2020
-
+Chris Apsey <capsey@augusta.edu>
 :backend: revealjs
 :imagesdir: https://gitlab.com/gacybercenter/theming/-/raw/master/resources/images/
 :title-slide-background-image: gcc_grey_title_bg.svg
@@ -9,6 +9,8 @@
 
 [%step]
 * Turing Machine
+
+.Characteristics
 * Reproducibility
 * Observability
 * Unique capabilities at scale
