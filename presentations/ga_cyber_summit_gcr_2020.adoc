@@ -9,8 +9,6 @@
 
 [%step]
 * Turing Machine
-
-.Characteristics
 * Reproducibility
 * Observability
 * Unique capabilities at scale
