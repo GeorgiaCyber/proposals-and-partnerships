@@ -8,10 +8,11 @@ Chris Apsey <capsey@augusta.edu>
 == What is a Cyber Range?
 
 [%step]
+.What it currently means
 * Turing Machine
 
 [%step]
-.Characteristics
+.What it should mean
 * Reproducibility
 * Observability
 * Unique capabilities at scale
