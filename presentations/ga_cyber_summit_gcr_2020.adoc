@@ -1,4 +1,5 @@
 = Georgia Cyber Summit 2020
+
 :backend: revealjs
 :imagesdir: https://gitlab.com/gacybercenter/theming/-/raw/master/resources/images/
 :title-slide-background-image: gcc_grey_title_bg.svg
@@ -6,18 +7,31 @@
 
 == What is a Cyber Range?
 
-* Computers
-* Activities
-* Things
+[%step]
+* Turing Machine
+
+.Characteristics
+* Reproducibility
+* Observability
+* Unique capabilities at scale
 
 [.notes]
 --
-notes here
+* At this point, a 'Cyber Range' is anything that can process binary data.
+It has lost all meaning in the modern technical lexicon, mostly due to unscrupulous marketing of rebranded,
+already-existing products that don't offer any real additional functionality.
+
+* If you went out and bought a commercial 'cyber range' offering, you probably bought something that you already had.
+
+* 3 key differentiators for what a 'cyber range' should be:
+** Reproducibility - Every 'experiment' should be able to be independently reproduced by anyone, anywhere
+** Observability - Every 'experiment' should be able to be able to be transparently examined from start to finish
+** Unique capabilities at scale - A Cyber Range should offer significant capabilities beyond what is available in traditional IT systems at scale
 --
 
 image::gcc_black_bg.svg[background, size=100%]
 
-== A Brief History
+== A Brief History of the GCR
 
 [%step]
 * Army
