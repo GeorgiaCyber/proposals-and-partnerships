@@ -1,4 +1,4 @@
-= Georgia Cyber Summit 2020
+= The Georgia Cyber Range
 Chris Apsey <capsey@augusta.edu>
 :backend: revealjs
 :imagesdir: https://gitlab.com/gacybercenter/theming/-/raw/master/resources/images/
