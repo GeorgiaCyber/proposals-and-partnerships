@@ -12,10 +12,44 @@ Chris Apsey <capsey@augusta.edu>
 * All technology instruction is done via CTAE teacher
 * *60% of children under 18 live below poverty line*
 * Unique opportunity presented with construction of Harrison Poultry plant
+* State is interested in using Taliaferro as a pilot to 'solve' the challenge of rural technical education
 
 [.notes]
 --
 GCC, Taliaferro County School District, and Harrison Poultry company have executive level buy-in for collaborative efforts in technical space.
+--
+
+image::gcc_black_bg.svg[background, size=100%]
+
+== Proposal
+
+* GCC shepherds creation of computer science/electrical engineering-focused "content"
+** Content in this context means instructional materials, video lessons, and accompanying practical activities
+** While this specific opportunity is for K-12, work should be able to exist independently of K-12 structure and be able to stand on its own for individual learners outside of a school environment
+** *Must* be able to be ported to an offline option that provides near-equivalent experience
+* Taliaferro County helps GCC understand what their immediate requirements/needs are, which will help shape the work that the GCC does
+** Possible train-the-trainer opportunities
+* Harrison Poultry can provide an avenue for students to apply their newly learned skills in a manner that demonstrates the efficacy of what they learned
+** Copies of hardware, software, firmware, etc. present in their new plant will give students a chance to ply their new skills on a real-life system
+** Harrison can benefit by getting access to low-cost security research and improve the resiliency of their operations
+
+[.notes]
+--
+Students currently have extremely limited background in this kind of technical work, and expectations should be managed accordingly.
+GCC would not endeavor to write all of the content in-house, but would instead focus on one-off contracting solutions.
+Follow-on state funding would potentially provide an avenue for continued maintenance.
+--
+
+image::gcc_black_bg.svg[background, size=100%]
+
+== Contributions
+
+* Taliaferro County provides requirements
+* GCC provides content
+* Harrison Poultry provides targets for practical applications
+
+[.notes]
+--
 --
 
 image::gcc_black_bg.svg[background, size=100%]
