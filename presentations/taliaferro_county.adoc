@@ -25,12 +25,12 @@ image::gcc_black_bg.svg[background, size=100%]
 
 * GCC shepherds creation of computer science/electrical engineering-focused "content"
 ** Content in this context means instructional materials, video lessons, and accompanying practical activities
-** While this specific opportunity is for K-12, work should be able to exist independently of K-12 structure and be able to stand on its own for individual learners outside of a school environment
+** Work should be able to exist independently of K-12 structure and be able to stand on its own for individual learners outside of a school environment
 ** *Must* be able to be ported to an offline option that provides near-equivalent experience
-* Taliaferro County helps GCC understand what their immediate requirements/needs are, which will help shape the work that the GCC does
+* Taliaferro County helps GCC understand what their immediate requirements/needs are
 ** Possible train-the-trainer opportunities
-* Harrison Poultry can provide an avenue for students to apply their newly learned skills in a manner that demonstrates the efficacy of what they learned
-** Copies of hardware, software, firmware, etc. present in their new plant will give students a chance to ply their new skills on a real-life system
+* Harrison Poultry can provide an avenue for students to apply their newly learned skills
+** Copies of hardware, software, firmware, etc. present in their new plant
 ** Harrison can benefit by getting access to low-cost security research and improve the resiliency of their operations
 
 [.notes]
