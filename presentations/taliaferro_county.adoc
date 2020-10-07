@@ -21,12 +21,24 @@ GCC, Taliaferro County School District, and Harrison Poultry company have execut
 
 image::gcc_black_bg.svg[background, size=100%]
 
-== Proposal
+== Proposal Part 1
 
 * GCC shepherds creation of computer science/electrical engineering-focused "content"
 ** Content in this context means instructional materials, video lessons, and accompanying practical activities
 ** Work should be able to exist independently of K-12 structure and be able to stand on its own for individual learners outside of a school environment
 ** *Must* be able to be ported to an offline option that provides near-equivalent experience
+
+[.notes]
+--
+Students currently have extremely limited background in this kind of technical work, and expectations should be managed accordingly.
+GCC would not endeavor to write all of the content in-house, but would instead focus on one-off contracting solutions.
+Follow-on state funding would potentially provide an avenue for continued maintenance.
+--
+
+image::gcc_black_bg.svg[background, size=100%]
+
+== Proposal Part 2
+
 * Taliaferro County helps GCC understand what their immediate requirements/needs are
 ** Possible train-the-trainer opportunities
 * Harrison Poultry can provide an avenue for students to apply their newly learned skills
