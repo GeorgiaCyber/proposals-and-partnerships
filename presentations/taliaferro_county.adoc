@@ -1,0 +1,21 @@
+= Opportunity in Taliaferro County
+Chris Apsey <capsey@augusta.edu>
+:backend: revealjs
+:imagesdir: https://gitlab.com/gacybercenter/theming/-/raw/master/resources/images/
+:title-slide-background-image: gcc_grey_title_bg.svg
+:revealjs_theme: black
+
+== Background
+
+* Total population of ~1700
+* Taliaferro County has K-12 co-located in a single building
+* All technology instruction is done via CTAE teacher
+* *60% of children under 18 live below poverty line*
+* Unique opportunity presented with construction of Harrison Poultry plant
+
+[.notes]
+--
+GCC, Taliaferro County School District, and Harrison Poultry company have executive level buy-in for collaborative efforts in technical space.
+--
+
+image::gcc_black_bg.svg[background, size=100%]
