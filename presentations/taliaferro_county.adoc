@@ -19,7 +19,7 @@ Chris Apsey <capsey@augusta.edu>
 GCC, Taliaferro County School District, and Harrison Poultry company have executive level buy-in for collaborative efforts in technical space.
 --
 
-image::gcc_black_bg.svg[background, size=100%]
+image::gcc_black_bg.svg[background, size=cover]
 
 == Proposal
 
@@ -40,7 +40,7 @@ GCC would not endeavor to write all of the content in-house, but would instead f
 Follow-on state funding would potentially provide an avenue for continued maintenance.
 --
 
-image::gcc_black_bg.svg[background, size=100%]
+image::gcc_black_bg.svg[background, size=cover]
 
 == Contributions
 
@@ -52,4 +52,4 @@ image::gcc_black_bg.svg[background, size=100%]
 --
 --
 
-image::gcc_black_bg.svg[background, size=100%]
+image::gcc_black_bg.svg[background, size=cover]
