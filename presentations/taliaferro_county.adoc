@@ -35,7 +35,7 @@ GCC would not endeavor to write all of the content in-house, but would instead f
 Follow-on state funding would potentially provide an avenue for continued maintenance.
 --
 
-image::gcc_black_bg.svg[background, size=100%]
+image::gcc_black_bg.svg[background, size=cover]
 
 == Proposal Part 2
 
