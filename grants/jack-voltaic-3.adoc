@@ -2,6 +2,7 @@
 Chris Apsey <capsey@augusta.edu>
 :!toc:
 :backend: pdf
+:pdf-theme: gcc-grey
 
 include::../templates/crit_infrastructure_intro.adoc[]
 
