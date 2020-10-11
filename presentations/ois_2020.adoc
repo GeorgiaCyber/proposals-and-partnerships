@@ -15,13 +15,34 @@ image::gcc_black_bg.svg[background, size=100%]
 
 [.notes]
 --
+* GA-specific
+** Hartsfield-Jackson - Busiest airport in the world
+** Port of Savannah - 3d Busiest seaport in the US
+
+All of these things are powered by computers, generally with non-x86 architectures.
+ARM is around, but MIPS, SPARC, POWER, blackfin, and other undocumented ones are plentiful.
 --
 
-== A Brief History of the GCR
-image::gcc_black_bg.svg[background, size=100%]
+== Why should I care?
+image::https://www.verywellmind.com/thmb/rg799yWpY5SYaJzxUbJtE9P9U54=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4136760-article-what-is-maslows-hierarchy-of-needs-5a97179aeb97de003668392e.png[background, size=100%]
 
 [.notes]
 --
+* Abraham Maslow said so
+** Food, water, warmth, rest
+** Security, safety
+
+One of the great ironies in systems security is the fact that the most critical components that make day-to-day life possible across the world are also some of the most poorly designed and defended.
+
+This is due to a myriad of reasons, but can generally be boiled down to:
+
+* Vendors must provide functionality first to stay in business and security comes as an afterthought, if considered at all
+* Manufacturers and developers do not invest time in trying to understand what new tools, techniques, and research results are available that can contribute to the security posture of their systems
+* Lack of available technical personnel with required skillsets, exacerbated by an incredibly high barrier to entry for new personnel looking to become experts in this space
+* Unwillingness of vendors and manufacturers to provide systems insight due to fear of bad publicity
+* General lack of urgency due to incorrect perception that high-profile 'hacks' (Sony, Atlanta, Equifax) that drive news cycles are more deserving of attention than critical infrastructure issues
+
+The reality is that while the 'hacks' that can be read about in the news are unfortunate, they are generally fiscal inconveniences for the affected rather than life-or-death events.
 --
 
 == Why we are different
