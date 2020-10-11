@@ -89,6 +89,7 @@ image::gcc_black_bg.svg[background, size=100%]
 [%step]
 * Published curriculum focused on getting people in to OT security research
 * More contributions to OpenStack...
+* We're hiring! <capsey@augusta.edu>
 
 [.notes]
 --
