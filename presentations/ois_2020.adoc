@@ -24,7 +24,7 @@ ARM is around, but MIPS, SPARC, POWER, blackfin, and other undocumented ones are
 --
 
 == Why should I care?
-image::https://www.verywellmind.com/thmb/rg799yWpY5SYaJzxUbJtE9P9U54=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/4136760-article-what-is-maslows-hierarchy-of-needs-5a97179aeb97de003668392e.png[background, size=100%]
+image::https://gitlab.com/gacybercenter/proposals-and-partnerships/raw/master/resources/images/maslows_hierarchy.png[background, size=100%]
 
 [.notes]
 --
