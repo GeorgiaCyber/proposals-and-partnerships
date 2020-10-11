@@ -23,6 +23,7 @@ All of these things are powered by computers, generally with non-x86 architectur
 ARM is around, but MIPS, SPARC, POWER, blackfin, and other undocumented ones are plentiful.
 --
 
+[%notitle]
 == Why should I care?
 image::https://gitlab.com/gacybercenter/proposals-and-partnerships/raw/master/resources/images/maslows_hierarchy.png[background, size=100%]
 
