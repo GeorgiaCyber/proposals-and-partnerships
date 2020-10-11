@@ -45,22 +45,50 @@ This is due to a myriad of reasons, but can generally be boiled down to:
 The reality is that while the 'hacks' that can be read about in the news are unfortunate, they are generally fiscal inconveniences for the affected rather than life-or-death events.
 --
 
-== Why we are different
+== What can we do about it?
 image::gcc_black_bg.svg[background, size=100%]
+
+[%step]
+* Make it easier for researchers to investigate these types of systems
+** Improve multi-arch support in OpenStack (to include pure emulation)
+** Add support for other protocols to neutron (e.g. modbus)
+** Write cyborg drivers
+* Encourage manufacturers to be more open
+* Connect researchers to manufacturers
 
 [.notes]
 --
+A common feature of modern technical systems is internet connectivity.
+This connectivity has its pros and cons from a security perspective,
+but one of the most significant advantages is the ability for that system to be assessed under the guise of a formal bug bounty program.
+
+These bug bounty programs invite the general public to ethically assess and test systems for potential security holes,
+and then responsibly disclose them to the system owner in exchange for compensation.
+This mechanism yields significant financial, public relations, and product resiliency advantages to the participants at nominal relative cost.
+
+The industrial control systems that power water and gas distribution, electric generation, airports, seaports, traffic control systems, dam controls, and other critical infrastructure are generally not connected to the internet, and thus cannot partake in such programs.
+This Georgia Cyber Center seeks to bridge that gap and allow manufacturers, municipalities, and the general public to reap then benefits of more secure and resilient infrastructure.
 --
 
 == Current Efforts
 image::gcc_black_bg.svg[background, size=100%]
 
+[%step]
+* Army Cyber Institute Grant
+* Bug bounty program
+
 [.notes]
 --
+ACI grant feature to be included in Wallaby (fingers crossed)
+Bug bounty program to be operational in CY21
 --
 
-== The Future
+== Future Efforts
 image::gcc_black_bg.svg[background, size=100%]
+
+[%step]
+* Published curriculum focused on getting people in to OT security research
+* More contributions to OpenStack...
 
 [.notes]
 --
