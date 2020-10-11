@@ -1,0 +1,46 @@
+= Operational Technology and OpenStack, a love story
+Chris Apsey <capsey@augusta.edu>
+:backend: revealjs
+:imagesdir: https://gitlab.com/gacybercenter/theming/-/raw/master/resources/images/
+:title-slide-background-image: gcc_grey_title_bg.svg
+:revealjs_theme: black
+
+== What is Operational Technology?
+image::gcc_black_bg.svg[background, size=100%]
+
+[%step]
+* Planes
+* Trains
+* Automobiles
+
+[.notes]
+--
+--
+
+== A Brief History of the GCR
+image::gcc_black_bg.svg[background, size=100%]
+
+[.notes]
+--
+--
+
+== Why we are different
+image::gcc_black_bg.svg[background, size=100%]
+
+[.notes]
+--
+--
+
+== Current Efforts
+image::gcc_black_bg.svg[background, size=100%]
+
+[.notes]
+--
+--
+
+== The Future
+image::gcc_black_bg.svg[background, size=100%]
+
+[.notes]
+--
+--
