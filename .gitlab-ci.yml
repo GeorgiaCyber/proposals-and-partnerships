@@ -18,5 +18,5 @@ build:
   artifacts:
     untracked: True
     paths:
-      - ./theming/resources/reveal/css/gcc_dark.css
+      - ./theming/resources/css/gcc_dark.css
     expire_in: 2 weeks
