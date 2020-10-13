@@ -10,4 +10,4 @@ This is due to a myriad of reasons, but can generally be boiled down to:
 
 The reality is that while the 'hacks' that can be read about in the news are unfortunate,
 they are generally fiscal inconveniences for the affected rather than life-or-death events.
-The Georgia Cyber Center seeks to make critical infrastructure a first-class citizen in the realm of cyber security and to help ensure that we never have to find out what happens when a determined adversary launches a serious attack against global infrastructure.
+The Georgia Cyber Center seeks to make critical infrastructure a first-class citizen in the realm of cyber security and to help ensure that we never have to find out what happens when a determined adversary launches a serious attack against global infrastructure. 
