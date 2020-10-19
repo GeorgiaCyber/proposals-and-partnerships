@@ -1,0 +1,7 @@
+The Georgia Cyber Range is a computing environment hosted at the Georgia Cyber Center.
+It is meant to provide a platform for education, training, research, demonstrations, development and more.
+The platform is built entirely from open-source components and is designed to enable going far beyond capturing traditional enterprise IT cybersecurity topics and delve deeply into the world of operational technology.
+
+Operational technology can be considered to be all computing systems that are not part of the traditional enterprise computing environment such as desktops, laptops, and items hosted in datacenters.
+Instead, operational technology encompasses the systems that make daily life possible such as the control systems in use at power plants, airports, refineries, seaports, factories, civil engineering projects, and more.
+By focusing on operational technology cybersecurity instead of the oversaturated field of information technology cybersecurity, the Georgia Cyber Range offers a unique set of capabilities that are not readily available anywhere else.
