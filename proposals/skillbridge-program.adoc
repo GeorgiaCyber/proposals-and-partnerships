@@ -93,7 +93,7 @@ Completion of the beginner track provides service members with the knowledge to 
 
 *   CompTIA A+ +
     _The starting point certification for a career in IT. The performance-based exams certify foundational IT skills across a variety of devices and operating systems._
-*   CompTIA Networking+ +
+*   CompTIA Network+ +
     _Industry credential that certifies the essential skills needed to confidently design, configure, manage, and troubleshoot any wired and wireless device._
 *   CompTIA Security+ +
     _Industry recognized certification that provides a global benchmark for best practices in IT network and operational security._
