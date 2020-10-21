@@ -14,8 +14,6 @@ include::../templates/gcr_intro.adoc[]
 
 Internship opportunities are available for many career alignments to include: computer scientists, electrical engineers, mathematicians, cryptologists, and more.
 Requisite skills and interests are closely aligned with 17-series(Cyberspace Operations) MOS's and AOC's
-// There are numerous internship opportunities for computer scientists, electrical engineers, mathematicians, cryptologists, and more.
-// The MOS's and AOCs most likely to provide the requisite skills and interests that align with this opportunity are in the 17-series (Cyberspace Operations).
 
 Qualified service members can expect to spend the majority of their time working alongside talented developers on the Georgia Cyber Range.
 The languages/frameworks/DSLs used in the Georgia Cyber Range include:
@@ -27,25 +25,20 @@ The languages/frameworks/DSLs used in the Georgia Cyber Range include:
 
 Functional knowledge in one or more languages/key areas specified is a requirement for applicants. Service member's active contributions are pushed to upstream open-source projects that power the Georgia Cyber Range. The contributions will become a permanent fixture in the respective project(s).
 The work of service members, if accepted upstream, will be pulled down and improve the suite of capabilities offered by the Georgia Cyber Range.
-// Potential applicants should have functional knowledge in one or more of these areas, as they will be actively contributing to the upstream, open-source projects that power the Georgia Cyber Range, and their contributions will become a permanent fixture in the respective project(s).
-// Once the work of the service member has been accepted into upstream, the Georgia Cyber Range will pull down the improvements and they will become an official part of the suite of capabilities offered by the Georgia Cyber Range.
 
 In addition to traditional programming, service members are provided unique opportunities to work with specific technologies that include:
 
 * Distributed system optimization related to the implementation and tuning of census algorithms (Paxos, RAFT, CRUSH, and others).
 * Software-defined networking pushing layer 3 topologies to hosts as an underlay network.
-// In addition to traditional programming opportunities, there are opportunities for working on distributed systems optimization, specifically relating to the usage and implementation of algorithms such as Paxos, RAFT, CRUSH, and others.
 
 ==== Interviews
 
 Service members that complete a program are granted an interview with one of the partners located at the Georgia Cyber Center. The interview directly relates to the work performed during the internship.
-// Service members who complete the program will be granted an interview with one of the partners located at the Georgia Cyber Center.
-// This interview will be for a position that directly relates to the work they performed during their internship.
 
 === Executive Director Shadow Program
 The Executive Director Shadow Program is specifically designed to provide senior service members with executive leadership experience in a complex and dynamic organization outside of their normal military experience.  The unique ecosystem of the Georgia Cyber Center provides senior service members with an opportunity to interact directly and routinely with local, state, and federal government, academia, and private sector entities that are focused on cyber operations and cybersecurity.  In addition to gaining exposure to senior leaders in both the public and private sector, service members will gain specific experience in Business Development, Program Management, Grants Management, Innovation Management, Organizational Strategy, and Organizational Leadership.
 
-*Positions Available:*
+*Types of positions:*
 
 *   Program Manager
 *   Business Development Managers
@@ -54,11 +47,11 @@ The Executive Director Shadow Program is specifically designed to provide senior
 *   Director of Innovation
 *   Chief of Staff
 
-=== AU Cybersecurity Operations Center 
+=== Augusta University Cybersecurity Operations Center 
 
-In October 2020, the new AU Cybersecurity Operations Center (CSOC) will open in the Georgia Cyber Center (GCC).  The mission of the CSOC is to protect both the Augusta University and Augusta University Health System networks and systems, providing monitoring, security solutions, incident response, threat hunting, and Governance/Risk/Compliance (GRC) services.  Plans include providing SOC-as-a-Service to outside entities as the CSOC services mature.  Additionally, to ensure that Augusta University faculty and students can utilize innovative technology to improve the learning experience both onsite and at a distance, the AU Division of Information Technology operates an Audio/Visual System Engineering team that designs, installs, and commissions state of the art technology enhancements in classrooms and meeting spaces per ANSI/AVIXA standards.
+In October 2020, the new Augusta University Cybersecurity Operations Center will open in the Georgia Cyber Center.  The mission of the Cybersecurity Operations Center is to protect both the Augusta University and Augusta University Health System networks and systems, providing monitoring, security solutions, incident response, threat hunting, and Governance/Risk/Compliance (GRC) services.  Plans include providing SOC-as-a-Service to outside entities as the Cybersecurity Operations Center services mature.  Additionally, to ensure that Augusta University faculty and students can utilize innovative technology to improve the learning experience both onsite and at a distance, the Augusta University Division of Information Technology operates an Audio/Visual System Engineering team that designs, installs, and commissions state of the art technology enhancements in classrooms and meeting spaces per ANSI/AVIXA standards.
 
-*Positions Available:*
+*Types of positions:*
 
 *   SOC (Cyber Defense) Analyst
 *   Cyber Security Engineers
@@ -74,22 +67,16 @@ In October 2020, the new AU Cybersecurity Operations Center (CSOC) will open in 
 === Cyber Workforce Academy
 
 The Cyber Workforce Academy focuses on cybersecurity training, awareness, and outreach to learners at all levels providing relevant and affordable training to information technology and cybersecurity professionals.
-// The Cyber Workforce Academy provides cybersecurity training, awareness, and outreach to learners at all levels.
-// Providing relevant and affordable training for current information technology and cybersecurity professionals.
 
 In collaboration with the Fort Gordon SFL-Tap, under the Career Skill Program, the Workforce Academy created several tracks for transitioning service members to develop, enhance, and acquire skills in the cybersecurity industry.
-// In collaboration with the Fort Gordon SFL-Tap, under the Career Skill Program, the Workforce Academy developed different tracks for transitioning service members to develop, enhance, and acquire skills in the cybersecurity industry.
 
 Each track provides service members customized industry training that leads to highly recognized industry certifications with field exposure to widen future career opportunities.
-// With any chosen track, service members will receive customized, top-of-the line, industry training that leads to certifications along with industry field exposure to widen future career opportunity.
 
 === Program Tracks
 
 ==== Beginner
 The beginner track is designed for service members with no prior training or experience in the IT and cybersecurity field. 
 Completion of the beginner track provides service members with the knowledge to obtain the following top industry certifications:
-// This track is designed for service members that have no training/experience in the IT/Cybersecurity field.
-// Upon completion, service members will have all the knowledge to obtain the following certifications:
 
 *   CompTIA A+ +
     _The starting point certification for a career in IT. The performance-based exams certify foundational IT skills across a variety of devices and operating systems._
@@ -97,14 +84,9 @@ Completion of the beginner track provides service members with the knowledge to 
     _Industry credential that certifies the essential skills needed to confidently design, configure, manage, and troubleshoot any wired and wireless device._
 *   CompTIA Security+ +
     _Industry recognized certification that provides a global benchmark for best practices in IT network and operational security._
-// *   A+ The starting point certification for a career in IT. The performance-based exams certify foundational IT skills across a variety of devices and operating systems.
-// *   Networking + Industry credential that certifies the essential skills needed to confidently design, configure, manage, and troubleshoot any wired and wireless device.
-// *   Security + Industry recognized certification that provides a global benchmark for best practices in IT network and operational security.
 
 The total duration of the beginner program is 6 months. Each course is self paced (up to 8 weeks alloted for completion) and tailored to the listed certifications.
 During the program, service members train for certifications and simultaneously apply newly obtained skills through industry field experience in an area of IT or cybersecurity.
-// While training for certifications, service members will be able to practice their learned skills by completing an industry field experience in the areas of IT or Cybersecurity.
-// The duration of the program is 6 months (8-week, a self-paced course for each certification).
 
 *Soldier Expense*
 
@@ -120,18 +102,13 @@ NOTE: Service members can utilize Credential Assistance, Tuition Assistance, or 
 The Network Engineer Track is designed for service members with intermediate IT and/or cybersecurity experience.
 Requisite skills and interests are closely aligned with 25S, 25U, 25Q, and 25M MOS's.
 Completion of the Network Engineer Track provides service members with the knowledge to obtain the following top industry certifications:
-// This track is for service members that have experience in the IT/Cybersecurity field (MOS: 25S, 25U, 25Q, 25M).
-// Upon completion, service members will have all the tools to become certified Network Engineers.
 
 *   CompTIA Network+ +
     _Industry credential that certifies the essential skills needed to confidently design, configure, manage, and troubleshoot any wired and wireless device._
 *   Cisco CCNA +
     _Industry certification that validates skills and knowledge in network fundamentals, network access, IP connectivity, IP services, security fundamentals, automation and programming._
-// *   Networking + Industry credential that certifies the essential skills needed to confidently design, configure, manage, and troubleshoot any wired and wireless device.
-// *   CCNA CISCO Certification that validates skills and knowledge in network fundamentals, network access, IP connectivity, IP services, security fundamentals, and automation and programmability.
 
 During the program (Network+ 8 weeks, CCNA 16 weeks), service members train for certifications and simultaneously apply advanced skills while working with industry partners.
-// While obtaining certifications, (Net+ 8 weeks, CCNA 16 weeks), service members will be able to practice their skills with industry partners to obtain both classroom and field knowledge.
 
 *Soldier Expense*
 
@@ -145,9 +122,6 @@ NOTE: Service members can utilize Credential Assistance, Tuition Assistance, or 
 The Security Operations Center Track is designed for service members with intermediate IT and/or cybersecurity experience that seek a career in a security operations center or cybersecurity operations.
 Requisite skills and interests are closely aligned with Signal Corp 25N, 25B, 25S, 25T, 25P, and 25Z MOS's.
 Completion of the SOC Track provides service members with the knowledge to obtain the following top industry certifications:
-// This track is designed for intermediate IT/Cybersecurity professionals that seek to pursue a career in a security operations center (SOC) or something related to cybersecurity operations.
-// This track is best for service members that have moderate experience/training to include service members in the signal Corp. (MOS: 25N, 25B, 25S, 25T, 25P, 25Z) or the Cyber units.
-// Upon training, service members will be prepared to obtain:
 
 * CompTIA Network+ +
     _Industry credential that certifies the essential skills needed to confidently design, configure, manage, and troubleshoot any wired and wireless device._
@@ -155,12 +129,9 @@ Completion of the SOC Track provides service members with the knowledge to obtai
     _Industry recognized certification that provides a global benchmark for best practices in IT network and operational security._
 * Cisco Cyber Ops +
     _Industry recognized certification that prepares candidates to begin a career working with associate-level cybersecurity analysts within security operations centers._
-// *   Networking + Industry credential that certifies the essential skills needed to confidently design, configure, manage, and troubleshoot any wired and wireless device.
-// *   Security + Industry recognized certification that provides a global benchmark for best practices in IT network and operational security.
-// *   Cyber OPS The CISCO certified CyberOps certification prepares candidates to begin a career working with associate-level cybersecurity analysts within security operations centers.
 
 The total duration of the SOC track is 6 months (each course is 8 weeks). During the program, service members train for certifications and simultaneously apply advanced skills while working in the Augusta University Security Operations Center or Georgia Cyber Range.
-// The course is completed within 6 months (each course is 8 weeks) and field experience in AU SOC or Cyber Range to obtain both classroom and hands-on experience.
+
 
 *Soldier Expense*
 
