@@ -1,4 +1,4 @@
-The Georgia Cyber Range is a computing environment hosted at the Georgia Cyber Center meant to provide a platform for education, training, research, demonstrations, development and more.
+The Georgia Cyber Range is a computing environment hosted at the Georgia Cyber Center providing a platform for education, training, research, demonstrations, development and more.
 
 The platform is built entirely from open-source components via the https://github.com/GeorgiaCyber/kinetic[kinetic framework] with the intent of providing an environment that is completely reproducible on local hardware at no cost, if such a need arose.
 The Georgia Cyber Range is designed to enable going far beyond capturing traditional enterprise IT cybersecurity topics and provide a platform for conducting advanced research into and training with:
