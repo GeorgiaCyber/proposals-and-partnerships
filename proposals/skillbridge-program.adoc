@@ -13,7 +13,7 @@ include::../templates/gcc_intro.adoc[]
 include::../templates/gcr_intro.adoc[]
 
 Internship opportunities are available for many career alignments to include: computer scientists, electrical engineers, mathematicians, cryptologists, and more.
-Requisite skills and interests are closely aligned with 17-series(Cyberspace Operations) MOS's and AOC's
+Requisite skills and interests are closely aligned with 17-series (Cyberspace Operations) MOS's and AOC's.
 
 Qualified service members can expect to spend the majority of their time working alongside talented developers on the Georgia Cyber Range.
 The languages/frameworks/DSLs used in the Georgia Cyber Range include:
@@ -23,7 +23,7 @@ The languages/frameworks/DSLs used in the Georgia Cyber Range include:
 * C
 * Javascript/CSS/HTML
 
-Functional knowledge in one or more languages/key areas specified is a requirement for applicants. Service member's active contributions are pushed to upstream open-source projects that power the Georgia Cyber Range. The contributions will become a permanent fixture in the respective project(s).
+Functional knowledge in one or more of these specific languages/key areas specified is a requirement for applicants. Service member's active contributions are pushed to upstream open-source projects that power the Georgia Cyber Range. The contributions will become a permanent fixture in the respective project(s).
 The work of service members, if accepted upstream, will be pulled down and improve the suite of capabilities offered by the Georgia Cyber Range.
 
 In addition to traditional programming, service members are provided unique opportunities to work with specific technologies that include:
@@ -37,6 +37,8 @@ Service members that complete a program are granted an interview with one of the
 
 === Executive Director Shadow Program
 The Executive Director Shadow Program is specifically designed to provide senior service members with executive leadership experience in a complex and dynamic organization outside of their normal military experience.  The unique ecosystem of the Georgia Cyber Center provides senior service members with an opportunity to interact directly and routinely with local, state, and federal government, academia, and private sector entities that are focused on cyber operations and cybersecurity.  In addition to gaining exposure to senior leaders in both the public and private sector, service members will gain specific experience in Business Development, Program Management, Grants Management, Innovation Management, Organizational Strategy, and Organizational Leadership.
+
+
 
 *Types of positions:*
 
@@ -100,7 +102,7 @@ NOTE: Service members can utilize Credential Assistance, Tuition Assistance, or 
 
 ===== Network Engineer Track
 The Network Engineer Track is designed for service members with intermediate IT and/or cybersecurity experience.
-Requisite skills and interests are closely aligned with 25S, 25U, 25Q, and 25M MOS's.
+Requisite skills and interests are closely aligned with 25S, 25U, 25Q, and 25M, 25D, 35T, 35Q, 35N MOS's.
 Completion of the Network Engineer Track provides service members with the knowledge to obtain the following top industry certifications:
 
 *   CompTIA Network+ +
@@ -120,7 +122,7 @@ NOTE: Service members can utilize Credential Assistance, Tuition Assistance, or 
 
 ===== Security Operations Center (SOC) Track
 The Security Operations Center Track is designed for service members with intermediate IT and/or cybersecurity experience that seek a career in a security operations center or cybersecurity operations.
-Requisite skills and interests are closely aligned with Signal Corp 25N, 25B, 25S, 25T, 25P, and 25Z MOS's.
+Requisite skills and interests are closely aligned with Signal Corp 25N, 25B, 25S, 25T, 25P, and 25Z, 25D, 35Q, 35N, 35S, 35T, 17C MOS's.
 Completion of the SOC Track provides service members with the knowledge to obtain the following top industry certifications:
 
 * CompTIA Network+ +
