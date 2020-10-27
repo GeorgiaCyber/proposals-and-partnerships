@@ -3,6 +3,7 @@
 :title-page:
 :pdf-theme: gcc-blue
 :backend: pdf
+:blank: {empty} +
 
 include::../templates/gcc_intro.adoc[]
 
@@ -35,10 +36,16 @@ In addition to traditional programming, service members are provided unique oppo
 
 Service members that complete a program are granted an interview with one of the partners located at the Georgia Cyber Center. The interview directly relates to the work performed during the internship.
 
+---
+
 === Executive Director Shadow Program
 The Executive Director Shadow Program is specifically designed to provide senior service members with executive leadership experience in a complex and dynamic organization outside of their normal military experience.  The unique ecosystem of the Georgia Cyber Center provides senior service members with an opportunity to interact directly and routinely with local, state, and federal government, academia, and private sector entities that are focused on cyber operations and cybersecurity.  In addition to gaining exposure to senior leaders in both the public and private sector, service members will gain specific experience in Business Development, Program Management, Grants Management, Innovation Management, Organizational Strategy, and Organizational Leadership.
 
-
+{empty} +
+{empty} +
+{empty} +
+{empty} +
+{empty} +
 
 *Types of positions:*
 
@@ -48,6 +55,8 @@ The Executive Director Shadow Program is specifically designed to provide senior
 *   Senior Strategist
 *   Director of Innovation
 *   Chief of Staff
+
+---
 
 === Augusta University Cybersecurity Operations Center 
 
@@ -63,6 +72,7 @@ In October 2020, the new Augusta University Cybersecurity Operations Center will
 *   Audiovisual Technician/Installers
 *   Director of Audiovisual and Event Services
 
+---
 
 == Certifications and Training
 
@@ -97,6 +107,8 @@ During the program, service members train for certifications and simultaneously 
 *   Network+ and Security+ training is priced at $699
 
 NOTE: Service members can utilize Credential Assistance, Tuition Assistance, or VA benefits to cover the training costs.
+
+---
 
 ====  Intermediate
 
@@ -144,6 +156,10 @@ The total duration of the SOC track is 6 months (each course is 8 weeks). During
 
 NOTE: Service members can utilize Credential Assistance, Tuition Assistance, or VA benefits to cover the training costs.
 
+---
+
+{empty} +
+{empty} +
 
 == Application and Eligibility
 
