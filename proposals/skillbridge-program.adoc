@@ -100,6 +100,9 @@ Completion of the beginner track provides service members with the knowledge to 
 The total duration of the beginner program is 6 months. Each course is self paced (up to 8 weeks alloted for completion) and tailored to the listed certifications.
 During the program, service members train for certifications and simultaneously apply newly obtained skills through industry field experience in an area of IT or cybersecurity.
 
+{empty} +
+{empty} +
+
 *Soldier Expense*
 
 *   Training bundle price:  $2,297
