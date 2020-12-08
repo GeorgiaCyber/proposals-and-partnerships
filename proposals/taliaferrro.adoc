@@ -10,16 +10,19 @@ The goal for GCC is to remove the barriers implicated by the rural location and 
 
 == Short Term
 === Open Source Framework
-GCC will explore modification of an open-source framework designed for training network engineers on advanced infrastructure topics such as automation. 
+GCC will explore modification of an open-source framework designed for training network engineers on advanced infrastructure topics such as automation. This will be adapted for specific lessons/content that are developed.
 
 The open-source platform provides a level of abstraction by enabling users to interact with real virtual environments that are provisioned on-demand and presented interactively in the browser in an intuitive gui driven interface. The platform will be modified for an additional off-line option due to internet bandwidth restrictions in certain rural areas.
 
 This turn-key solution allows students and faculty to focus on the technical concept being taught instead of troubleshooting and configuration of a complex learning environment.
 
+=== Cost Assessment
 
 
 == Long Term
 === Content Creation
+
+=== Lessons/Content
 Once the framework has been modified, the GCC will offer 'bounties' for individuals to create high-quality lessons of the kind needed for usage with the modified framework. This will be accomplished through contracting of top educators around the nation to contribute through video recording and individual lesson creation.
 
 Lessons will include:
@@ -44,4 +47,7 @@ Content will include but is not limited to the following:
 - Arduino programming
 - Descrete math
 
+=== Cost Assessment
+
+=== Conclusion
 By tackling this problem in this manner, the GCC can create additional materials for students to use inside and outside the classroom, while also encouraging the best teachers from across the nation to create content that can be used by anyone.
