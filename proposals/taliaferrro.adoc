@@ -1,0 +1,47 @@
+= Taliaferro Virtual Education Proposal
+:!toc:
+:backend: pdf
+:pdf-theme: gcc-blue
+
+== Executive Summary
+Providing technical skills and education to children in rural counties, such as Taliaferro, is difficult due to lack of resources. Students in rural counties are placed at a distinct and significant disadvantage compared to students from suburban and urban comunities.
+
+The goal for GCC is to remove the barriers implicated by the rural location and lack of technical resources by offering training through virtual education. GCC has met with the Taliaferro County superintendent to discuss how to provide technical training without further burdening the county's already overly exhausted faculty resources.
+
+== Short Term
+=== Open Source Framework
+GCC will explore modification of an open-source framework designed for training network engineers on advanced infrastructure topics such as automation. 
+
+The open-source platform provides a level of abstraction by enabling users to interact with real virtual environments that are provisioned on-demand and presented interactively in the browser in an intuitive gui driven interface. The platform will be modified for an additional off-line option due to internet bandwidth restrictions in certain rural areas.
+
+This turn-key solution allows students and faculty to focus on the technical concept being taught instead of troubleshooting and configuration of a complex learning environment.
+
+
+
+== Long Term
+=== Content Creation
+Once the framework has been modified, the GCC will offer 'bounties' for individuals to create high-quality lessons of the kind needed for usage with the modified framework. This will be accomplished through contracting of top educators around the nation to contribute through video recording and individual lesson creation.
+
+Lessons will include:
+
+* Video recordings of the instructor going over the lesson
+
+* Written student guides, which will include custom made instructional materials, as well as links to other, will known/reputable resources
+
+* Practical exercises, with automatic grading
+
+* An option for tracking progress over time
+
+All content will be created using the courseware-as-code concept, all learning materials, practical exercises, and virtual environments are stored as simple text/code in a Git repository. This allows for rapid modification and addition to content.
+
+All work will be open-source and published on the internet, further cementing the reputations of GCC, AU, and GA as technology and innovation leaders
+
+Content will include but is not limited to the following:
+
+- General debugging
+- Introductory GO
+- Introductory rust
+- Arduino programming
+- Descrete math
+
+By tackling this problem in this manner, the GCC can create additional materials for students to use inside and outside the classroom, while also encouraging the best teachers from across the nation to create content that can be used by anyone.
