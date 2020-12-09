@@ -4,23 +4,33 @@
 :pdf-theme: gcc-blue
 
 == Executive Summary
-Providing technical skills and education to children in rural counties, such as Taliaferro, is difficult due to lack of resources. Students in rural counties are placed at a distinct and significant disadvantage compared to students from suburban and urban comunities.
+Proividing technical skills and education is a challenge in rural GA counties such as Taliaferro County. This is often due to lack of technical, educational, and personnel resources. Due to these challenges, students are often placed at a disadvantage compared to those from more populated communities.
 
-The goal for GCC is to remove the barriers implicated by the rural location and lack of technical resources by offering training through virtual education. GCC has met with the Taliaferro County superintendent to discuss how to provide technical training without further burdening the county's already overly exhausted faculty resources.
+The Georgia Cyber Center seeks to remove the barriers to technical resources by offering technical virtual education and training. Recently, GCC has met with Taliaferro County's superintendent to discuss providing technical training without burdening current faculty.
+
+The goal is to bring an engaging and interactive curriculum to students and connect them with the best teaching talent from across the nation regardless of zip code.
 
 == Short Term
 === Open Source Framework
-GCC will explore modification of an open-source framework designed for training network engineers on advanced infrastructure topics such as automation. This will be adapted for specific lessons/content that are developed.
+Technical training must encompass a hands-on component that allows students to perform actions learned in the curriculum. To that end, GCC will explore modification of an open-source framework. The framework is originally designed for training network engineers on advanced infrastructure topics such as automation. This will be adapted to lessons and content that are developed as part of the curriculum.
 
-The open-source platform provides a level of abstraction by enabling users to interact with real virtual environments that are provisioned on-demand and presented interactively in the browser in an intuitive gui driven interface. The platform will be modified for an additional off-line option due to internet bandwidth restrictions in certain rural areas.
+The open-source framework will be designed and modified to overcome the following typical technical training issues:
 
-This turn-key solution allows students and faculty to focus on the technical concept being taught instead of troubleshooting and configuration of a complex learning environment.
+* Infrastructure setup
+* Training environment configuration for students and instructors
+
+The open-source framework provides a level of abstraction by enabling users to interact with real virtual environments that are provisioned on-demand and presented interactively in the browser in an intuitive gui driven interface. Modifications will be made for an off-line option due to internet bandwidth restrictions for a 100% identical experience.
+
+The goal of the open-source framework would be to provide a turn-key solution that allows students and faculty to focus on the technical concept being taught instead of troubleshooting and configuration of a complex learning environment.
 
 === Cost Assessment
 
+hosting cost
+software development
 
 == Long Term
 === Content Creation
+paying teachers/content developers
 
 === Lessons/Content
 Once the framework has been modified, the GCC will offer 'bounties' for individuals to create high-quality lessons of the kind needed for usage with the modified framework. This will be accomplished through contracting of top educators around the nation to contribute through video recording and individual lesson creation.
@@ -48,6 +58,44 @@ Content will include but is not limited to the following:
 - Descrete math
 
 === Cost Assessment
+
+* Curriculum Developer Deliverables
+** Video Recordings
+** Written Student Guides
+** Written Instructor Guides
+** Practical Assessments
+
+.Curriculum Development
+[cols="1,1,2", options="header"] 
+|===
+|Costs
+|Maximum Billable Total
+|Total Potential Cost
+
+|Curriculum Developer/Consultant
+|200 hours @ ~$125/hr
+|$25,000
+
+|===
+
+* Lab Developer and Automation Deliverables
+** Practical Assessment Configuration
+** Automated Scenario and Resource Deployment
+
+.Lab/Scenario Development
+[cols="1,1,2", options="header"] 
+|===
+|Costs
+|Maximum Billable Total
+|Total Potential Cost
+
+|Software/Automation Engineer
+|320 hours @ ~$200/hr
+|$64,000
+
+
+
+|===
 
 === Conclusion
 By tackling this problem in this manner, the GCC can create additional materials for students to use inside and outside the classroom, while also encouraging the best teachers from across the nation to create content that can be used by anyone.
