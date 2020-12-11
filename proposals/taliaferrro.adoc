@@ -24,15 +24,39 @@ The open-source framework provides a level of abstraction by enabling users to i
 The goal of the open-source framework would be to provide a turn-key solution that allows students and faculty to focus on the technical concept being taught instead of troubleshooting and configuration of a complex learning environment.
 
 === Cost Assessment
+* Software Engineer Deliverables:
+** Modification of open source framework
+** Integration and hosting configuration
 
-hosting cost
-software development
+.Software Engineer
+[cols="1,1,2", options="header"] 
+|===
+|Costs
+|Maximum Billable Total
+|Total Potential Cost
 
-== Long Term
-=== Content Creation
-paying teachers/content developers
+|Software/Automation Engineer
+|320 hours @ ~$200/hr
+|$64,000
 
-=== Lessons/Content
+|===
+
+.Hosting Costs
+[cols="1,1,2", options="header"] 
+|===
+|Costs
+|Maximum Billable Total
+|Total Potential Cost
+
+|Hosting (AWS/Azure)
+| hours @ ~/hr
+|$
+
+|===
+
+== Long
+
+=== Lessons/Content Development
 Once the framework has been modified, the GCC will offer 'bounties' for individuals to create high-quality lessons of the kind needed for usage with the modified framework. This will be accomplished through contracting of top educators around the nation to contribute through video recording and individual lesson creation.
 
 Lessons will include:
@@ -58,8 +82,7 @@ Content will include but is not limited to the following:
 - Descrete math
 
 === Cost Assessment
-
-* Curriculum Developer Deliverables
+* Curriculum Developer Deliverables:
 ** Video Recordings
 ** Written Student Guides
 ** Written Instructor Guides
@@ -90,8 +113,8 @@ Content will include but is not limited to the following:
 |Total Potential Cost
 
 |Software/Automation Engineer
-|320 hours @ ~$200/hr
-|$64,000
+|200 hours @ ~$200/hr
+|$40,000
 
 
 
