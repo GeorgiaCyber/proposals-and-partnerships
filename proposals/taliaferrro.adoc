@@ -57,7 +57,7 @@ The goal of the open-source framework would be to provide a turn-key solution th
 == Long
 
 === Lessons/Content Development
-Once the framework has been modified, the GCC will offer 'bounties' for individuals to create high-quality lessons of the kind needed for usage with the modified framework. This will be accomplished through contracting of top educators around the nation to contribute through video recording and individual lesson creation.
+GCC will offer 'bounties' for individuals to create high-quality course content per specified module. This will be accomplished through contracting of top educators around the nation to contribute through video recording and individual lesson creation.
 
 Lessons will include:
 
@@ -73,7 +73,7 @@ All content will be created using the courseware-as-code concept, all learning m
 
 All work will be open-source and published on the internet, further cementing the reputations of GCC, AU, and GA as technology and innovation leaders.
 
-Content will include the following:
+Course content will include the following modules:
 
 * General Debugging +
 _Strategies and techniques for analyzing code for bug identification and implemention of real-world solutions_
@@ -82,22 +82,29 @@ _Introduction to the open-source general-purpose programming language created at
 * Introductory Rust +
 _Introduction to the open-source static multi-paradigm programming language that is focused on security and performance._
 * Arduino Programming +
-_Prgoramming using an open-source electronics prototyping microcontroller platform built around an easy to understand programming language._
+_Programming using an open-source electronics prototyping microcontroller platform built around an easy to understand programming language._
 * Discrete Math +
-__
+_Study of mathematical structures that are non continuous, distinct, and seperable_
 
 === Cost Assessment Per Module
+
+.Curriculum Development
+[cols="1,1", options="header"] 
+|===
+|Costs
+|Total Potential Cost (per module)
+
+|Curriculum Developer/Consultant
+|$5,000
+
+|===
+
 * Curriculum Developer Deliverables:
 ** Video Recordings
 ** Written Student Guides
 ** Written Instructor Guides
 ** Practical Assessments / Labs
 
-.Curriculum Development
-|===
-|Costs|Total Potential Cost
-|Curriculum Developer/Consultant|$5,000
-|===
-
 === Conclusion
-By tackling this problem in this manner, the GCC can create additional materials for students to use inside and outside the classroom, while also encouraging the best teachers from across the nation to create content that can be used by anyone.
+Addressing the problem in this manner allows GCC the ability to provide additional materials for students to use inside and outside the classroom, while also encouraging the best teachers from across the nations to contribute content that can be used by anyone at a reasonable cost.
+
