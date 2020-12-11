@@ -71,53 +71,32 @@ Lessons will include:
 
 All content will be created using the courseware-as-code concept, all learning materials, practical exercises, and virtual environments are stored as simple text/code in a Git repository. This allows for rapid modification and addition to content.
 
-All work will be open-source and published on the internet, further cementing the reputations of GCC, AU, and GA as technology and innovation leaders
+All work will be open-source and published on the internet, further cementing the reputations of GCC, AU, and GA as technology and innovation leaders.
 
-Content will include but is not limited to the following:
+Content will include the following:
 
-- General debugging
-- Introductory GO
-- Introductory rust
-- Arduino programming
-- Descrete math
+* General Debugging +
+_Strategies and techniques for analyzing code for bug identification and implemention of real-world solutions_
+* Introductory GO +
+_Introduction to the open-source general-purpose programming language created at Google._
+* Introductory Rust +
+_Introduction to the open-source static multi-paradigm programming language that is focused on security and performance._
+* Arduino Programming +
+_Prgoramming using an open-source electronics prototyping microcontroller platform built around an easy to understand programming language._
+* Discrete Math +
+__
 
-=== Cost Assessment
+=== Cost Assessment Per Module
 * Curriculum Developer Deliverables:
 ** Video Recordings
 ** Written Student Guides
 ** Written Instructor Guides
-** Practical Assessments
+** Practical Assessments / Labs
 
 .Curriculum Development
-[cols="1,1,2", options="header"] 
 |===
-|Costs
-|Maximum Billable Total
-|Total Potential Cost
-
-|Curriculum Developer/Consultant
-|200 hours @ ~$125/hr
-|$25,000
-
-|===
-
-* Lab Developer and Automation Deliverables
-** Practical Assessment Configuration
-** Automated Scenario and Resource Deployment
-
-.Lab/Scenario Development
-[cols="1,1,2", options="header"] 
-|===
-|Costs
-|Maximum Billable Total
-|Total Potential Cost
-
-|Software/Automation Engineer
-|200 hours @ ~$200/hr
-|$40,000
-
-
-
+|Costs|Total Potential Cost
+|Curriculum Developer/Consultant|$5,000
 |===
 
 === Conclusion
