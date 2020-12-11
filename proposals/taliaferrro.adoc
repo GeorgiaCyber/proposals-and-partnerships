@@ -4,9 +4,9 @@
 :pdf-theme: gcc-blue
 
 == Executive Summary
-Proividing technical skills and education is a challenge in rural GA counties such as Taliaferro County. This is often due to lack of technical, educational, and personnel resources. Due to these challenges, students are often placed at a disadvantage compared to those from more populated communities.
+Georgia has the third largest population of rural students after Texas and North Carolina. Providing technical skills and education is a challenge in rural GA counties such as Taliaferro County. This is often due to lack of technical, educational, and personnel resources. Due to these challenges, students are often placed at a disadvantage compared to those from more populated communities.
 
-The Georgia Cyber Center seeks to remove the barriers to technical resources by offering technical virtual education and training. Recently, GCC has met with Taliaferro County's superintendent to discuss providing technical training without burdening current faculty.
+The Georgia Cyber Center seeks to address the rife inequality rural communities experience with technical resources by offering technical virtual education and training. Recently, GCC has met with Taliaferro County's superintendent to discuss providing technical training without burdening current faculty.
 
 The goal is to bring an engaging and interactive curriculum to students and connect them with the best teaching talent from across the nation regardless of zip code.
 
