@@ -5,7 +5,7 @@
 
 == Executive Summary
 
-Georgia has the third largest population of rural students after Texas and North Carolina.
+Georgia has the third largest population of rural students in the USA after Texas and North Carolina.
 Providing technical skills and education is a challenge in rural Georgia counties such as Taliaferro, Hancock, and Toombs.
 This is often due to lack of experienced teachers, technical equipment, and sufficient after-school support systems.
 Given the economic disadvantages typically experienced by rural counties, these are not problems that are easily solved.
@@ -16,9 +16,25 @@ Recently, the Georgia Cyber Center  met with Taliaferro County's superintendent 
 
 The goal is to bring an engaging and interactive curriculum to students and connect them with the best teaching talent from across the nation regardless of zip code while allowing highly talented and qualified teachers to reside wherever they choose.
 
-== Short Term
+== Framework
+
+The first major item that must be addressed is determining the framework in which the curriculum shall reside.
+There are two key requirements:
+
+. The framework must have an open source license
+. The framework must be able to be run in areas that have poor or no connectivity and provide an *identical* experience to those who do have internet access
+
+By ensuring that these requirements are met, we can be certain that the project is not subject to vendor lock-in and that individuals who do not have internet access (who are overwhelmingly rural) are able to reap the benefits.
+
 === Open Source Framework
-Technical training must encompass a hands-on component that allows students to perform actions learned in the curriculum. To that end, GCC will explore modification of an open-source framework. The framework is originally designed for training network engineers on advanced infrastructure topics such as automation. This will be adapted to lessons and content that are developed as part of the curriculum.
+
+Effective computer science and electrical engineering education must encompass a hands-on component that allows students to practice skills and techniques learned in the curriculum.
+
+
+
+To that end, GCC will explore modification of an open-source framework.
+The framework is originally designed for training network engineers on advanced infrastructure topics such as automation.
+This will be adapted to lessons and content that are developed as part of the curriculum.
 
 The open-source framework will be designed and modified to overcome the following typical technical training issues:
 
@@ -60,7 +76,7 @@ The goal of the open-source framework would be to provide a turn-key solution th
 
 |===
 
-== Long
+== Content
 
 === Lessons/Content Development
 GCC will offer 'bounties' for individuals to create high-quality course content per specified module. This will be accomplished through contracting of top educators around the nation to contribute through video recording and individual lesson creation.
