@@ -1,7 +1,7 @@
 = Coding for Rural Georgians
 :!toc:
 :backend: pdf
-:pdf-theme: Georgia Cyber Center-blue
+:pdf-theme: gcc-blue
 
 == Executive Summary
 
