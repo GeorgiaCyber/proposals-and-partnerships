@@ -1,7 +1,7 @@
 = Coding for Rural Georgians
 :!toc:
 :backend: pdf
-:pdf-theme: gcc-blue
+:pdf-theme: Georgia Cyber Center-blue
 
 == Executive Summary
 
@@ -48,87 +48,89 @@ The goal of the framework would be to provide a turn-key solution that allows st
 
 === Cost Estimate
 
+The cost for modifying the framework is generally restricted to software engineering costs along with the accompanying infrastructure costs related to the activities of developing, building, and testing the framework.
 
 * Software Engineer Deliverables:
-** Modification of open source framework
-** Integration and hosting configuration
+** Fix known and relevant bugs in framework prior to starting new work
+** Locally develop required framework modifications
+*** Hands-on activities with graphical interface support
+*** "Internet Desert" support
+*** Video lesson support
+** Integrate locally developed modifications with upstream maintainers
 
-.Software Engineer
-[cols="1,1,2", options="header"]
+.Estimated Costs
+[cols="1,2,2", options="header"]
 |===
-|Costs
-|Maximum Billable Total
-|Total Potential Cost
-
-|Software/Automation Engineer
-|320 hours @ ~$200/hr
-|$64,000
-
-|===
-
-.Hosting Costs
-[cols="1,1,2", options="header"]
-|===
-|Costs
-|Maximum Billable Total
-|Total Potential Cost
-
-|Hosting (AWS/Azure)
-| hours @ ~/hr
-|$
-
+|Costs |Estimated Hourly Rate |Estimated Potential Cost
+|Software Engineer |640 hours @ ~$120/hour |$76,800
+|Development Hosting |N/A |$10,000
 |===
 
 == Content
 
-=== Lessons/Content Development
-GCC will offer 'bounties' for individuals to create high-quality course content per specified module. This will be accomplished through contracting of top educators around the nation to contribute through video recording and individual lesson creation.
+The best educational framework in the world is useless without engaging, relevant, and accurate educational content.
+As one of the main barriers to successful computer science and electrical engineering education in rural Georgia is a lack of qualified teachers in these areas, the Georgia Cyber Center seeks to bridge that divide by allowing the teachers to educate students from anywhere in the nation.
 
-Lessons will include:
+=== Lessons Development
+The Georgia Cyber Center proposes that fixed-price contracts at a rate of $5,000 per 80-hour module will be offered on the open-market.
+Offerors will be able to submit responses to the various Requests for Proposal, and the Georgia Cyber Center will award to the best suited candidate (or none if there is no acceptable proposal).
+As the labyrinthine state procurement process will be daunting for the uninitiated (and particularly since we are actively trying to avoid the same tired and incumbent solutions), the Georgia Cyber Center will take great care in making step-by-step procurement process materials for distribution specifically for our target audience of computer scientists.
+Using this innovative procurement strategy, the Georgia Cyber Center will ensure that rural Georgians will have access to the best-qualified educators from around the country.
+
+All lessons will include:
 
 * Video recordings of the instructor going over the lesson
+* Written student guides (akin to a traditional textbook in function, but not form)
+** Custom made instructional materials with step-by-step practical exercise instructions available if students get stuck
+** Links to other well known and reputable resources
+* Practical exercises
 
-* Written student guides, which will include custom made instructional materials, as well as links to other, will known/reputable resources
+All content will be created using the courseware-as-code paradigm.
+All learning materials, practical exercises, and virtual environments are to be stored as simple text in a Git repository.
+This allows for rapid modification and addition to content, significantly decreasing upkeep costs of the materials over time.
+Instructions on how to successfully create these kinds of materials will be created by the GCC for easy distribution.
 
-* Practical exercises, with automatic grading
+All work will be open-source and published on the internet, further cementing the reputations of Georgia Cyber Center, Augusta University, and Georgia as technology and innovation leaders.
 
-* An option for tracking progress over time
-
-All content will be created using the courseware-as-code concept, all learning materials, practical exercises, and virtual environments are stored as simple text/code in a Git repository. This allows for rapid modification and addition to content.
-
-All work will be open-source and published on the internet, further cementing the reputations of GCC, AU, and GA as technology and innovation leaders.
-
-Course content will include the following modules:
+The initial tranche of course content will consist of the following modules:
 
 * General Debugging +
-_Strategies and techniques for analyzing code for bug identification and implemention of real-world solutions_
+_Strategies and techniques for analyzing code for bug identification and resolution_
 * Introductory GO +
 _Introduction to the open-source general-purpose programming language created at Google._
 * Introductory Rust +
 _Introduction to the open-source static multi-paradigm programming language that is focused on security and performance._
 * Arduino Programming +
-_Programming using an open-source electronics prototyping microcontroller platform built around an easy to understand programming language._
-* Discrete Math +
-_Study of mathematical structures that are non continuous, distinct, and seperable_
+_Programming using an open-source electronics prototyping microcontroller platform built around an easy-to-understand programming language._
+* Discrete Mathematics +
+_Study of mathematical structures that are non continuous, distinct, and separable.
+This area of mathematics is especially applicable to coding and software engineering and is a critical component for any successful developer_
 
-=== Cost Assessment Per Module
+=== Cost Estimate
 
 .Curriculum Development
 [cols="1,1", options="header"]
 |===
-|Costs
-|Total Potential Cost (per module)
-
-|Curriculum Developer/Consultant
-|$5,000
-
+|Costs |Estimated Cost Per Module
+|Curriculum Developer/Educator |$5,000
 |===
 
-* Curriculum Developer Deliverables:
+* Curriculum Developer/Educator Deliverables:
 ** Video Recordings
 ** Written Student Guides
-** Written Instructor Guides
-** Practical Assessments / Labs
+** Practical Exercises/Labs
 
-=== Conclusion
-Addressing the problem in this manner allows GCC the ability to provide additional materials for students to use inside and outside the classroom, while also encouraging the best teachers from across the nations to contribute content that can be used by anyone at a reasonable cost.
+== Future Work
+
+This initial phase of the project can be just the beginning.
+The framework can be expanded beyond just technical topics to include anything taught in the classroom: history, mathematics, english, and more.
+The value of being able to deliver top-tier, vetted educators directly into the homes of our rural students is undeniable.
+
+In addition to adding new types of course content, the framework can also be expanded to track student progress over time, introduce gamification into the lessons, integrate with in-school learning management systems, and much more.
+
+Costs per lesson would stay static at $5,000 per 80 hours of content (notwithstanding changes in labor rates, inflation, or other unforeseen events).
+Maintenance costs related to the framework would increase as features were added, although at a significantly lower rate than if it was a closed-source product.
+Hosting costs for production deployments of the framework would vary widely depending on the size and complexity of the deployment, but would be insignificant (5% total cost or less) in relation to the capital outlays associated with framework development and content creation.
+
+== Conclusion
+Addressing the problem in this manner allows Georgia Cyber Center the ability to provide additional materials for students to use inside and outside the classroom, while also encouraging the best teachers from across the nations to contribute content that can be used by anyone at a nominal cost.
