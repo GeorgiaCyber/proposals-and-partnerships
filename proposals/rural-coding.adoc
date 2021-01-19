@@ -59,7 +59,7 @@ The cost for modifying the framework is generally restricted to software enginee
 *** Video lesson support
 ** Integrate locally developed modifications with upstream maintainers
 
-.Estimated Costs for Development
+.Estimated Costs for Software Development
 [cols="1,2,2", options="header"]
 |===
 |Costs |Estimated Hourly Rate |Estimated Potential Cost
