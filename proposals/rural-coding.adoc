@@ -5,9 +5,9 @@
 
 == Executive Summary
 
-Georgia has the third largest population of rural students in the USA after Texas and North Carolina.
+Georgia has the third-largest population of rural students in the USA after Texas and North Carolina.
 Providing technical skills and education is a challenge in rural Georgia counties such as Taliaferro, Hancock, and Toombs.
-This is often due to lack of experienced teachers, technical equipment, and sufficient after-school support systems.
+This is often due to a lack of experienced teachers, technical equipment, and sufficient after-school support systems.
 Given the economic disadvantages typically experienced by rural counties, these are not problems that are easily solved.
 Due to these challenges, rural students are underserved, under-resourced, and placed at a significant disadvantage when entering the workforce.
 
@@ -22,7 +22,7 @@ This is accomplished by connecting them with the best practices and best teachin
 The first major item that must be addressed is determining the framework in which the curriculum shall reside.
 There are two key requirements:
 
-. The framework must have an open source license
+. The framework must have an open-source license
 . The framework must be able to be run in areas that have poor or no connectivity and provide an *identical* experience to those who do have internet access
 
 By ensuring that these requirements are met, we can be certain that the project is not subject to proprietary vendor lock-in and that individuals who do not have internet access (who are overwhelmingly rural) are able to participate and reap the benefits.
@@ -33,14 +33,14 @@ Effective computer science and electrical engineering education must include a h
 Any framework that supports this kind of education must be able to ingest lesson content from various different educators in the form of text, pictures, video, and more.
 Building a fully-featured greenfield project that will capture these requirements AND provide the flexibility required to adapt to new technologies and trends would be an enormously expensive undertaking.
 
-In order to maximize the return on the investment, an optimal solution will build upon a proven, already-existing product in a collaborative manner.
+To maximize the return on the investment, an optimal solution will collaboratively build upon the already-existing product.
 Solving the problem in this manner will ensure that there is no cost duplication and that the vast majority of the expenditure will go towards solving the problem at hand rather than administrative overhead.
-Additionally, working on the framework in a collaborative and open manner will encourage others to contribute, further increasing the return for the Georgia taxpayer.
+Additionally, working on the framework collaboratively and openly will encourage others to contribute, further increasing the return for the Georgia taxpayer.
 
 The framework will be modified to have the following features:
 
 * Automatic, one-click set up of student curriculum for the chosen lesson(s)
-* Support for graphical interfaces rather than just command line interfaces
+* Support for graphical interfaces rather than just command-line interfaces
 * Full support for local deployment of the framework for students who do not have reliable internet access
 
 The framework provides a layer of abstraction by enabling users to interact with hands-on environments that are provisioned on-demand and presented interactively in the browser in an intuitive, graphical interface.
@@ -52,9 +52,9 @@ The goal of the framework would be to provide a turn-key solution that allows st
 The cost for modifying the framework is generally restricted to software engineering costs along with the accompanying infrastructure costs related to the activities of developing, building, and testing the framework.
 
 * Software Engineer Deliverables:
-** Fix known and relevant bugs in framework prior to starting new work
+** Fix known and relevant bugs in the framework before starting new work
 ** Locally develop required framework modifications
-*** Hands-on activities with graphical interface support
+*** Hands-on activities with a graphical interface support
 *** "Internet Desert" support
 *** Video lesson support
 ** Integrate locally developed modifications with upstream maintainers
@@ -72,9 +72,9 @@ The cost for modifying the framework is generally restricted to software enginee
 The best educational framework in the world is useless without engaging, relevant, and accurate educational content that aligns to the Georgia Department of Education pedagogical guidelines.
 As one of the main barriers to successful computer science and electrical engineering education in rural Georgia is a lack of qualified teachers in these areas, the Georgia Cyber Center seeks to bridge that divide by allowing the teachers to educate students from anywhere in the nation.
 
-=== Lesson Development
-The Georgia Cyber Center proposes that fixed-price contracts at a rate of $5,000 per 80-hour module will be offered on the open-market.
-Offerors will be able to submit responses to the various Requests for Proposal, and the Georgia Cyber Center will award to the best suited candidate (or none if there is no acceptable proposal).
+=== Lessons Development
+The Georgia Cyber Center proposes that fixed-price contracts at a rate of $5,000 per 80-hour module will be offered on the open market.
+Offerors will be able to submit responses to the various Requests for Proposal, and the Georgia Cyber Center will award to the best-suited candidate (or none if there is no acceptable proposal).
 As the labyrinthine state procurement process will be daunting for the uninitiated (and particularly since we are actively trying to avoid the same tired and incumbent solutions), the Georgia Cyber Center will take great care in making step-by-step procurement process materials for distribution specifically for our target audience of computer scientists.
 Using this innovative procurement strategy, the Georgia Cyber Center will ensure that rural Georgians will have access to the best-qualified educators from around the country.
 
@@ -104,7 +104,7 @@ _Introduction to the open-source static multi-paradigm programming language that
 * Arduino Programming +
 _Programming using an open-source electronics prototyping microcontroller platform built around an easy-to-understand programming language._
 * Discrete Mathematics +
-_Study of mathematical structures that are non continuous, distinct, and separable.
+_Study of mathematical structures that are non-continuous, distinct, and separable.
 This area of mathematics is especially applicable to coding and software engineering and is a critical component for any successful developer_
 
 === Cost Estimate
@@ -124,14 +124,14 @@ This area of mathematics is especially applicable to coding and software enginee
 == Future Work
 
 This initial phase of the project can be just the beginning.
-The framework can be expanded beyond just technical topics to include anything taught in the classroom: history, mathematics, english, and more.
+The framework can be expanded beyond just technical topics to include anything taught in the classroom: history, mathematics, English, and more.
 The value of being able to deliver top-tier, vetted educators directly into the homes of our rural students is undeniable.
 
 In addition to adding new types of course content, the framework can also be expanded to track student progress over time, introduce gamification into the lessons, integrate with in-school learning management systems, and much more.
 
 Costs per lesson would stay static at $5,000 per 80 hours of content (notwithstanding changes in labor rates, inflation, or other unforeseen events).
 Maintenance costs related to the digital framework would increase as features were added, although at a significantly lower rate than if it was a closed-source product.
-Hosting costs for production deployments of the framework would vary widely depending on the size and complexity of the deployment, but would be insignificant (5% total cost or less) in relation to the capital outlays associated with the initial framework development and recurring content creation.
+Hosting costs for production deployments of the framework would vary widely depending on the size and complexity of the deployment, but would be insignificant (5% total cost or less) concerning the capital outlays associated with the initial framework development and recurring content creation.
 
 == Conclusion
 Addressing the problem with a proof-of-concept in this manner gives the Georgia Cyber Center the ability to provide additional materials for students to use inside and outside the classroom, while also encouraging the best teachers from across the nations to contribute content that can be used by anyone at a nominal cost.
