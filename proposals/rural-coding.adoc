@@ -13,10 +13,14 @@ Due to these challenges, rural students are underserved, under-resourced, and pl
 
 The Georgia Cyber Center seeks to address these inequalities by pioneering the online and offline delivery of foundational computer science, electrical engineering, and mathematical education without the need for significant capital investment or additional hiring actions in these underserved areas.
 <<<<<<< HEAD
+<<<<<<< HEAD
 Recently, the Georgia Cyber Center met with Taliaferro County's superintendent to discuss a pilot program that would substantively redress these issues.
 =======
 Recently, the Georgia Cyber met with Taliaferro County's superintendent to discuss a pilot program that would begin to redress these issues.
 >>>>>>> 204e663 (Update proposals/rural-coding.adoc)
+=======
+Recently, the Georgia Cyber Center met with Taliaferro County's superintendent to discuss a pilot program that would begin to redress these issues.
+>>>>>>> 4a53fd8 (Update rural-coding.adoc)
 
 The goal is to bring an engaging and interactive curriculum to students.
 This is accomplished by connecting them with the best practices and best teaching talent from across the nation regardless of zip code while allowing highly talented and qualified teachers to reside wherever they choose.
