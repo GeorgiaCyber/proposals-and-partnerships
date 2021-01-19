@@ -1,4 +1,4 @@
-= Rural Coding in Georgia
+= Coding for Rural Georgians
 :!toc:
 :backend: pdf
 :pdf-theme: gcc-blue
@@ -26,26 +26,29 @@ There are two key requirements:
 
 By ensuring that these requirements are met, we can be certain that the project is not subject to vendor lock-in and that individuals who do not have internet access (who are overwhelmingly rural) are able to reap the benefits.
 
-=== Open Source Framework
+=== Requirements
 
-Effective computer science and electrical engineering education must encompass a hands-on component that allows students to practice skills and techniques learned in the curriculum.
+Effective computer science and electrical engineering education must include a hands-on component that allows students to practice skills and techniques learned in the curriculum.
+Any framework that supports this kind of education must be able to ingest lesson content from various different educators in the form of text, pictures, video, and more.
+Building a fully-featured greenfield project that will capture these requirements AND provide the flexibility required to adapt to new technologies and trends would be an enormously expensive undertaking.
+
+In order to maximize the return on the investment, an optimal solution will build upon an already-existing product in a collaborative manner.
+Solving the problem in this manner will ensure that there is no cost duplication and that the vast majority of the expenditure will go towards solving the problem at hand rather than administrative overhead.
+Additionally, working on the framework in a collaborative and open manner will encourage others to contribute, further increasing the return for the Georgia taxpayer.
+
+The framework will be modified to have the following features:
+
+* Automatic, one-click set up of student curriculum for the chosen lesson(s)
+* Support for graphical interfaces rather than just command line interfaces
+* Full support for local deployment of the framework for students who do not have reliable internet access
+
+The framework provides a layer of abstraction by enabling users to interact with hands-on environments that are provisioned on-demand and presented interactively in the browser in an intuitive, graphical interface.
+It also allows for students to work on their coding abilities outside of the classroom - all relevant lessons will have a required accompanying video instructor component from a top-tier computer science teacher, with links to additional resources if necessary.
+The goal of the framework would be to provide a turn-key solution that allows students and/or faculty to focus on the technical concept being taught instead of troubleshooting and configuration of a complex learning environment.
+
+=== Cost Estimate
 
 
-
-To that end, GCC will explore modification of an open-source framework.
-The framework is originally designed for training network engineers on advanced infrastructure topics such as automation.
-This will be adapted to lessons and content that are developed as part of the curriculum.
-
-The open-source framework will be designed and modified to overcome the following typical technical training issues:
-
-* Infrastructure setup
-* Training environment configuration for students and instructors
-
-The open-source framework provides a level of abstraction by enabling users to interact with real virtual environments that are provisioned on-demand and presented interactively in the browser in an intuitive gui driven interface. Modifications will be made for an off-line option due to internet bandwidth restrictions for a 100% identical experience.
-
-The goal of the open-source framework would be to provide a turn-key solution that allows students and faculty to focus on the technical concept being taught instead of troubleshooting and configuration of a complex learning environment.
-
-=== Cost Assessment
 * Software Engineer Deliverables:
 ** Modification of open source framework
 ** Integration and hosting configuration
