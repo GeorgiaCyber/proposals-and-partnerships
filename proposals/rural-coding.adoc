@@ -59,7 +59,7 @@ The cost for modifying the framework is generally restricted to software enginee
 *** Video lesson support
 ** Integrate locally developed modifications with upstream maintainers
 
-.Estimated Costs
+.Estimated Costs for Development
 [cols="1,2,2", options="header"]
 |===
 |Costs |Estimated Hourly Rate |Estimated Potential Cost
@@ -109,7 +109,7 @@ This area of mathematics is especially applicable to coding and software enginee
 
 === Cost Estimate
 
-.Curriculum Development
+.Estimated Costs for Curriculum Development
 [cols="1,1", options="header"]
 |===
 |Costs |Estimated Cost Per Module
