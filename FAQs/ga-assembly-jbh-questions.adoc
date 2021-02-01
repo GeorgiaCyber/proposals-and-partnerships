@@ -1,0 +1,161 @@
+= Georgia Cyber Center Frequently Asked Questions
+Chris Apsey <capsey@augusta.edu>
+:!toc:
+:backend: pdf
+:pdf-theme: gcc-blue
+
+// https://www.reddit.com/r/Starlink/comments/gxypym/starlink_highlights_from_the_spacex_software_team/
+// https://www.reddit.com/r/Starlink/comments/jzozv3/every_answer_from_the_starlink_team_ama/
+
+This living document answers the most frequently asked questions of the Georgia Cyber Center by the Georgia General Assembly.
+
+== Rural Broadband
+
+// Senator Kay Kirkpatrick 32nd District • Republican • Marietta
+. Why are we specifying terrestrial broadband? Isn't the new satellite coverage a potential solution?
+
+This is a great question, and a very important one.
+The short answer is as it is with almost all complex questions: it depends.
+The long answer is that a combination of physics, electrical engineering, the local climate and terrain in Georgia, and the expected capital and operational costs to the consumer make low Earth orbit (LEO) satellite internet service (e.g. Starlink and Kuiper) inferior to the majority of terrestrial broadband solutions in a majority of scenarios relevant to the average Georgian, although it is a significant generational improvement over satellite internet service based on satellites which are in geostationary Earth orbit (GEO).
+
+.. Physics +
+One of the most challenging aspects of communicating with any space-based system from Earth is distance.
+The speed of light (about 186,000 miles per second in a vacuum) is a sort of speed limit for the universe.
+Nothing (to our knowledge) can travel faster than this speed, no matter the conditions. +
++
+Traditional GEO satellite internet service systems have satellites at about 22,000 miles above sea level.
+This means that if you were to try and send a signal and receive a response via a system such as this, your signal would have to travel about 88,000 miles (you to satellite, satellite to target, target back to satellite, satellite back to you).
+Notwithstanding non-ideal conditions (satellite not directly overhead of sender/recipient, poor weather, signal processing time within silicon-based microcontrollers, TCP/IP (or other protocol) overhead, signal not actually traversing in a vacuum, etc.), just the distance that the signal has to travel tacks on 473ms of round trip time, which is unacceptably high for modern telecommunications uses.
+As an example, Microsoft teams has a stated maximum of 100ms of round trip time on the utilized link for video calls, and traditional GEO satellite systems regularly have 800-900ms of round trip time, or more. +
++
+Now that we know how much altitude impacts the quality of service, how do LEO systems improve in this area?
+Predictably, bringing satellites closer to earth significantly improves round trip time.
+According to Federal Communications Commission (FCC) filings, Starlink currently has all of its satellites sitting at an altitude of about 340 miles, with plans to launch additional satellites at altitudes between 680 and 820 miles (although there is currently an FCC filing from Starling requesting an adjustment to the already-approved plan to lower the altitude of all satellites to 340 miles or less).
+Similarly, the Kuiper LEO satellite system plans to operate entirely at an altitude of around 366 miles.
+Given these significantly lower altitudes, we can see that the ideal-condition round-trip-time gets reduced to about 8ms of additional round trip time, which on the surface appears excellent, but the nature of LEO satellite systems add on some additional latency costs that aren't present in GEO satellite systems that we need to account for to get a fair comparison.
++
+It might be hard to believe, but the GEO satellite internet company Hughes only has two commercial satellites that serve its entire customer base, while LEO satellite internet companies such as Starlink and Kuiper need to launch thousands of satellites to provide similar coverage areas.
+How can this be?
+If you were to go into a dark room and shine a flashlight on a wall, the amount of wall that would be illuminated would depend on two things - the angles of the mirrors inside the flashlight head and how close you were to the actual wall.
+The closer you walked to the wall, the smaller the illuminated area on the wall would be.
+This same exact principle applies to GEO and LEO satellite systems.
+The higher the orbit of the satellite, the more surface area of Earth it can 'illuminate' and provide more coverage area with fewer satellites, with the tradeoff being that latency and transmit power requirements increase accordingly.
+Since the Starlink and Kuiper systems are so close to earth, they need significantly more satellites to provide the same amount of coverage.
+This also means that it is very likely that your signal transmission will need to traverse *several* satellites in the Starlink and Kuiper systems before it reaches its intended target, and since neither of these systems are in geostationary orbit (meaning they do not move in concert with earth's rotation) these round trip times become unpredictable based on the number of changing satellite hops between your signal and its final destination.
+To be fair, both Starlink and Kuiper can reduce the number of these hops by adding ground stations to their network.
+Ground stations are the connective tissue between the Starlink and Kuiper systems and the rest of the internet.
+They are strategically placed around the world and connect overhead satellites to the internet via traditional fiber optic backhauls.
+More ground stations mean fewer hops and latency, but they also mean that more cost needs to be recouped with subscriber fees.
+There are also some exciting advancements with laser-based communications that will speed up inter-satellite hops, but these are still being researched and are not yet ready.
+It is a balancing act that both Starlink and Kuiper are working to optimize. +
++
+All that said, confirmed Starlink user speed tests have shown real-world latencies of between 31ms and 94ms during the limited beta period, which is a significant advancement over GEO satellite internet systems, but still not competitive with terrestrial broadband solutions.
+Additionally, these test were done in a low-density beta period, where factors such as spectrum availability and signal interference are significantly reduced in magnitude; these items are addressed in greater detail in the next section.
+Tellingly, Starlink this year requested that the FCC amend their previous satellite launch plans, lowering their target altitude for the next phases of their deployment from between 680 and 820 miles to less than 360 miles.
+There is significant pushback to that amendment from telecommunications firms, competitors, and other interested parties on several bases (mostly orbital overcrowding/collisions, signal interference, degradation of maneuverability in space, etc.).
+We can't speak to the validity of all of those arguments, but after careful review several of them appear to be in good faith rather than self-interested attempts to halt progress or prevent the loss of market share.
+The relevant filings can be seen https://licensing.fcc.gov/cgi-bin/ws.exe/prod/ib/forms/reports/related_filing.hts?f_key=-443498&f_number=SATMOD2020041700037[here].
+
+.. Electrical Engineering +
+Beyond the constraints imposed by our current understanding of the physical world, an understanding of electrical engineering also allows us to ask pertinent questions about the efficacy of any hyper dense LEO satellite internet system, specifically challenges posed by spectrum availability and signal interference. +
++
+It is very important to understand one fact about radio frequency transmission - in a given area, only one signal may be cleanly transmitted on a given frequency.
+Any other signals transmitted where some part of the frequency overlaps will inevitably cause some level of signal degradation, which will negatively impact the performance of both signals.
+You can see this effect on your in-home Wifi.
+The more devices that you connect that actively use the same Wifi access point, the worse the overall performance becomes.
+This is because each device is competing for the same airtime on the same frequency.
+There are several strategies available to combat this effect, generally focused around fairly splitting up available airtime.
+Wifi uses a strategy called carrier-sense multiple access with collision avoidance (CSMA/CA) in which devices 'listen' for other active signals before transmitting their own.
+This works for Wifi transmissions because devices are generally close together and it's relatively simple for them to 'hear' nearby competing transmissions before deciding whether or not they themselves should transmit.
+Over larger distances however (hundreds or thousands of miles, as is the case with satellite internet), this strategy does not work, as remote devices will not be able to hear each other quick enough to make good decisions about whether or not they should transmit (if they 'hear' each other at all).
+There are other strategies that work better over these long distances, such as time-division multiple access (TDMA), frequency-division multiple access (FDMA), and code-division multiple access (CDMA).
+We can tell that a mix of these three strategies is used in the Starlink system based on RF engineer job postings that require deep experience with these concepts.
++
+Now that we understand that only one signal may transmit on a given frequency in a given location at one time, it begs the question: why can't we just give everyone their own frequency to transmit on?
+The reality is that spectrum is a finite resource, and each different frequency has different characteristics that make them suitable (or unsuitable) for a given task.
+Lower frequencies will travel farther, but have less potential for carrying information because of the smaller amount of available bandwidth in that frequency range because of over-the-air characteristics and RF hardware design considerations.
+For example, comparing and contrasting AM and FM radio signals lets us understand this difference.
+AM frequencies are roughly between 550 and 1720 KHz (or between 550,000 and 1,720,000 Hz).
+FM frequencies are about from 88 to 108 MHz (or between 88,000,000 and 108,000,000 Hz) - roughly two orders of magnitude (100x times higher) than the frequency used in AM radio.
+Why was this?
+Why didn't they just make the AM band go from 550 Khz to 5000 Khz and do talk radio and play music around the same channels?
+The answer is that talk radio and music radio have very different needs.
+Talk radio wants to reach as many people as possible in order to increase advertising dollars, so they are more interested in the AM frequencies since they can travel significantly farther without concern for obstructions, weather, etc.
+While music radio stations would love to reach more customers, the significantly smaller amount of bandwidth available in the AM frequencies means that they would have to sacrifice on the quality of the audio stream, which is generally much more important to the financial performance of their radio station.
+If you have ever switched between AM and FM radio in the car, you know that the AM transmission is of much lower quality, but you are able to hear the transmission significantly farther from its origin relative to FM radio signals: that is because AM frequencies do not have near the amount of bandwidth available in the FM frequencies, but they are able to travel much further.
+The nature of RF signal processing is that the wavelength differences between 550 Khz and 1720 Khz is orders of magnitude greater than the difference between 2.4 Ghz and 2.5 Ghz, which makes creating WiFi devices that operate around the 2.4 Ghz band very inexpensive, even though they can consume significantly larger amounts of bandwidth than AM radio.
+Creating a device that is able to process a 1 Mhz-wide channel centered around 1 1000 Khz would be exponentially more expensive, complicated, and power hungry than creating a device that is able to process a 1 Mhz-wide channel centered around 2.45 Ghz.
+The behavior of the waveform around the 550 Khz frequency would be significantly different than the behavior of the waveform at the 1720 Khz frequency, and it is unlikely that the entire waveform would successfully arrive at the destination, even if you managed to build a device that could process it.
+The inverse relationship between available bandwidth and maximum effective range is present and must be accounted for throughout the entire RF spectrum.
++
+Now that we understand some basic RF characteristics, we can start to see how there are going to be some scaling challenges when bringing satellites significantly closer to earth.
+If one were to visualize the different orbits GEO and LEO systems, you would realize that there is substantially more surface area available in a GEO system as compared to a LEO system when attempting to place various satellites.
+GEO satellite systems have approximately 8.6 billion square miles of space to potentially occupy, while LEO systems have about 261 million square miles of space to potentially occupy. +
++
+Combining the limited space available in a LEO system, the propensity for radio signals to interfere with each other, the limited amount of spectrum available that is suitable for the purpose of broadband internet, the large quantity of satellites required for a LEO system to work, and the increasing number of entities interested in LEO satellite systems (not just for broadband purposes), we can see that there will be significant technical and political barriers that must be overcome for LEO satellite broadband systems to function at scale.
+The FCC continues to investigate these issues without any clear answers in sight.
+
+.. Climate and Terrain +
+As with any complicated technical system, there are very specific temperature and humidity envelopes necessary for stable operation.
++
+In November of 2020, the Starlink team did an Ask-Me-Anything (AMA) on https://www.reddit.com/r/Starlink/comments/jybmgn/we_are_the_starlink_team_ask_us_anything/[Reddit] in which people were able to ask direct questions of the Starlink team about multiple aspects of the system.
+Of note was a comment from the Starlink team about the certified operating temperatures:
+[quote, Starlink team from Reddit AMA]
+While we've performed life-leader testing down to these cold temperatures with no issues the dish is certified to operate from -30C to +40C.
++
+
+40 degrees C translates to about 104 degrees F, a temperature that is easily reached in several parts of Georgia, particularly when exposed to direct sunlight, as the dish must be in order to communicate with the various Starlink satellites.
+This difficulty can likely be solved with improving the quality of internal electronics, changing some of the build materials to be more robust, etc.
+The caveat with improving the quality of the consumer dishes is that they are already extremely expensive, which we will cover in the next section.
++
+Additionally, the terrain in rural Georgia (high tree cover density) adds additional challenges when using the Ka and Ku bands preferred by LEO satellite internet operators since those bands require unobstructed line-of-sight to function properly.
+If those who live in rural Georgia cannot effectively take advantage of an potential services offered by LEO operators such as Starlink and Kuiper due to significant tree cover, the odds of LEO Satellite operators and their current technology 'solving' the challenge of rural broadband effectively decrease further.
+
+.. Cost to the Consumer +
+Any solution to the rural broadband problem must also take into account the economics of the areas that it must serve.
+Georgians who need broadband the most are also significantly more disadvantaged.
+As an example, the median household income in Taliaferro county is about $22,188 per year, whereas the median household income for Fulton county is $87,605 per year.
+Currently, Starlink has an up-front cost of about $500 for the satellite dish, with recurring monthly fees of $100.
+This pricing is significantly out of reach for those most in need of broadband, and is likely only going to increase given the significant engineering challenges ahead of the Starlink team.
+Elon Musk himself stated as much:
+[quote, Elon Musk to Aviation Week, May 2020 ]
+Both cutting user-terminal costs and making the devices last five to 10 years "will take us a few years to really solve."
++
+
+Without a significant decrease in both capital and operational costs to the consumer, Starlink (and presumably Kuiper, who has not yet released pricing information.) will not be a viable option for the vast majority of rural Georgians without broadband internet access.
+
+
+// Senator Larry Walker, III 20th District • Republican
+[start=2]
+. Does fixed based wireless when there is fiber access at an elevated structure (i.e. silo, radio tower, fire tower, etc.) show merit for isolated rural areas?
+
+Absolutely.  The single largest capital cost when deploying a fixed-wireless network of any kind is land and infrastructure costs related to the creation of a tower.
+Already-existing elevated structures (with the required height depending on the surrounding terrain) will significantly reduce the capital costs required to provide service to the local area.
+
+// Senator Larry Walker, III 20th District • Republican
+[start=3]
+.  Also, please speak to EMC efforts to provide broadband.
+
+The EMC's have done a phenomenal job of leveraging the already-existing infrastructure required to support the 193,070 miles of powerlines that crisscross the state of Georgia.
+They have made fiber-to-the-premises internet much more affordable than it would have been otherwise by obviating the need for trenching in many scenarios.
+However, even with the reduced capital requirements of re-using existing electrical infrastructure to support fiber optic requirements, there is still an enormous cost-per-mile to run fiber optics to many remote areas of Georgia.
+Additionally, not burying fiber optic cable increases maintenance costs - the cabling is much more susceptible to weather conditions and animal tampering, and the cable itself is much more expensive due to the self-supporting weight requirements.
+Fixed-wireless solutions used in conjunction with fiber-to-the-premises where feasible will end up being the most successful strategy.
+Every part of the state will have slightly different conditions, and the best strategy for bringing them high-speed internet access will vary accordingly.
+
+== Economic Development
+
+// Rep. Dave Belton • 112th District • Republican • Buckhead
+[start=4]
+. Can you talk about the economic impact of the $2.5B yearly impact and 79K jobs that Ft Gordon has on Augusta.
+
+Not enough can be said about the significance of the investment that the Federal Government has made.
+
+* Since February 2018, median home sale prices have increased nearly 50% https://www.realtor.com/realestateandhomes-search/Augusta_GA/overview[source: realtor.com]
+* Home demand has outstripped home supply since 2013 https://www.huduser.gov/portal/publications/pdf/AugustaGA-comp-17.pdf[source: HUD]
+* Population has been growing by about 1% annually, with the majority of the population now 34 years old or younger https://datausa.io/profile/geo/augusta-richmond-county-ga-sc[source: dataUSA/US Census Bureau]
+* The Augusta metro area has beaten the national GDP growth average for 5 years https://fred.stlouisfed.org/series/NGMP12260[source: St. Louis Federal Reserve Bank]
+* Prior to 2014, nonfarm payroll growth was near stagnant.  Since then, payrolls have increased by nearly 30,000. https://www.bls.gov/regions/southeast/ga_augusta_msa.htm[source: BLS]
+
+And this is all before the bulk of the construction has taken place.
+The economic growth story for the region is going to become even more compelling over the next decade.
