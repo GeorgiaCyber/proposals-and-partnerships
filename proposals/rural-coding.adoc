@@ -63,7 +63,7 @@ The cost for modifying the framework is generally restricted to software enginee
 [cols="1,2,2", options="header"]
 |===
 |Costs |Estimated Hourly Rate |Estimated Potential Cost
-|Software Engineer |890 hours @ ~$120/hour |$106,800
+|Software Engineer |806 hours @ ~$120/hour |$96,800
 |Development Hosting |N/A |$20,000
 |===
 
@@ -127,10 +127,10 @@ This area of mathematics is especially applicable to coding and software enginee
 [cols="1,1", options="header,footer"]
 |===
 |Item |Cost
-|Software Engineering |$106,800
+|Software Engineering |$96,800
 |Development Hosting |$20,000
 |Content Creation |$50,000
-|*Total Cost* |*$176,800*
+|*Total Cost* |*$166,800*
 |===
 
 == Future Work
