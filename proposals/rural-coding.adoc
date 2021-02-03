@@ -63,8 +63,8 @@ The cost for modifying the framework is generally restricted to software enginee
 [cols="1,2,2", options="header"]
 |===
 |Costs |Estimated Hourly Rate |Estimated Potential Cost
-|Software Engineer |640 hours @ ~$120/hour |$76,800
-|Development Hosting |N/A |$10,000
+|Software Engineer |890 hours @ ~$120/hour |$106,800
+|Development Hosting |N/A |$20,000
 |===
 
 == Content
@@ -73,7 +73,7 @@ The best educational framework in the world is useless without engaging, relevan
 As one of the main barriers to successful computer science and electrical engineering education in rural Georgia is a lack of qualified teachers in these areas, the Georgia Cyber Center seeks to bridge that divide by allowing the teachers to educate students from anywhere in the nation.
 
 === Lessons Development
-The Georgia Cyber Center proposes that fixed-price contracts at a rate of $5,000 per 80-hour module will be offered on the open market.
+The Georgia Cyber Center proposes that fixed-price contracts at a rate of $5,000 per 40-hour module will be offered on the open market.
 Offerors will be able to submit responses to the various Requests for Proposal, and the Georgia Cyber Center will award to the best-suited candidate (or none if there is no acceptable proposal).
 As the labyrinthine state procurement process will be daunting for the uninitiated (and particularly since we are actively trying to avoid the same tired and incumbent solutions), the Georgia Cyber Center will take great care in making step-by-step procurement process materials for distribution specifically for our target audience of computer scientists.
 Using this innovative procurement strategy, the Georgia Cyber Center will ensure that rural Georgians will have access to the best-qualified educators from around the country.
@@ -93,7 +93,7 @@ Instructions on how to successfully create these kinds of materials will be crea
 
 All work will be open-source and published on the internet, further cementing the reputations of Georgia Cyber Center, Augusta University, and Georgia as technology and innovation leaders.
 
-The initial catalog of course content will consist of the following modules:
+The initial catalog of course content will consist of the following topics (two modules per topic):
 
 * General Debugging +
 _Strategies and techniques for analyzing code for bug identification and resolution_
@@ -121,6 +121,18 @@ This area of mathematics is especially applicable to coding and software enginee
 ** Written Student Guides
 ** Practical Exercises/Labs
 
+== Pilot Budget
+
+.Projected Capital Costs for Full Pilot
+[cols="1,1", options="header,footer"]
+|===
+|Item |Cost
+|Software Engineering |$106,800
+|Development Hosting |$20,000
+|Content Creation |$50,000
+|*Total Cost* |*$176,800*
+|===
+
 == Future Work
 
 This initial phase of the project can be just the beginning.
@@ -129,7 +141,7 @@ The value of being able to deliver top-tier, vetted educators directly into the 
 
 In addition to adding new types of course content, the framework can also be expanded to track student progress over time, introduce gamification into the lessons, integrate with in-school learning management systems, and much more.
 
-Costs per lesson would stay static at $5,000 per 80 hours of content (notwithstanding changes in labor rates, inflation, or other unforeseen events).
+Costs per lesson would stay static at $5,000 per module (notwithstanding changes in labor rates, inflation, or other unforeseen events).
 Maintenance costs related to the digital framework would increase as features were added, although at a significantly lower rate than if it was a closed-source product.
 Hosting costs for production deployments of the framework would vary widely depending on the size and complexity of the deployment, but would be insignificant (5% total cost or less) concerning the capital outlays associated with the initial framework development and recurring content creation.
 
