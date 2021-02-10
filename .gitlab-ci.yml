@@ -14,7 +14,7 @@ build:
     -r asciidoctor-pdf -r asciidoctor-revealjs \
     -a pdf-themesdir=./theming/resources/themes/ \
     -a customcss=https://gitlab.com/gacybercenter/proposals-and-partnerships/-/jobs/$CI_JOB_ID/artifacts/raw/theming/resources/css/gcc_dark.css \
-    -a revealjsdir=https://cdn.jsdelivr.net/npm/reveal.js@3.9.2 ${i}; done
+    -a revealjsdir=https://cdnjs.cloudflare.com/ajax/libs/reveal.js/4.1.0/ ${i}; done
   artifacts:
     untracked: True
     paths:
