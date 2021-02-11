@@ -1,0 +1,26 @@
+= 1700 Utilization Plan
+:!toc:
+:backend: pdf
+:pdf-theme: gcc-dark
+
+== Executive Summary
+
+There are significant collaborative opportunities between the Georgia Cyber Center (GCC) IT team and the GCC Cyber Range team, generally focused in three areas:
+
+. Everything-as-code
+. Process Automation
+. Workforce Development
+
+Generating positive results in these three areas of interest will require adjustments to PCFs, active skill-broadening engagements, and culminate with a successful GCC refresh/upgrade into more modern and automated systems.
+The IT team will adjust their PCFs to capture a need for utilization programming abilities during the course of their daily jobs.
+For the A/V team, this will generally include using the Crestron (or other A/V vendor) REST API in order to configure the various devices across the campus, rather than manually touching them.
+For the network and workstation team, this will include using an automated configuration management system to control networking equipment and workstations across the campus, without the need for team members to individually interact with the systems themselves.
+By conducting these activities with assistance from the Cyber Range team, the IT team will be of significantly greater utility across the campus, and will be viable candidates for more difficult and better-paying occupations.
+
+== PCF Adjustments
+
+== Skill Broadening
+
+== GCC Refresh
+
+==
