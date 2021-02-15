@@ -17,6 +17,9 @@ For the A/V team, this will generally include using the Crestron (or other A/V v
 For the network and workstation team, this will include using an automated configuration management system to control networking equipment and workstations across the campus, without the need for team members to individually interact with the systems themselves.
 By conducting these activities with assistance from the Cyber Range team, the IT team will be of significantly greater utility across the campus, and will be viable candidates for more difficult and better-paying occupations.
 
+==Statement of need
+
+
 == PCF Adjustments
 
 == Skill Broadening
