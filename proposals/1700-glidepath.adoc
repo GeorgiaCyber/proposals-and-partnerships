@@ -18,9 +18,11 @@ For the network and workstation team, this will include using an automated confi
 By conducting these activities with assistance from the Cyber Range team, the IT team will be of significantly greater utility across the campus, and will be viable candidates for more difficult and better-paying occupations.
 
 == PCF Adjustments
+The Goal of the PCF reclassification is to expand the rolls of IT by adding a programming component, cross training component and adding a deeper level of support that broading the skill base of each individual. 
 
 == Skill Broadening
+The goal here 
 
 == GCC Refresh
 
-== Test
+== 
