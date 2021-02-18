@@ -21,7 +21,7 @@ By conducting these activities with assistance from the Cyber Range team, the IT
 The Goal of the PCF reclassification is to expand the rolls of IT by adding a programming component, cross training component and adding a deeper level of support that broading the skill base of each individual. 
 
 == Skill Broadening
-The goal here 
+The goal here is to create a career path and pipeline for IT minded individuals who need an entry point into the industry. It will give those that can come in at an entry level workstation or Audio Visual support postion and give them access and added training in networking, virtualization(cyber range), automation and a whole host of cyber security experience. 
 
 == GCC Refresh
 
