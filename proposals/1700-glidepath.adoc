@@ -24,5 +24,6 @@ The Goal of the PCF reclassification is to expand the rolls of IT by adding a pr
 The goal here is to create a career path and pipeline for IT minded individuals who need an entry point into the industry. It will give those that can come in at an entry level workstation or Audio Visual support postion and give them access and added training in networking, virtualization(cyber range), automation and a whole host of cyber security experience. 
 
 == GCC Refresh
+The support and range staff can work collaboratively to automate the campus refresh. the goal is to have a space the will have a physical bench style environment that will allow technicians and developers to build, test, teardown and deploy from a central location outside of the public eye. 
 
 == 
