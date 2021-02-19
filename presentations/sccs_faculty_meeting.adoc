@@ -99,7 +99,7 @@ image::gcc_black_bg.svg[background, size=100%]
 
 [%step]
 * Critical Infrastructure Bug Bounty
-* Rural Coding Program
+* Larger Rural Coding Program
 
 [.notes]
 --
