@@ -18,14 +18,32 @@ For the network and workstation team, this will include using an automated confi
 By conducting these activities with assistance from the Cyber Range team, the IT team will be of significantly greater utility across the campus, and will be viable candidates for more difficult and better-paying occupations.
 
 == PCF Adjustments
+
 PCF reclassification will allow for the expansion the roles of IT by adding a programming component to each organizational role which will allow for cross-training and collaborative activities.
 Additionally, broadening the skill base of each individual will allow for a deeper and more sophisticated level of support to become available to the Georgia Cyber Center without requiring expensive 3rd party training or external hires.
 
 == Skill Broadening
-The goal here is to create a career path and pipeline for IT minded individuals who need an entry point into the industry.
-It will give those that can come in at an entry level workstation or Audio Visual support postion and give them access and added training in networking, virtualization(cyber range), automation and a whole host of cyber security experience. 
+
+After PCF reclassification has been completed and there are formal programming requirements across the entirety of the GCC IT staff,
+the next step will be to create a career path and pipeline for technically-inclined individuals who need an entry point into the broader industry.
+It will give those that are hired in to an entry level workstation or audio/visual support position exposure to and concrete experience with technologies in networking, automation, virtualization/emulation, and security research that would otherwise be significantly beyond their reach.
+
+Formalized skill-broadening events will begin to take place in one of two categories:
+
+. Hack-a-thon +
+IT team members will be given open issues on the Georgia Cyber Range github and will (via a paired programming model) propose code-based solutions to the problems for potential inclusion.
+. Capture-the-Flag +
+IT team members will take part in a multi-day capture-the-flag event where they solve programming challenges based around several categories (REST APIs, network programming, etc.)
+
+Informal skill-broadening events will include:
+
+. Access to the rural coding initiative
+. Access to highly-skilled Cyber Range staff
+. Access to Cyber Range interns who are probably at similar levels of programming skill and will be able to assist with onboarding
 
 == GCC Refresh
-The support and range staff can work collaboratively to automate the campus refresh. the goal is to have a space the will have a physical bench style environment that will allow technicians and developers to build, test, teardown and deploy from a central location outside of the public eye. 
 
-== Statement of Need 
+As the skills of the IT staff get broadened, the support and range staff can work collaboratively on the campus refresh plan.
+This will allow the GCC to update and modernize its current systems to be as automated as possible, without necessitating the hiring of expensive external consultants.
+Successful up-skilling of the IT staff will yield significant capital and operational savings, both in terms of real dollars and man hours over the course of the lifetime of the refreshed equipment.
+Suite 1700 is an ideal space to develop, test, and experiment with potential replacement hardware without interfering with other business operations.
