@@ -1,0 +1,110 @@
+= The Georgia Cyber Range
+Chris Apsey <capsey@augusta.edu>
+:backend: revealjs
+:imagesdir: https://gitlab.com/gacybercenter/theming/-/raw/master/resources/images/
+:title-slide-background-image: gcc_grey_title_bg.svg
+:revealjs_theme: black
+
+== What is a Cyber Range?
+
+[%step]
+.What it currently means
+* ??????
+
+[%step]
+.What it should mean
+* Reproducibility
+* Observability
+* Unique capabilities at scale
+
+[.notes]
+--
+* At this point, a 'Cyber Range' is anything that can process binary data.
+It has lost all meaning in the modern technical lexicon, mostly due to unscrupulous marketing of rebranded, already-existing products that don't offer any real additional functionality.
+
+* If you went out and bought a commercial 'cyber range' offering, you probably bought something that you already had.
+
+* 3 key differentiators for what a 'cyber range' should be:
+** Reproducibility - Every 'experiment' should be able to be independently reproduced by anyone, anywhere
+** Observability - Every 'experiment' should be able to be able to be transparently examined from start to finish
+** Unique capabilities at scale - A Cyber Range should offer significant capabilities beyond what is available in traditional IT systems at scale
+--
+
+image::gcc_black_bg.svg[background, size=100%]
+
+== A Brief History of the GCR
+
+[%step]
+* Army Origins
+* Open-Source (Apache 2.0 License)
+* GCC Stewardship and community involvement
+
+[.notes]
+--
+In 2015, the Army correctly realized that the tooling needed to train its new 17-series Soldiers was entirely unlike anything that the service possessed at the time.
+After a rigorous review of commercial options, the Army opted to self-develop an entirely new system out of open-source components, and make that work freely available on the internet for anyone who wanted to use it.
+This project ended up being called the kinetic framework.
+
+Recognizing that the Army's needs were not unique, the Army partnered with the Georgia Cyber Center to ensure that the newly-published framework did not become stale, and transferred stewardship to the GCC.
+
+Now, members of the Army, GCC, and others contribute to the kinetic framework on a regular basis.
+The kinetic framework has even gotten contributions from employees of the Dutch government.
+--
+
+image::gcc_black_bg.svg[background, size=100%]
+
+== Why we are different
+
+[%step]
+* Laser focus on the 'other'
+* i386/amd64, ppc64le (IBM POWER8), aarch64 (ARM Cortex A-57) work *now*; other architectures coming soon(tm)
+* Zero proprietary data
+* Amalgamation of several open-source technologies (ceph, openstack, salt, and others)
+
+[.notes]
+--
+* I don't care about Enterprise IT security.
+It receives an inordinate amount of attention relative to scope of impact, whereas embedded systems/critical infrastructure receive almost no attention, but issues with them can be catastrophic.
+
+* Anecdote about training event.  G6-run sharepoint server got hacked, everyone was hyperventilating and believed that the world was ending.
+Corps Commander was briefed on a 'hack' of his sharepoint server.
+He did not care, as long as his tanks could still kill things.
+
+* The work is too complex to go it alone - proprietary solutions have no place in critical systems security.
+Black boxes are the antithesis of a secure system.
+
+Kerchoffs Principle - A system should be secure if everything is known about it except the key
+Shannons Maxim - The enemy knows the system
+--
+
+image::gcc_black_bg.svg[background, size=100%]
+
+== Current Efforts
+
+[%step]
+* ACI Grant (Partnership w/ SCCS)
+* Rural Coding Program
+
+[.notes]
+--
+* Army Cyber Institute awarded the GCC a grant specifically focused on improving the tooling used for critical systems security research.
+This work will be open-sourced and added to the Georgia Cyber Range when complete.
+
+* Taliaferro County School district presents a great opportunity to expose young minds to a Cyber Range and start getting them to think about cybersecurity in the correct manner.
+--
+
+image::gcc_black_bg.svg[background, size=100%]
+
+== The Future
+
+[%step]
+* Critical Infrastructure Bug Bounty
+* Larger Rural Coding Program
+
+[.notes]
+--
+Critical infrastructure manufacturers are notoriously secretive when it comes to their IP.
+This signature program of the GCC aims to bridge this gap by connecting vetted security researchers to a copy of the critical infrastructure in a controlled environment, taking advantage of the improved tooling that was developed with the ACI grant.
+--
+
+image::gcc_black_bg.svg[background, size=100%]

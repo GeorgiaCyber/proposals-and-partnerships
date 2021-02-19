@@ -1,0 +1,35 @@
+= A Proposed Partnership between Richmond County, GA and the Georgia Cyber Center
+Chris Apsey <capsey@augusta.edu>
+:!toc:
+:backend: pdf
+:pdf-theme: gcc-dark
+
+include::../templates/crit_infrastructure_bug_bounty_intro.adoc[]
+
+== Executive Summary
+
+There are numerous reasons for the lack of widespread, organized, and meaningful activity in this space to-date, but they can generally be boiled down into one of four categories:
+
+. Lack of available technical personnel with required skillsets
+. Unwillingness of vendor/manufacturer to provide systems insight due to fear of bad publicity
+. Lack of stakeholder understanding and buy-in generally due to incorrect resultant risk calculations based on risk models that have not been updated to reflect new realities
+. Inability of those who understand the above issues to effectively communicate with decision-makers in meaningful terms that are tied directly to organizational scope and mission
+
+This project would seek to remedy the above by:
+
+. Enabling those who are not physically present in the region to participate in the program by publicly hosting non-production replicas of the control systems with dummy data
+. Encourage the development of trust with vendors and manufacturers by framing this program not as a way to point out their flaws, but to make their products functionally better give the manufacturers a powerful corporate responsibility talking point
+. Provide data on the impacts of participation in bug bounty programs on product safety and resilience in programs of similar size
+. Focus on how each participant in this partnership will benefit from a successful program as it relates to their core mission, rather than on specific technical details.
+
+To those ends, we propose a program where the Georgia Cyber Center facilitates a bug bounty program that will closely examine the software, firmware, and hardware associated with various Richmond County utilities.
+This program would allow the Richmond County's vendors to provide copies of their products for assessment by security researchers.
+It may also provide physical access to production systems by vetted personnel if allowable/not a safety concern.
+
+The Georgia Cyber Center would allow vetted security researchers to examine critical infrastructure components in a controlled manner either in-person or on the Georgia Cyber Range, as appropriate.
+The program would require very close collaboration between the researchers, Georgia Cyber Center, Richmond County Utilities, and the manufacturers who supply Richmond County.
+
+As the researchers discovered vulnerabilities in the software, firmware, or hardware from the vendors, the vendors would purchase those vulnerabilities from the researchers, fix them, and then provide updates to their line of products as appropriate.
+The Georgia Cyber Center would take a percent commission on the discovered vulnerabilities in order to cover the costs incurred on the Georgia Cyber Range.
+
+A successful program would end with a joint statement outlining the vulnerabilities that were found and subsequently fixed, along with any plans for a permanent iteration of the program.
