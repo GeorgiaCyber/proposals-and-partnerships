@@ -9,7 +9,7 @@ Chris Apsey <capsey@augusta.edu>
 
 [%step]
 .What it currently means
-* Turing Machine
+* ??????
 
 [%step]
 .What it should mean
@@ -57,8 +57,9 @@ image::gcc_black_bg.svg[background, size=100%]
 
 [%step]
 * Laser focus on the 'other'
-* Not trying to compete with AWS, Azure, VMWare, etc.
+* i386/amd64, ppc64le (IBM POWER8), aarch64 (ARM Cortex A-57) work *now*; other architectures coming soon(tm)
 * Zero proprietary data
+* Amalgamation of several open-source technologies (ceph, openstack, salt, and others)
 
 [.notes]
 --
@@ -81,13 +82,13 @@ image::gcc_black_bg.svg[background, size=100%]
 == Current Efforts
 
 [%step]
-* ACI Grant
-* Taliaferro County
+* ACI Grant (Partnership w/ SCCS)
+* Rural Coding Program
 
 [.notes]
 --
 * Army Cyber Institute awarded the GCC a grant specifically focused on improving the tooling used for critical systems security research.
-This work will be be open-sourced and added to the Georgia Cyber Range when complete.
+This work will be open-sourced and added to the Georgia Cyber Range when complete.
 
 * Taliaferro County School district presents a great opportunity to expose young minds to a Cyber Range and start getting them to think about cybersecurity in the correct manner.
 --
@@ -98,6 +99,7 @@ image::gcc_black_bg.svg[background, size=100%]
 
 [%step]
 * Critical Infrastructure Bug Bounty
+* Rural Coding Program
 
 [.notes]
 --
