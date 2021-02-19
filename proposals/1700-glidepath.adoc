@@ -31,7 +31,7 @@ It will give those that are hired in to an entry level workstation or audio/visu
 Formalized skill-broadening events will begin to take place in one of two categories:
 
 . Hack-a-thon +
-IT team members will be given open issues on the Georgia Cyber Range github and will (via a paired programming model) propose code-based solutions to the problems for potential inclusion.
+IT team members will be given open issues on the Georgia Cyber Range GitHub and will (via a paired programming model) propose code-based solutions to the problems for potential inclusion.
 . Capture-the-Flag +
 IT team members will take part in a multi-day capture-the-flag event where they solve programming challenges based around several categories (REST APIs, network programming, etc.)
 
