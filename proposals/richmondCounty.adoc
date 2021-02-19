@@ -4,7 +4,7 @@ Chris Apsey <capsey@augusta.edu>
 :backend: pdf
 :pdf-theme: gcc-dark
 
-include::../templates/crit_infrastructure_bug_bounty.adoc[]
+include::../templates/crit_infrastructure_bug_bounty_intro.adoc[]
 
 == Executive Summary
 
