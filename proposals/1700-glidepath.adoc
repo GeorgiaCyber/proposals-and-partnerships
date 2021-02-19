@@ -18,10 +18,12 @@ For the network and workstation team, this will include using an automated confi
 By conducting these activities with assistance from the Cyber Range team, the IT team will be of significantly greater utility across the campus, and will be viable candidates for more difficult and better-paying occupations.
 
 == PCF Adjustments
-The Goal of the PCF reclassification is to expand the rolls of IT by adding a programming component, cross training component and adding a deeper level of support that broading the skill base of each individual. 
+PCF reclassification will allow for the expansion the roles of IT by adding a programming component to each organizational role which will allow for cross-training and collaborative activities.
+Additionally, broadening the skill base of each individual will allow for a deeper and more sophisticated level of support to become available to the Georgia Cyber Center without requiring expensive 3rd party training or external hires.
 
 == Skill Broadening
-The goal here is to create a career path and pipeline for IT minded individuals who need an entry point into the industry. It will give those that can come in at an entry level workstation or Audio Visual support postion and give them access and added training in networking, virtualization(cyber range), automation and a whole host of cyber security experience. 
+The goal here is to create a career path and pipeline for IT minded individuals who need an entry point into the industry.
+It will give those that can come in at an entry level workstation or Audio Visual support postion and give them access and added training in networking, virtualization(cyber range), automation and a whole host of cyber security experience. 
 
 == GCC Refresh
 The support and range staff can work collaboratively to automate the campus refresh. the goal is to have a space the will have a physical bench style environment that will allow technicians and developers to build, test, teardown and deploy from a central location outside of the public eye. 
