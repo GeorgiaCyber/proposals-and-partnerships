@@ -2,7 +2,7 @@
 Chris Apsey <capsey@augusta.edu>
 :!toc:
 :backend: pdf
-:pdf-theme: gcc-dark
+:pdf-theme: gcc-blue
 
 include::../templates/crit_infrastructure_bug_bounty_intro.adoc[]
 
