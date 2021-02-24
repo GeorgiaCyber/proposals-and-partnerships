@@ -32,9 +32,16 @@ IT team members will take part in a multi-day capture-the-flag event where they 
 
 Informal skill-broadening events will include:
 
+. Access to Security Access control infrastucture, Software and Hardware
+. Access to Open and Secured wired and wireless networks infrastructure
+. Access to Audio Visual equipment
+. Access to Desktop hardware
+. Access to Network virtualization
 . Access to the rural coding initiative
 . Access to highly-skilled Cyber Range staff
 . Access to Cyber Range interns who are probably at similar levels of programming skill and will be able to assist with onboarding
+
+With this combined team collaboration under one roof, the professional pipeline will give individuals a pathway for future technology growth.
 
 == GCC Refresh
 
