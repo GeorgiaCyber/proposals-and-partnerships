@@ -1,7 +1,7 @@
 = 1700 Utilization Plan
 :!toc:
 :backend: pdf
-:pdf-theme: gcc-dark
+:pdf-theme: gcc-light
 
 == Executive Summary
 
