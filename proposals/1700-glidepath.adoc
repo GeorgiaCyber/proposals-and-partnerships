@@ -32,9 +32,16 @@ IT team members will take part in a multi-day capture-the-flag event where they 
 
 Informal skill-broadening events will include:
 
-. Access to the rural coding initiative
-. Access to highly-skilled Cyber Range staff
-. Access to Cyber Range interns who are probably at similar levels of programming skill and will be able to assist with onboarding
+* Access to security access control infrastucture, software, and hardware
+* Access to both open and secure wireless network infrastructure
+* Access to audio/visual equipment
+* Access to desktop hardware
+* Access to network virtualization tools such as SONiC and DANOS
+* Access to the rural coding initiative
+* Access to highly-skilled Cyber Range staff
+* Access to Cyber Range interns who are probably at similar levels of programming skill and will be able to assist with onboarding
+
+With this combined team collaboration under one roof, the professional pipeline will give individuals a pathway for professional and academic development. A person can hire in at an entry level support position, gain on the job training, take advantage of the USG TAP program to earn a degree, then furture develop there professional personna with the wide variety of Information Technology avenues we have. 
 
 == GCC Refresh
 
