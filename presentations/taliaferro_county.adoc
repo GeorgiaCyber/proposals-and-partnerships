@@ -21,12 +21,32 @@ GCC, Taliaferro County School District, and Harrison Poultry company have execut
 
 image::gcc_black_bg.svg[background, size=cover]
 
-== Proposal Part 1
+== Overview
 
-* GCC shepherds creation of computer science/electrical engineering-focused "content"
+* GCC shepherds creation of computer science/electrical engineering-focused "content" (Rural Coding)
 ** Content in this context means instructional materials, video lessons, and accompanying practical activities
 ** Work should be able to exist independently of K-12 structure and be able to stand on its own for individual learners outside of a school environment
 ** *Must* be able to be ported to an offline option that provides near-equivalent experience
+* GCC also tests latest broadband RF technologies in effort to bridge the 'digital divide' (RF Testing)
+
+[.notes]
+--
+Students currently have extremely limited background in this kind of technical work, and expectations should be managed accordingly.
+GCC would not endeavor to write all of the content in-house, but would instead focus on one-off contracting solutions.
+Follow-on state funding would potentially provide an avenue for continued maintenance.
+GCC also interested in testing various rural broadband RF solutions
+--
+
+image::gcc_black_bg.svg[background, size=cover]
+
+== Rural Coding
+
+* Taliaferro County helps GCC understand what their immediate requirements/needs are
+** Possible train-the-trainer opportunities
+* Harrison Poultry can provide an avenue for students to apply their newly learned skills
+** Copies of hardware, software, firmware, etc. present in their new plant
+** Harrison can benefit by getting access to low-cost security research and improve the resiliency of their operations
+** Potential opportunity for investment match
 
 [.notes]
 --
@@ -37,19 +57,15 @@ Follow-on state funding would potentially provide an avenue for continued mainte
 
 image::gcc_black_bg.svg[background, size=cover]
 
-== Proposal Part 2
+== RF Testing
 
-* Taliaferro County helps GCC understand what their immediate requirements/needs are
-** Possible train-the-trainer opportunities
-* Harrison Poultry can provide an avenue for students to apply their newly learned skills
-** Copies of hardware, software, firmware, etc. present in their new plant
-** Harrison can benefit by getting access to low-cost security research and improve the resiliency of their operations
+* Harrison Poultry provides location to mount RF equipment (feed mill) along with electrical power to supply the RF base stations
+** None of the equipment being tested will interfere with any licensed users (cell tower)
+* Georgia Cyber Center funds and collaborates with RF engineer during course of project
+** Project will run approximately 30-45 days, after which equipment will be dismantled and removed
 
 [.notes]
 --
-Students currently have extremely limited background in this kind of technical work, and expectations should be managed accordingly.
-GCC would not endeavor to write all of the content in-house, but would instead focus on one-off contracting solutions.
-Follow-on state funding would potentially provide an avenue for continued maintenance.
 --
 
 image::gcc_black_bg.svg[background, size=cover]
@@ -57,8 +73,8 @@ image::gcc_black_bg.svg[background, size=cover]
 == Contributions
 
 * Taliaferro County provides requirements
-* GCC provides content
-* Harrison Poultry provides targets for practical applications
+* GCC provides content, consultant, and RF hardware
+* Harrison Poultry provides targets for practical applications and physical structure to mount RF equipment along with electricity
 
 [.notes]
 --
