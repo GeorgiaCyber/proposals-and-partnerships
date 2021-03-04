@@ -25,8 +25,7 @@ image::gcc_black_bg.svg[background, size=cover]
 
 * GCC shepherds creation of computer science/electrical engineering-focused "content" (Rural Coding)
 ** Content in this context means instructional materials, video lessons, and accompanying practical activities
-** Work should be able to exist independently of K-12 structure and be able to stand on its own for individual learners outside of a school environment
-** Adult learners would also be potentially included as a means to re-skill/up-skill and refresh from an open knowledge repository
+** Adult learners would also be potentially included as a means to re-skill/up-skill and refresh from an open knowledge repository outside of the classroom
 ** *Must* be able to be ported to an offline option that provides near-equivalent experience
 * GCC also tests latest broadband RF technologies in effort to bridge the 'digital divide' (fixed-wireless RF Testing, as opposed to mobile-wireless technologies used by cell providers)
 
