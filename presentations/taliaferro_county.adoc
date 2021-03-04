@@ -11,7 +11,7 @@ Chris Apsey <capsey@augusta.edu>
 * Taliaferro County has K-12 co-located in a single building
 * All technology instruction is delivered via CTAE teacher
 * *60% of children under 18 live below poverty line*
-* Unique opportunity presented with construction of Harrison Poultry plant
+* Unique opportunity presented with construction and cooperation/collaboration of Harrison Poultry plant
 * State is interested in using Taliaferro as a pilot to 'solve' the challenge of rural technical education
 
 [.notes]
@@ -26,27 +26,28 @@ image::gcc_black_bg.svg[background, size=cover]
 * GCC shepherds creation of computer science/electrical engineering-focused "content" (Rural Coding)
 ** Content in this context means instructional materials, video lessons, and accompanying practical activities
 ** Work should be able to exist independently of K-12 structure and be able to stand on its own for individual learners outside of a school environment
+** Adult learners would also be potentially included as a means to re-skill/up-skill and refresh from an open knowledge repository
 ** *Must* be able to be ported to an offline option that provides near-equivalent experience
-* GCC also tests latest broadband RF technologies in effort to bridge the 'digital divide' (RF Testing)
+* GCC also tests latest broadband RF technologies in effort to bridge the 'digital divide' (fixed-wireless RF Testing, as opposed to mobile-wireless technologies used by cell providers)
 
 [.notes]
 --
 Students currently have extremely limited background in this kind of technical work, and expectations should be managed accordingly.
 GCC would not endeavor to write all of the content in-house, but would instead focus on one-off contracting solutions.
 Follow-on state funding would potentially provide an avenue for continued maintenance.
-GCC also interested in testing various rural broadband RF solutions
+GCC also interested in testing various rural broadband fixed-wireless RF solutions
 --
 
 image::gcc_black_bg.svg[background, size=cover]
 
 == Rural Coding
 
-* Taliaferro County helps GCC understand what their immediate requirements/needs are
+* GCC works with Taliaferro County to better understand immediate requirements/needs exist
 ** Possible train-the-trainer opportunities
-* Harrison Poultry can provide an avenue for students to apply their newly learned skills
+* Harrison Poultry realizes a mutually beneficial outcome through skilled workforce development
 ** Copies of hardware, software, firmware, etc. present in their new plant
-** Harrison can benefit by getting access to low-cost security research and improve the resiliency of their operations
-** Potential opportunity for investment match
+** Harrison can benefit by getting access to low-cost security research and capture highly valued participants as employees
+** Industry opportunity for investment match
 
 [.notes]
 --
@@ -59,9 +60,10 @@ image::gcc_black_bg.svg[background, size=cover]
 
 == RF Testing
 
-* Harrison Poultry provides location to mount RF equipment (feed mill) along with electrical power to supply the RF base stations
+* Harrison Poultry agreeable to allowing mount of RF equipment (feed mill) along with electrical power (120V) to supply the RF base stations.
+** Minimum energy requirements
 ** None of the equipment being tested will interfere with any licensed users (cell tower)
-* Georgia Cyber Center funds and collaborates with RF engineer during course of project
+* Georgia Cyber Center has acquired requisite funding to collaborate with RF engineering firm during course of project
 ** Project will run approximately 30-45 days, after which equipment will be dismantled and removed
 
 [.notes]
@@ -72,9 +74,9 @@ image::gcc_black_bg.svg[background, size=cover]
 
 == Contributions
 
-* Taliaferro County provides requirements
-* GCC provides content, consultant, and RF hardware
-* Harrison Poultry provides targets for practical applications and physical structure to mount RF equipment along with electricity
+* GCC and Taliaferro County collaboratively identify requirements
+* GCC provides content, RF consultant(s), and RF hardware
+* Harrison Poultry provides targets for practical applications, physical structure to mount RF equipment, and energy requirements
 
 [.notes]
 --
