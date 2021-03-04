@@ -1,0 +1,53 @@
+= Coding for Rural Georgians - FY22 Expansion
+:!toc:
+:backend: pdf
+:pdf-theme: gcc-blue
+
+== Executive Summary
+
+For the original program overview and goals, go https://gitlab.com/gacybercenter/proposals-and-partnerships/-/jobs/artifacts/master/raw/proposals/rural-coding.pdf?job=build[here].
+
+== Program Expansion Goals
+
+* 20x increase in supported student count (162 -> 3240)
+* Addition of 'advanced' and 'expert' modules with different contract price points ($10k max, $25k max)
+* Explicitly tie every curriculum module to one or more requirements from https://www.georgiastandards.org/[Georgia Standards]
+* Formalize advertising/outreach campaigns for content creator pipeline
+* Add support for physical hardware integration (e.g. raspberry pi, software defined radios, etc.)
+
+== FY 2022 Budget Request
+
+.Projected Capital Costs for Program Expansion (one-time)
+[cols="1,1", options="header,footer"]
+|===
+|Item |Cost
+|Software Engineering |$200,000
+|Development Hosting |$50,000
+|Content Creation |$800,000
+|Miscellaneous (Advertising, Content Creator program on-boarding materials, etc.) |$100,000
+|*Total Cost* |*$1,150,000*
+|===
+
+.Projected Operational Costs for Program Expansion (annual recurring)
+[cols="1,1", options="header,footer"]
+|===
+|Item |Cost
+|20% Makerspace Technician FTE (fringe incl.) |$20,000
+|50% Courseware-as-Code Content Creator FTE (fringe incl.) |$75,000
+|20% Hardware lifecycle | $100,000
+|*Total Annual Recurring Cost* |*$195,000*
+|===
+
+*Total FY 2022 Ask: $1,345,000*
+
+== FY 2022 Budget Breakdown and spend plan
+
+Fix me.
+
+== Future Work
+
+Fix me.
+
+== Conclusion
+
+Fix me.
