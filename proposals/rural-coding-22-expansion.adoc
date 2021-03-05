@@ -67,6 +67,8 @@ Following on the initial 5 'basic' modules developed with AFY21 funding, the lar
 |Expert Modules |~4 |$100,000
 |===
 
+For information on how content creation contracts will be issued, go https://gitlab.com/gacybercenter/proposals-and-partnerships/-/jobs/artifacts/master/raw/proposals/rural-coding.pdf?job=build[here].
+
 === Miscellaneous
 
 This line item accounts for miscellaneous expenses associated with growing the program.
