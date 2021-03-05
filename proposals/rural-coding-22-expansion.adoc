@@ -25,7 +25,7 @@ For the original program overview and goals, go https://gitlab.com/gacybercenter
 |Development Hosting |$50,000
 |Content Creation |$800,000
 |Miscellaneous (Advertising, Content Creator program on-boarding materials, etc.) |$100,000
-|*Total Cost* |*$1,150,000*
+|*Total Capital Cost* |*$1,150,000*
 |===
 
 .Projected Operational Costs for Program Expansion (annual recurring)
