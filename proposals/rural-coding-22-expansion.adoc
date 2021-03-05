@@ -9,7 +9,7 @@ For the original program overview and goals, go https://gitlab.com/gacybercenter
 
 == Program Expansion Goals
 
-* 20x increase in supported student count (162 -> 3240)
+* 20x increase in supported student count (up to 3240)
 * Addition of 'advanced' and 'expert' modules with different contract price points ($15k max, $25k max)
 * Explicitly tie every curriculum module to one or more requirements from https://www.georgiastandards.org/[Georgia Standards]
 * Formalize advertising/outreach campaigns for content creator pipeline
