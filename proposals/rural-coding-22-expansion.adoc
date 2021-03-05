@@ -10,7 +10,7 @@ For the original program overview and goals, go https://gitlab.com/gacybercenter
 == Program Expansion Goals
 
 * 20x increase in supported student count (162 -> 3240)
-* Addition of 'advanced' and 'expert' modules with different contract price points ($10k max, $25k max)
+* Addition of 'advanced' and 'expert' modules with different contract price points ($15k max, $25k max)
 * Explicitly tie every curriculum module to one or more requirements from https://www.georgiastandards.org/[Georgia Standards]
 * Formalize advertising/outreach campaigns for content creator pipeline
 * Add support for physical hardware integration (e.g. raspberry pi, software defined radios, etc.)
@@ -42,12 +42,48 @@ For the original program overview and goals, go https://gitlab.com/gacybercenter
 
 == FY 2022 Budget Breakdown and spend plan
 
-Fix me.
+This section breaks down each budgetary line item and outlines more detail about how it will be spent.
 
-== Future Work
+=== Software Engineering
 
-Fix me.
+This line item focuses on updating and maintaining the framework to support additional requirements from the advanced and expert modules, mostly centered around adding support for external hardware and more complicated practical exercises.
+For more information about rates, go https://gitlab.com/gacybercenter/proposals-and-partnerships/-/jobs/artifacts/master/raw/proposals/rural-coding.pdf?job=build[here].
 
-== Conclusion
+=== Development Hosting
 
-Fix me.
+This section accounts for providing a development and test environment for the software engineering work.
+
+=== Content Creation
+
+This line item is dedicated to content creation; the backbone of the entire program.
+Following on the initial 5 'basic' modules developed with AFY21 funding, the larger FY22 program will allocate content development assets in the following manner:
+
+.Content Budget
+[cols="1,1,1", options="header"]
+|===
+|Item |Quantity |Cost
+|Basic Modules |~50 |$500,000
+|Advanced Modules |~13 |$200,000
+|Expert Modules |~4 |$100,000
+|===
+
+=== Miscellaneous
+
+This line item accounts for miscellaneous expenses associated with growing the program.
+This includes (but is not limited to) advertising, creation of onboard documentation, creation of procurement process navigation documentation (for laypeople), administrative overhead (mostly related to contract management), user guides, developer guides, and more.
+
+=== Makerspace Technician FTE (20%)
+
+This line item pays for 20% of a full time employee (approximately 400 hours/year).
+The purpose of this employee is to design, test, and validate hardware required for any of the advanced or expert modules.
+Additionally, they may participate in (unpaid beyond actual salary) content creation activities when the course material aligns with their skill set.
+
+=== Courseware-as-Code Content Creator FTE (50%)
+
+This line item pays for 50% of a full time employee (approximately 1000 hours/year).
+The purpose of this employee is to manage content creation activities (e.g. perform QA/QC on contracted content to ensure that it meets the requirements of the State) and create content where no viable contract proposal can be found.
+This individual will work closely with the Makerspace Technician, although there will be no supervisory relationship between them.
+
+=== Hardware Lifecycle (20%)
+
+This line item pays for the maintenance of the hardware that powers the system by providing partial lifecycle funding as an operational expense rather than a capital one.
