@@ -14,7 +14,7 @@ Due to these challenges, rural students are under-served, under-resourced, and p
 The Georgia Cyber Center seeks to address these inequalities by pioneering the online and offline delivery of foundational computer science, electrical engineering, and mathematical education without the need for significant capital investment or additional hiring actions in these under-served areas.
 Recently, the Georgia Cyber Center met with Taliaferro County's superintendent to discuss a pilot program that would substantively redress these issues.
 
-This effort is a radical departure from the traditional means of delivering interactive experiences to students;
+This effort is a significant departure from the traditional means of delivering interactive experiences to students;
 it is focused on finding potential solutions to fit the problem at hand, rather than making the problem at hand fit into the confines of existing solutions.
 To that end, what the exact final product will be is not currently fully understood.
 Different tactics will be tried, assessed, and discarded or pursued further repeatedly throughout the entire development process, with the goal being finding the best solution that works for rural Georgians.
