@@ -9,10 +9,15 @@ Georgia has the third-largest population of rural students in the USA after Texa
 Providing technical skills and education is a challenge in rural Georgia counties such as Taliaferro, Hancock, and Toombs.
 This is often due to a lack of experienced teachers, technical equipment, and sufficient after-school support systems.
 Given the economic disadvantages typically experienced by rural counties, these are not problems that are easily solved.
-Due to these challenges, rural students are underserved, under-resourced, and placed at a significant disadvantage when entering the workforce.
+Due to these challenges, rural students are under-served, under-resourced, and placed at a significant disadvantage when entering the workforce.
 
-The Georgia Cyber Center seeks to address these inequalities by pioneering the online and offline delivery of foundational computer science, electrical engineering, and mathematical education without the need for significant capital investment or additional hiring actions in these underserved areas.
+The Georgia Cyber Center seeks to address these inequalities by pioneering the online and offline delivery of foundational computer science, electrical engineering, and mathematical education without the need for significant capital investment or additional hiring actions in these under-served areas.
 Recently, the Georgia Cyber Center met with Taliaferro County's superintendent to discuss a pilot program that would substantively redress these issues.
+
+This effort is a radical departure from the traditional means of delivering interactive experiences to students;
+it is focused on finding potential solutions to fit the problem at hand, rather than making the problem at hand fit into the confines of existing solutions.
+To that end, what the exact final product will be is not currently fully understood.
+Different tactics will be tried, assessed, and discarded or pursued further repeatedly throughout the entire development process, with the goal being finding the best solution that works for rural Georgians.
 
 The goal is to bring an engaging and interactive curriculum to students.
 This is accomplished by connecting them with the best practices and best teaching talent from across the nation regardless of zip code while allowing highly talented and qualified teachers to reside wherever they choose.
