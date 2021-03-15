@@ -6,14 +6,18 @@ Chris Apsey <capsey@augusta.edu>
 == Executive Summary
 
 The National Centers of Academic Excellence in Cybersecurity (NCAE-C) has issued a solicitation calling for proposals related to "Cybersecurity Community Development", specifically in the area of critical infrastructure security.
-Augusta University and the Georgia Cyber Center would like to partner with Columbia County on this effort in order to cement the reputation of the local community as a critical infrastructure security research hub.
+Augusta University and the Georgia Cyber Center desire a partnership with Columbia County on this effort in order to demonstrate and cement the reputation of the local community as a critical infrastructure security research hub.
 
-The grant application would call for the first-of-its-kind external review of county critical infrastructure, after which (in accordance with pre-negotiated non-disclosure agreements) the results would be published publicly.
-The goal would be to set a precedent for recurring research and increasingly public results.
+The grant application would call for the first-of-its-kind external review of county critical infrastructure, subsequently (in accordance with pre-negotiated non-disclosure agreements) the results would be published.
+The goal would be to set a precedent for recurring research and increasingly public results, similar to ISAC.
 
-Columbia County's long-term contribution would be in the form of access: access to critical infrastructure staff, access to critical infrastructure itself (either in production or test kit), and access to original operational technology hardware manufacturers and vendors.
+Columbia County's anticipated contribution would be in the form of access:
 
-The short-term contribution would be a letter signed by the Chairman (or at whatever level is appropriate) committing to the same, the likeness of which would be included in the grant proposal.
+. Access to critical infrastructure staff
+. Access to critical infrastructure itself (either in production or test kit)
+. Access to original operational technology hardware manufacturers and vendors
+
+Given the short suspense, the short-term contribution would be a letter signed by the Chairman (or at whatever level is appropriate) committing to the same, the likeness of which would be included in the grant proposal.
 
 The proposal is due to NCAE on the 12th of April, 2021.
 
