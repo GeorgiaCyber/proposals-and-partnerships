@@ -1,0 +1,37 @@
+= Columbia County Commitment in NCAE-C Critical Infrastructure Grant
+Chris Apsey <capsey@augusta.edu>
+:backend: pdf
+:pdf-theme: gcc-blue
+
+== Executive Summary
+
+The National Centers of Academic Excellence in Cybersecurity (NCAE-C) has issued a solicitation calling for proposals related to "Cybersecurity Community Development", specifically in the area of critical infrastructure security.
+Augusta University and the Georgia Cyber Center would like to partner with Columbia County on this effort in order to cement the reputation of the local community as a critical infrastructure security research hub.
+
+The grant application would call for the first-of-its-kind external review of county critical infrastructure, after which (in accordance with pre-negotiated non-disclosure agreements) the results would be published publicly.
+The goal would be to set a precedent for recurring research and increasingly public results.
+
+Columbia County's long-term contribution would be in the form of access: access to critical infrastructure staff, access to critical infrastructure itself (either in production or test kit), and access to original operational technology hardware manufacturers and vendors.
+
+The short-term contribution would be a letter signed by the Chairman (or at whatever level is appropriate) committing to the same, the likeness of which would be included in the grant proposal.
+
+The proposal is due to NCAE on the 12th of April, 2021.
+
+== Personnel
+
+The Georgia Cyber Center will be responsible for identifying qualified and trustworthy security researchers who will examine the various pieces of critical infrastructure.
+Columbia County will be responsible for providing these researchers access to the information technology and other personnel who manage, operate, and maintain these systems.
+These personnel will be critical in giving the researchers and full understand of system design and operational procedures so they may best focus their technical efforts for maximum return.
+
+== Equipment
+
+All equipment involved in the grant would be provided by Columbia County.
+The county would supervise security researchers as they conducted their work, particularly on systems that are considered 'in production'.
+The goal would be to give the researchers as much access as possible, while also ensuring continuity of operations.
+
+== Vendors
+
+Most importantly, Columbia County needs to facilitate communications between the researchers and the vendors.
+Manufacturers in this space are notoriously cagey and are usually unwilling to support external security research.
+The leveraging of the relationship between Columbia County and their critical infrastructure manufacturers will be extremely important - security research is significantly more difficult when researchers have an adversarial relationship with vendors.
+Columbia County will be critical in convincing vendors that this grant effort is a partnership designed to make vendor systems more resilient to the benefit of their shareholders rather than a way to showcase software and hardware shortcomings.
