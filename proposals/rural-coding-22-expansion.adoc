@@ -1,15 +1,14 @@
 = Coding for Rural Georgians - FY22 Expansion
 :!toc:
 :backend: pdf
-:pdf-theme: gcc-blue
 
 == Executive Summary
 
-For the original program overview and goals, go https://gitlab.com/gacybercenter/proposals-and-partnerships/-/jobs/artifacts/master/raw/proposals/rural-coding.pdf?job=build[here].
+For a description of the original problem and proposed solution framework, go https://gitlab.com/gacybercenter/proposals-and-partnerships/-/jobs/artifacts/master/raw/proposals/rural-coding.pdf?job=build[here].
 
 == Program Expansion Goals
 
-* 20x increase in supported student count (up to 3240)
+* 20x increase in supported student count (up to 3240 simultaneous)
 * Addition of 'advanced' and 'expert' modules with different contract price points ($15k max, $25k max)
 * Explicitly tie every curriculum module to one or more requirements from https://www.georgiastandards.org/[Georgia Standards]
 * Formalize advertising/outreach campaigns for content creator pipeline
@@ -38,7 +37,7 @@ For the original program overview and goals, go https://gitlab.com/gacybercenter
 |*Total Annual Recurring Cost* |*$195,000*
 |===
 
-*Total FY 2022 Ask: $945,000*
+*Total FY 2022 Expansion Request Cost: $945,000*
 
 == FY 2022 Budget Breakdown and spend plan
 
@@ -77,14 +76,14 @@ This includes (but is not limited to) advertising, creation of onboard documenta
 === Makerspace Technician FTE (20%)
 
 This line item pays for 20% of a full time employee (approximately 400 hours/year).
-The purpose of this employee is to design, test, and validate hardware required for any of the advanced or expert modules.
+The purpose of this/these employee(s) is to design, test, and validate hardware required for any of the advanced or expert modules.
 Additionally, they may participate in (unpaid beyond actual salary) content creation activities when the course material aligns with their skill set.
 
 === Courseware-as-Code Content Creator FTE (50%)
 
 This line item pays for 50% of a full time employee (approximately 1000 hours/year).
-The purpose of this employee is to manage content creation activities (e.g. perform QA/QC on contracted content to ensure that it meets the requirements of the State) and create content where no viable contract proposal can be found.
-This individual will work closely with the Makerspace Technician, although there will be no supervisory relationship between them.
+The purpose of this/these employee(s) is to manage content creation activities (e.g. perform QA/QC on contracted content to ensure that it meets the requirements of the State) and create content where no viable contract proposal can be found.
+This/these individual(s) will work closely with the Makerspace Technician(s), although there will be no supervisory relationship between them.
 
 === Hardware Lifecycle (20%)
 
