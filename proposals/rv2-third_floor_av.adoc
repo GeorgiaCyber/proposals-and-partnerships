@@ -83,6 +83,7 @@ Provide a collaboration and community space with presentation and media consumpt
 .*Total Equipment Cost Estimate*
 [cols="2,1", options="header,footer"]
 |===
+|Item |Cost
 |AV Gear |$26328
 |Sound Masking |$8535
 |*Total Cost* |*$34,863*
