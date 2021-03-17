@@ -8,7 +8,7 @@ Provide a collaboration and community space with presentation and media consumpt
 
 === Spaces
 
-==== *Elevator Lobby*
+.*Elevator Lobby*
 [cols="1,1", options="header,footer"]
 |===
 |Item |Cost
@@ -20,7 +20,7 @@ Provide a collaboration and community space with presentation and media consumpt
 |*Total Cost* |*$3,394*
 |===
  
-==== *Kitchen*
+.*Kitchen*
 [cols="1,1", options="header,footer"]
 |===
 |https://www.sharpnecdisplays.us/products/displays/v554q[55” NEC Display] |$1849
@@ -31,7 +31,7 @@ Provide a collaboration and community space with presentation and media consumpt
 |*Total Cost* |*$3,394*
 |===
 
-==== *Living Room 1*
+.*Living Room 1*
 [cols="1,1", options="header,footer"]
 |===
 |Item |Cost
@@ -41,12 +41,12 @@ Provide a collaboration and community space with presentation and media consumpt
 |https://www.crestron.com/Products/Video/HDMI-Solutions/HDMI-Extenders/HD-RX-4K-210-C-E[HDMI auto switcher] |$1700
 |https://www.bhphotovideo.com/c/product/1544098-REG/simply45_do_l001_proav_4k_loaded_dongler.html[Ring of HDMI adapters] |$115
 |https://www.bhphotovideo.com/c/product/1544098-REG/simply45_do_l001_proav_4k_loaded_dongler.html[Articulating wall mount] |$630
-|https://www.bhphotovideo.com/c/product/1068588-REG/chief_pac526f_pac516_pre_wire_in_wall_box.html[https://www.bhphotovideo.com/c/product/1068588-REG/chief_pac526f_pac516_pre_wire_in_wall_box.html[Wall box]] |$120
+|https://www.bhphotovideo.com/c/product/1068588-REG/chief_pac526f_pac516_pre_wire_in_wall_box.html[Wall box]] |$120
 |Four network jacks |[red]#Contractor Pricing Needed#
 |*Total Cost* |*$9,770*
 |===
 
-==== *Living Room 2*
+.*Living Room 2*
 [cols="1,1", options="header,footer"]
 |===
 |Item |Cost
@@ -56,12 +56,12 @@ Provide a collaboration and community space with presentation and media consumpt
 |https://www.crestron.com/Products/Video/HDMI-Solutions/HDMI-Extenders/HD-RX-4K-210-C-E[HDMI auto switcher] |$1700
 |https://www.bhphotovideo.com/c/product/1544098-REG/simply45_do_l001_proav_4k_loaded_dongler.html[Ring of HDMI adapters] |$115
 |https://www.bhphotovideo.com/c/product/1544098-REG/simply45_do_l001_proav_4k_loaded_dongler.html[Articulating wall mount] |$630
-|https://www.bhphotovideo.com/c/product/1068588-REG/chief_pac526f_pac516_pre_wire_in_wall_box.html[https://www.bhphotovideo.com/c/product/1068588-REG/chief_pac526f_pac516_pre_wire_in_wall_box.html[Wall box]] |$120
+|https://www.bhphotovideo.com/c/product/1068588-REG/chief_pac526f_pac516_pre_wire_in_wall_box.html[Wall box] |$120
 |Four network jacks |[red]#Contractor Pricing Needed#
 |*Total Cost* |*$9,770*
 |===
 
-==== *Everywhere (all open space, elevator lobby, corridor, kitchen)*
+.*Everywhere (all open space, elevator lobby, corridor, kitchen)*
 [cols="1,1", options="header,footer"]
 |===
 |Item |Cost
@@ -80,7 +80,7 @@ Provide a collaboration and community space with presentation and media consumpt
 |*Total Cost* |*$8,535*
 |===
 
-==== *Total Equipment Cost Estimate*
+.*Total Equipment Cost Estimate*
 [cols="1,1", options="header,footer"]
 |===
 |AV Gear |$26328
