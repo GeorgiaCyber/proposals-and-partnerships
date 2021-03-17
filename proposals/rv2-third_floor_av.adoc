@@ -1,7 +1,7 @@
 = RV2-Third Floor AV
 :!toc:
 :backend: pdf
-:pdf-theme: gcc-grey
+:pdf-theme: gcc-dark
 :title-page:
 
 == Summary
