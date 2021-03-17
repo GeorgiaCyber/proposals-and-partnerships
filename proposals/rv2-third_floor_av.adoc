@@ -1,7 +1,7 @@
 = RV2-Third Floor AV
 :!toc:
 :backend: pdf
-:pdf-theme: gcc-blue
+:pdf-theme: gcc-light
 
 == Summary
 Provide a collaboration and community space with presentation and media consumption capabilities.
