@@ -1,7 +1,7 @@
 = RV2-Third Floor AV
 :!toc:
 :backend: pdf
-:pdf-theme: gcc-light
+:pdf-theme: gcc-blue
 :title-page:
 
 == Summary
@@ -24,6 +24,7 @@ Provide a collaboration and community space with presentation and media consumpt
 .*Kitchen*
 [cols="2,1", options="header,footer"]
 |===
+|Item |Cost
 |https://www.sharpnecdisplays.us/products/displays/v554q[55” NEC Display] |$1849
 |https://www.dell.com/en-us/work/shop/desktops-all-in-one-pcs/optiplex-3080-micro/spd/optiplex-3080-micro/s019o3080mffus[Dell Micro PC] |$700
 |https://www.bhphotovideo.com/c/product/1068588-REG/chief_pac526f_pac516_pre_wire_in_wall_box.html[Wall box] |$120
