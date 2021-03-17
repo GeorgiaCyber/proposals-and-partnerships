@@ -2,6 +2,7 @@
 :!toc:
 :backend: pdf
 :pdf-theme: gcc-light
+:title-page:
 
 == Summary
 Provide a collaboration and community space with presentation and media consumption capabilities.
