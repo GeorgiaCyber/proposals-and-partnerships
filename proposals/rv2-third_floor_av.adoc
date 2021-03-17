@@ -9,7 +9,7 @@ Provide a collaboration and community space with presentation and media consumpt
 === Spaces
 
 .*Elevator Lobby*
-[cols="1,1", options="header,footer"]
+[cols="2,1", options="header,footer"]
 |===
 |Item |Cost
 |https://www.sharpnecdisplays.us/products/displays/v554q[55” NEC Display]  |$1849
@@ -21,7 +21,7 @@ Provide a collaboration and community space with presentation and media consumpt
 |===
  
 .*Kitchen*
-[cols="1,1", options="header,footer"]
+[cols="2,1", options="header,footer"]
 |===
 |https://www.sharpnecdisplays.us/products/displays/v554q[55” NEC Display] |$1849
 |https://www.dell.com/en-us/work/shop/desktops-all-in-one-pcs/optiplex-3080-micro/spd/optiplex-3080-micro/s019o3080mffus[Dell Micro PC] |$700
@@ -32,7 +32,7 @@ Provide a collaboration and community space with presentation and media consumpt
 |===
 
 .*Living Room 1*
-[cols="1,1", options="header,footer"]
+[cols="2,1", options="header,footer"]
 |===
 |Item |Cost
 |https://www.bhphotovideo.com/c/product/1407638-REG/samsung_85_qm85f_qm_f_series.html[85” Samsung Display] |$6625
@@ -41,13 +41,13 @@ Provide a collaboration and community space with presentation and media consumpt
 |https://www.crestron.com/Products/Video/HDMI-Solutions/HDMI-Extenders/HD-RX-4K-210-C-E[HDMI auto switcher] |$1700
 |https://www.bhphotovideo.com/c/product/1544098-REG/simply45_do_l001_proav_4k_loaded_dongler.html[Ring of HDMI adapters] |$115
 |https://www.bhphotovideo.com/c/product/1544098-REG/simply45_do_l001_proav_4k_loaded_dongler.html[Articulating wall mount] |$630
-|https://www.bhphotovideo.com/c/product/1068588-REG/chief_pac526f_pac516_pre_wire_in_wall_box.html[Wall box]] |$120
+|https://www.bhphotovideo.com/c/product/1068588-REG/chief_pac526f_pac516_pre_wire_in_wall_box.html[Wall box] |$120
 |Four network jacks |[red]#Contractor Pricing Needed#
 |*Total Cost* |*$9,770*
 |===
 
 .*Living Room 2*
-[cols="1,1", options="header,footer"]
+[cols="2,1", options="header,footer"]
 |===
 |Item |Cost
 |https://www.bhphotovideo.com/c/product/1407638-REG/samsung_85_qm85f_qm_f_series.html[85” Samsung Display] |$6625
@@ -62,7 +62,7 @@ Provide a collaboration and community space with presentation and media consumpt
 |===
 
 .*Everywhere (all open space, elevator lobby, corridor, kitchen)*
-[cols="1,1", options="header,footer"]
+[cols="2,1", options="header,footer"]
 |===
 |Item |Cost
 |https://www.bhphotovideo.com/c/product/1349513-REG/denon_dn_350ui_internet_radio_usb_fm_tuner_audio.html[Denon DN-350UI internet radio] |$300
@@ -81,7 +81,7 @@ Provide a collaboration and community space with presentation and media consumpt
 |===
 
 .*Total Equipment Cost Estimate*
-[cols="1,1", options="header,footer"]
+[cols="2,1", options="header,footer"]
 |===
 |AV Gear |$26328
 |Sound Masking |$8535
