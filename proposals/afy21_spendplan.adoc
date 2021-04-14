@@ -1,0 +1,39 @@
+= AFY21 Spend Plan
+:!toc:
+:backend: pdf
+:pdf-theme: gcc-light
+
+== Current Situation
+
+Of the $167,000 we received for the rural coding project:
+
+* $20,000/$97,000 dedicated to software engineering has been obligated on contract
+* 0/$20,000 dedicated to development hosting has been obligated (this would typically be an 'internal' payment for support rendered)
+* 0/$50,000 dedicated to content development has been obligated (this would either be an 'internal' payment or a contract payment, depending on the topic at hand and available internal skills)
+
+Additionally, the GCC had internal outlays of $62,652.83 for the Rural Broadband project, of which $30,000 was appropriated in AFY21 ($30,000 of the $197,000).
+This leaves a debit of $32,652.83 of internal funds that were spent to support the state effort.
+
+== Possible Courses of Action
+
+. Full Cost Recoupment
+** Place remaining $77,000 marked for software engineering on contract (pending confirmation that current vendor is succeeding - will be confirmed by end of week)
+** Take entirety of $20,000 marked for 'development hosting' and $12,652.83/$50,000 marked for 'content development' and allocate to other GCC uses to cover internal outlays for rural broadband.
+Note that the rural broadband project and rural coding project are tightly integrated and were issued in the same appropriation line item.
+We can accurately state that spending on rural broadband is in accordance with legislative intent and demonstrate that to any potential auditors.
+** Take balance of 'content development' funding and either:
+*** Re-allocate it to other GCC uses (including adding additional funds to contract software engineering) and use internal labor to create all content (payment model)
+*** Blended approach where it is all allocated to contractual content development and what remains is created with internal labor
+
+. Capital Investment in Preparation for FY2022 Funds
+** Place all remaining $147,000 on contract for software engineering (pending confirmation that current vendor is succeeding - will be confirmed by end of week), bringing forward FY2022 development timeline
+** Do all content development using internal labor
+
+. Blended approach
+** Place remaining $77,000 marked for software engineering on contract (pending confirmation that current vendor is succeeding - will be confirmed by end of week)
+** Take some portion of remaining $70,000 and re-allocate to GCC needs and execute balance of requirement with internal labor
+
+== Recommended Course of Action
+
+It's difficult to ascertain the value of pending projects without full budget visibility, but I can confidently say that whatever money is invested into software engineering will be spent wisely and yield excellent returns for the state given the 'pay once, use everywhere' model we opted for.
+We are not in danger of not meeting requirements for the end of the FY with the remaining $77,000, but any additional funds would set us ahead in FY2022 and let us spend more money on content to serve more users (or alternatively, add even more advanced features and functionality).
