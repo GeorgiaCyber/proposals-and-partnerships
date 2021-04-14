@@ -1,0 +1,45 @@
+= Rural Broadband Project Media Day Readahead
+Chris Apsey <capsey@augusta.edu>
+:!toc:
+:backend: pdf
+:pdf-theme: gcc-light
+
+== Definitions
+
+* **Fixed-Wireless Broadband:** A group of technologies that use terrestrial radio waves to deliver digital data over long distances in order to provide broadband Internet service.  This is contrasted with wired (fiber, cable) broadband services and satellite broadband Internet services which rely on physical wires or satellites to provide service.
+
+* **Unlicensed vs. Licensed Wireless:** Certain wireless technologies are exclusive-use for a geographical area and are considered 'licensed'.
+Examples of this are the technologies that power our cell phones.
+Other fixed wireless technologies are unlicensed and operate on a first-come, first-serve basis.
+An example of this is in-home WiFi.
+Both licensing models have advantages and disadvantages, and we will be testing both types.
+
+* **TV Whitespaces (TVWS):** Technology that relies on re-allocating unused broadcast TV channels.
+Because this technology operates on a very low frequency, it has excellent propagation characteristics and is an excellent choice for hard-to-reach areas where other technologies are unsuitable.
+It's downsides are that it is relatively expensive when compared to other technology types and is only available depending on broadcast TV utilization in a given area.
+It should be used when no other technologies are viable.
+
+* **Citizens Broadband Radio Service (CBRS):** This technology was recently opened up for use by the FCC and has good propagation characteristics and excellent channel availability.
+It is considered to be a good trade-off between cost and efficacy and will likely be a workhorse in any viable rural broadband solution, which is why we are testing equipment in this band from two different vendors.
+
+* **Educational Broadband Service/Broadband Radio Service (EBS/BRS):** This group of technologies is awaiting approval for use in broadband delivery pending FCC action.
+It has even better propagation characteristics than CBRS and higher power limits, with the downside being that it has less available bandwidth and requires licensing (and is thus subject to bidding wars between vendors, which drives up cost).
+
+== Synopsis
+
+The most promising technologies for rural broadband are almost entirely wireless, both in licensed and unlicensed spectrum.
+Each technology has its own advantages and disadvantages, which necessitates on-the-ground testing of them in Georgia across several months in various temperatures, weather, terrain types, and radio frequency (RF) environments.
+The goal is to collect efficacy data for each technology in as many scenarios as possible - replicating any conditions that might be encountered if the system was up and operational.
+
+The 5 technologies that would be tested are:
+
+* TV Whitespaces (470-698 Mhz)
+* CBRS (3.5 Ghz)
+* Unlicensed 900 Mhz
+* Unlicensed 5 Ghz
+* EBS/BRS (2.5 Ghz)
+
+Each technology would be strategically installed in various locations to strategically collect test performance data over time.
+The test data would then be used to inform which technology would work best for a given area, which would drive adjustments to the costing model in terms of how many towers would be needed, how much backhaul would have to be purchased, etc.
+There will be no one-size-fits all solution, and there may even be scenarios where fiber connections may be more cost effective than wireless.
+The design plan must allow for a flexible and modular approach that encourages vendor interoperability and must not allow any sort of vendor lock-in with proprietary technologies.
